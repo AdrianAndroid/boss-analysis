@@ -132,5 +132,11 @@
     "skills": 101,
     "high": 12,
     "file": "curriculum/skill_map.json"
+  },
+  "stage7_git": {
+    "status": "local_committed",
+    "commit": "31220a2",
+    "tracked_files": 34,
+    "remote": "pending: 待用户提供私有仓库地址或安装 gh CLI"
   }
 }

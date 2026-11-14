@@ -13,14 +13,17 @@ boss-analysis/
 │   ├── tabs.json           # 目标 tab、城市、采集上限、限速参数
 │   └── skills_dict.json     # 技能/关键词词典
 ├── scripts/
-│   ├── analyze.py           # 技能/关键词统计（覆盖数 + 词频，分 tab）
-│   ├── collect_list.py      # 列表采集（待实现）
-│   ├── collect_detail.py     # 详情采集（待实现）
-│   └── build_report.py       # 报告生成（待实现）
+│   ├── detail_store.py      # 详情落盘 / 断点队列 / job_key 生成
+│   ├── clean.py              # 清洗结构化、单批去重、校验指标
+│   ├── build_report.py       # 技能/关键词统计与 Markdown 报告生成
+│   ├── build_curriculum.py   # 技能→教程映射清单生成
+│   ├── analyze.py            # 旧版词频统计（兼容保留）
+│   ├── collect.mjs          # Playwright 本地复采骨架（规划项，未启用）
+│   └── lib/                  # Playwright 骨架复用的配置/身份键/存储模块
 ├── data/
-│   ├── raw/<日期>/          # 每期原始快照（list / detail）
+│   ├── raw/<日期>/          # 每期原始快照（list / detail / companies）
 │   └── processed/           # 清洗后结构化明细（CSV + JSON）
-├── reports/<日期>/          # 每期分析报告
+├── reports/<日期>/          # 每期分析报告（analysis.json + Markdown）
 ├── curriculum/              # 教程映射设计（schema + 待学清单）
 └── progress/checkpoint.json # 断点续采进度记录
 ```
@@ -28,9 +31,17 @@ boss-analysis/
 ## 快速开始
 
 ```bash
-# 统计现有底稿（读取 data/raw 最新快照，回退 data/jobs_detail.json）
-python3 scripts/analyze.py
+# 1) 清洗去重：raw 底稿 -> processed 明细（含校验指标）
+python3 scripts/clean.py
+
+# 2) 技能/关键词分析 + 生成 Markdown 报告
+python3 scripts/build_report.py
+
+# 3) 生成技能→教程映射清单（不写教程正文）
+python3 scripts/build_curriculum.py
 ```
+
+> 本期采集走内置浏览器（已登录、免扫码、断点续采）；`collect.mjs` 为后续脱离内置浏览器的周期复采骨架，首次运行需人工扫码，其登录态目录 `auth/` 已被 gitignore。
 
 ## 数据口径（摘要，详见 SPEC.md）
 
