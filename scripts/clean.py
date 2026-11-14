@@ -19,6 +19,18 @@ DATE = "2026-11-15"
 RAW = ROOT / "data" / "raw" / DATE
 PROC = ROOT / "data" / "processed" / DATE
 
+NOISE_RE = re.compile(r"BOSS直聘|BOSS|boss|Boss|直聘|kanzhun", re.I)
+
+
+def clean_desc(text):
+    """去除详情页混入的水印/遮挡文本（BOSS直聘/boss/直聘/kanzhun），还原被插断的词。"""
+    if not text:
+        return ""
+    t = NOISE_RE.sub("", text)
+    t = re.sub(r"[ \t]{2,}", " ", t)
+    return t.strip()
+
+
 EXP_RE = re.compile(r"(经验不限|应届|\d+\s*-\s*\d+\s*年|\d+\s*年以上|\d+\s*年)")
 EDU_RE = re.compile(r"(博士|硕士|本科|大专|学历不限)")
 LOC_RE = re.compile(r"北京|上海|广州|深圳|杭州|成都|武汉|南京|西安|亦庄|望京|海淀|朝阳|昌平|丰台|大兴|东城|西城|上地|学院路|亚运村|万柳|苏州桥|回龙观|酒仙桥|大望路|清河|西二旗|中关村|太阳宫|霄云路|五棵松|善各庄|来广营|高碑店|安贞|交道口|西坝河|马连洼|西北旺|三里屯|什刹海")
@@ -93,7 +105,7 @@ def clean():
             "company_stage": r.get("company_stage"),
             "company_size": r.get("company_size"),
             "company_industry": r.get("company_industry"),
-            "desc": (r.get("desc") or "").strip(),
+            "desc": clean_desc(r.get("desc")),
             "dup_of": dup_of,
             "period_status": None,
         }

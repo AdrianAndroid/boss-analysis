@@ -46,7 +46,8 @@ def main():
         t = " ".join([j.get("title", ""), j.get("desc", ""), " ".join(j.get("tags", []) or [])]).lower()
         texts.append((j["url"], t))
 
-    skills = []
+    # 按技能名归并（跨组别名/多对多归属去重）
+    merged = {}
     for group, info in analysis["overall"].items():
         for kw in info["keywords"]:
             name = kw["keyword"]
@@ -54,17 +55,26 @@ def main():
             freq = kw["freq"]
             sources = [url for url, t in texts if hit(name, t)]
             prio = priority(cover) if group != SOFT_GROUP else "低"
-            skills.append({
-                "skill": name,
-                "category": group,
-                "demand_count": cover,
-                "freq": freq,
-                "priority": prio,
-                "prerequisites": [],
-                "outline_placeholder": "",
-                "resource_status": "todo",
-                "source_jobs": sources,
-            })
+            if name in merged:
+                m = merged[name]
+                m["demand_count"] = max(m["demand_count"], cover)
+                m["freq"] = max(m["freq"], freq)
+                m["source_jobs"] = sorted(set(m["source_jobs"]) | set(sources))
+                if m["priority"] == "低" and prio != "低":
+                    m["priority"] = prio
+            else:
+                merged[name] = {
+                    "skill": name,
+                    "category": group,
+                    "demand_count": cover,
+                    "freq": freq,
+                    "priority": prio,
+                    "prerequisites": [],
+                    "outline_placeholder": "",
+                    "resource_status": "todo",
+                    "source_jobs": sources,
+                }
+    skills = list(merged.values())
 
     # 排序：硬技能在前，按优先级、覆盖数
     rank = {"高": 0, "中": 1, "低": 2}
