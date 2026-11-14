@@ -1,0 +1,205 @@
+[
+  {
+    "tab": "recommend",
+    "url": "/job_detail/43b1410b1b7a71fa0nN539q4EFRY.html",
+    "title": "Android 专家工程师",
+    "company": "滴滴",
+    "desc": "岗位职责 1. 负责滴滴国际化外卖用户端子方向业务领域的业务迭代、技术演进与团队管理工作。2. 承接业务目标与产品需求，参与产品需求讨论及技术方案制定和实现，保障交付效率。3. 主导技术规划与架构演进，负责核心技术方案设计、技术选型及重大技术决策，持续提升移动端稳定性、性能体验和研发效率。4. 推动AI Coding与专项Agent在团队内的规模化落地。5. 承担团队建设与日常管理职责。任职资格 1. 计算机、软件相关专业本科及以上，5年及以上移动端研发经验，2年及以上团队管理经验。2. 扎实计算机基础和移动端功底，完整商业级应用设计研发上线经验。3. 精通 Android（Java/Kotlin）技术栈，熟悉 Flutter、React Native 等跨端方案。4. 大型移动端应用架构设计与演进经验，工程架构、性能优化、稳定性建设、研发效能。5. 复杂问题分析与技术攻坚。6. 业务理解与跨团队协作。7. 具备AI Coding工作流或Agent开发实践经验，熟悉主流大模型及智能体研发工具。8. 团队管理能力。"
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/c2a6d033aed05bce0nF409u8F1ZQ.html",
+    "title": "android framework工程师",
+    "company": "天地智云",
+    "desc": "负责 AOSP Native 系统服务和守护进程设计开发维护及性能优化（进程模型、服务生命周期、Binder/AIDL、Socket 通信、线程模型、资源管理、Watchdog）；init 启动流程、*.rc、SELinux 策略、系统权限；SystemUI/Launcher/Settings 系统应用开发；Android Framework 核心模块（AMS、WMS、PMS、IPackageManager）；Camera/Audio/Sensor/Wi-Fi/Radio/RIL 模块集成适配、HAL/Vendor 层；实时音视频链路 WebRTC（PeerConnection、DataChannel、ICE、STUN/TURN、DTLS/SRTP、RTP/RTCP）；H.264/H.265、Opus/PCM 编解码；UDP/KCP 低延迟传输与弱网优化（FEC、RTT、拥塞控制、码率自适应）；AOSP 编译裁剪（Soong/Blueprint、Android.bp、Make/Android.mk、CMake、NDK 交叉编译）；Crash/ANR/卡顿/内存泄漏定位。任职：本科及以上，3年以上 C/C++，Android Native/AOSP/RTC 经验；熟练 C++11/14/17、STL、智能指针、多线程；Linux/Android Native、POSIX、IPC；AOSP 源码阅读编译定制；Java/Kotlin 与 C++ 跨层协同；HAL；WebRTC/SDP/ICE；音视频基础；TCP/UDP Socket；GDB/LLDB、logcat、Perfetto、systrace、Wireshark。加分：云手机/云游戏/远程桌面/RTC/直播连麦；WebRTC/libdatachannel 源码；KCP/FEC/NACK/GCC/QoS；OpenH264/FFmpeg/libyuv；MediaCodec/VPU/GPU 硬编解码；AOSP 裁剪/Vendor 适配/CTS；JADX/APKTool/Smali/Frida 逆向；自动化测试与稳定性治理。"
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/c44ddc20d931a26a0nx42N27GVdV.html",
+    "title": "采购高级经理/总监（硬件/软件/数据标注）",
+    "company": "世通亨奇",
+    "desc": "负责 IT 硬件、软件服务采购管理，搭建合规供应链体系，统筹成本、质量、交付、供应商及风控。搭建采购管理制度流程与降本策略；服务器/工作站/路由器等 IT 硬件与软件服务采购，把控质量交付数据安全合规；成本管控与供应商资源池建设；全流程风控与合同履约。任职：本科及以上，8年以上采购，3年以上采购总监全盘管理；熟悉 IT 硬件/软件服务/数据标注外包采购；精通供应链搭建、商务谈判、成本降本、供应商管理；跨部门协同与合规保密意识。"
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/d56a13a36213fee70nx939m8F1RQ.html",
+    "title": "Android开发工程师（海外应用）-Base成都",
+    "company": "TestBird",
+    "desc": "独立负责海外 Android 应用开发，配合产品经理和 UI 设计协同开发。任职：3年及以上 Android 开发经验，能独立开发应用；熟练 Kotlin、主流框架；Android 内存优化、性能优化实战；不同版本系统及厂商型号兼容性适配；有海外工具/海外内容 APP 经验；沟通协作与主动性。"
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/a2af2a8a018352800nd82Nm8FlBZ.html",
+    "title": "能源事业部总经理 (MJ000013)",
+    "company": "新中大科技",
+    "desc": "能源软件业务经营战略、年度目标及实施计划制定，对营收市场份额负责；产品与解决方案规划落地；市场活动与生态伙伴体系建设；区域业务支持；经营制度流程规范、营销方法论与销售工具包；团队能力建设。任职：计算机/管理/营销本科及以上；知名 ERP 软件厂商同岗位 5 年以上经验，精通 ERP 业务模式产品特性；业务战略规划、体系建设、团队赋能；系统分析、团队管理、跨部门协作；能源行业认知与客户资源优先。"
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/577bdbc183eecd900nx-39m_EVNS.html",
+    "title": "智能座舱软件架构师",
+    "company": "某大型汽车研发/制造公司",
+    "desc": "智能座舱方向，细分岗位包括：安卓应用（桌面/系统UI/设置、音视频图片FM蓝牙、车身控制空调氛围灯、蓝牙电话多屏互动、文件管理、语音、地图、手机互联、OTA、仪表HMI、3D及SR引擎）；算法架构师（软件架构/视觉算法/音频算法）；中间层（QNX/Linux、安卓Framework 音视频/系统调度/车控/通信/蓝牙WIFI、安卓HAL 硬件抽象、MCU-SWC、MCU AutoSAR）。"
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/c38887d644184b280nF-2t64FFRR.html",
+    "title": "资深大数据架构师",
+    "company": "某大型计算机软件公司",
+    "desc": "核心实时作业开发维护；实时计算平台及线上作业稳定运行优化保障；实时数仓与大数据基础能力建设。任职：本科及以上，10年大数据开发经验，熟悉 AWS；精通 Java，优秀 Debug/Profiling 能力；面向对象设计模式与系统架构设计；熟悉 Hadoop/HBase/Flink/SparkStreaming 等开源大数据技术。"
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/cd9e5fa36ad5bab20nB909y8EVJQ.html",
+    "title": "Sr. Finance Manager 高级财务BP",
+    "company": "亚马逊中国",
+    "desc": "External job description\nAmazon Web Services (AWS) is a pioneer in cloud computing — a high-growth, fast-moving group where new and diverse challenges arise every day. The AWS Finance team supporting GCR Sales is looking for an experienced Finance Manager to join our team.\nThis role serves as a trusted strategic advisor to GCR Sales Leadership, not just reporting on the business, but shaping its direction through data-driven insights, investment strategy, and forward-looking financial guidance. You will partner with senior leaders to drive revenue strategy, evaluate customer investments, and influence resource allocation across one of AWS's most dynamic regions.\nWe are looking for someone who transforms analysis into action: turning data into narratives that move needles, building frameworks that scale, and driving cross-functional alignment on high-stakes decisions. The ideal candidate thinks beyond traditional finance, they see around corners, connect dots across the business, and have the courage to challenge conventional thinking when the data tells a different story.\nKey job responsibilities\n• Partner with Sales leadership team to shape revenue strategy, evaluate trade-offs, and align investments to long-term growth\n• Proactively identify risks, opportunities, and inflection points; translate into actionable recommendations for senior leadership\n• Lead annual planning (OP1/OP2) and long-range financial modeling, partnering with WW AWS Finance on targets and narrative\n• Own revenue forecasting, profitability analysis, and productivity metrics; build intuitive models for real-time decision-making\n• Drive financial due diligence on complex programs and lead cross-functional alignment to resolution\n• Design scalable reporting and analytical frameworks to support sales coverage planning, headcount optimization, and resource allocation\n• Bilingual in Chinese (Mandarin) and English\nInternal job description\nBasic qualifications\nBA/BS in Finance, Accounting, Business, Economics, or related discipline\n7+ years of progressive experience in business finance, FP&A, or strategic finance, with at least 2 years at a senior IC or people leadership level\nDemonstrated experience partnering with senior leaders (Director+) to influence strategy and investment decisions\nAdvanced financial modeling skills with ability to build scalable frameworks from ambiguity\nStrong executive communication skills (written and verbal)\nExperience in a matrixed, global organization navigating competing priorities\nPreferred qualifications\nMBA or Master's degree\nExperience in technology, cloud computing, or high-growth industries\nTrack record driving cross-functional programs end-to-end from analysis through execution\nExperience with SQL, Python, and AI/automation tools\nBackground spanning multiple finance disciplines (e.g. Ops Finance, Finance Tech, Sales Finance)\nExperience with deal structuring, customer investment frameworks, or revenue strategy in B2B/enterprise context\nSolid business judgment and controllership focus balancing speed with rigor\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit <a href=\"https://amazon.jobs/content/en/how-we-hire/accommodations\">https://amazon.jobs/content/en/how-we-hire/accommodations</a> for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/3ea77e51b344ce860nV82N20FVNX.html",
+    "title": "大件物流解决方案专家",
+    "company": "北京某中型ToB SaaS独角兽公司（IPO申请中）",
+    "desc": "供应链&服务\n职位描述\n1.针对商业类目和场景发展，对应输出物流配套解决方案并落地，包括网络规划、配送模式、成本设计，正逆向运营标准，支撑⼯具和产品。\n2.物流能⼒新建和优化，⾯向经营的多类目大⼩家电、家具家装和手机数码等，持续提升优品的物流基础运营能力，形成公司竞争优势。\n3.分析物流成本结构、通过商务谈判，仓网规划、路线优化、降本项目等方式实现降本目标。\n4.日常物流的仓配运营和大促运营保障，解决省域提出的物流服务异常问题。\n5.多场景，多业态下物流履约体验的体系化的提升和改善。\n职位要求\n1.本科及以上学历，物流管理、供应链管理专业优先。\n2.5年以上物流解决方案或者运营经验，其中3年以上大家电物流领域经验，有即时配送工作经验优化。\n3.精通物流全链路运作，熟悉数据分析工具及物流数字化系统，能够通过数据驱动运营优化及问题解决；\n4.具备项目管理能力，主导过0-1物流网络搭建、服务商体系能力建设或大促保障等复杂项目，拥有跨部门资源整合与协同经验；\n5.具备优秀的沟通协调能力、抗压能力及学习适应性，能够快速响应业务变化并推动方案落地；"
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/c95b0786e8992dad0nx539q1FFJV.html",
+    "title": "服务端/全栈leader",
+    "company": "北京临场感科技",
+    "desc": "岗位一共3轮面试，第一轮为笔试，介意勿投\n职位描述\n1. 使用AI Coding（如 Claude Code）完成90%以上的代码产出，提升⼿⼯写代码的速度和质量； \n2. 负责平台核⼼系统的设计开发及维护工作； \n3. 参与产品需求分析与评审，提出有建设性的技术解决方案； \n4. 解决各类潜在系统技术风险，保证系统安全、可⽤、高性能运行。 \n职位要求\n1. 深度理解 AI Coding 适配的复杂问题和大型项目的拆分策略； \n2. 计算机相关专业，全日制统招本科以上学历，211、985优先； \n3. 具有良好的编码习惯，优秀的编程思想； \n4. 熟悉MySQL 、PostgreSQL、MongoDB、Redis、消息队列等常用组件； \n5. 对新技术持有敏感度并愿意致力于新技术的探索和研究； \n6. 有强烈的责任心和团队精神，具备一定的学习成长能力和沟通协作能力。"
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/34722c82b6649d2e0nd42tW1GFtY.html",
+    "title": "大数据架构师",
+    "company": "北京某大型云计算上市公司",
+    "desc": "负责公司级大数据分布式计算平台整体架构设计、技术演进与路线规划，支撑 PB/EB 级海量数据离线计算、实时流式计算场景落地。\n深入 Apache Spark、Flink 等计算引擎源码，针对万亿级数据量、超大状态、极端反压等复杂场景，开展内核级优化、Bug 修复与功能定制增强。\n主导流批⼀体架构建设，统⼀离线与实时计算链路，提升数据研发效率，保障端到端数据⼀致性、准确性与低延迟。\n设计与落地湖仓一体（DataLakehouse）架构，整合 Hudi/Iceberg/Delta Lake 等数据湖存储与高性能 OLAP 引擎，构建统⼀数据分析底座。\n负责平台高可用、高稳定、高性能体系建设：制定调度策略、资源隔离、容灾容错机制，搭建可观测平台与数据质量体系，保障核心 SLA。\n牵头关键技术攻坚、方案评审、规范制定，推动技术成果沉淀与团队能力提升。"
+  },
+  {
+    "tab": "recommend",
+    "url": "/job_detail/35a2db6e020985620nB80tS4FldY.html",
+    "title": "知识工程咨询/解决方案专家",
+    "company": "海致星图",
+    "desc": "岗位职责\n1、主导金融行业-知识工程体系总体规划，包括现状调研、痛点分析、能力成熟度评估，输出调研评估报告。\n2、设计知识管理⽬标架构蓝图，涵盖知识分类、知识全⽣命周期管理、治理机制、运营保障及安全规范。\n3、规划知识⼯程平台应用架构，明确RAG、本体、知识图谱的关联关系及核心模块功能。\n4、制定实施路线图，结合同业经验与实际情况，推动知识⼯程平台落地。\n负责相关方案汇报（PPT）及招投标支持。\n任职要求\n经验：5年以上 知识管理/知识工程/知识图谱相关经验，有全行级规划项目经历优先。\n能力：熟悉知识管理方法论，了解RAG、知识图谱、本体建模等关键技术，能撰写高质量咨询报告。\n沟通：具备优秀的方案汇报和客户沟通能力，能与技术团队高效协作。\n产出：能独立完成现状调研报告、架构设计说明书、实施路线图等核心文档。\n加分项\n有知识工程平台从0到1落地经验。\n熟悉大模型在金融知识服务中的应用（如智能助手、Agent）。"
+  },
+  {
+    "tab": "harmonyos",
+    "url": "/job_detail/61e7203aa743f40f0nJ72d2_GFVQ.html",
+    "title": "鸿蒙App开发工程师(XJ003154)",
+    "company": "牛电信息",
+    "desc": "岗位职责： \n1.负责鸿蒙（HarmonyOS）手机App客户端的架构设计、优化改进及前沿技术研究与应用。 \n2.独立完成复杂业务功能模块的设计与开发，确保代码质量与良好的用户体验。 \n3.根据产品需求，深度参与鸿蒙原⽣应⽤开发，推进多端能⼒对齐与方案统一，完成移动端产品的开发与迭代。 \n4.验证和修复测试中发现的技术问题，负责应⽤性能与持续体验优化，保障线上质量。 \n任职要求： \n1.计算机、软件工程、电子信息等相关专业本科及以上学历。3年以上移动端客户端开发经验（1年以上鸿蒙原生应用开发经验），具备独立架构设计能力。\n2.具备扎实的ArkTS/TypeScript语言基础，掌握面向对象编程思想；了解常用算法/数据结构及设计模式。\n3.熟悉鸿蒙应用调试工具和方法，能够解决各类复杂技术问题；理解HarmonyOS系统底层机制，具备通过系统原理分析定位问题的能力。\n4.有大型鸿蒙原生应用开发、Android/iOS向鸿蒙迁移经验者优先。\n5.具备规范的编程习惯，良好的沟通协作能力和抗压能力，敢于面对复杂技术挑战。 \n6.具备VibeCoding（AI辅助编程）实战经验，熟练使用ClaudeCode、Codex、Cursor等主流AI编程工具，能够通过编排AIAgent工作流、Prompt工程等方式，大幅提升从需求到交付的开发效率。"
+  },
+  {
+    "tab": "harmonyos",
+    "url": "/job_detail/e952a03b626e48ec0nx409S6FVpV.html",
+    "title": "AI客户端开发（iOS/Android）",
+    "company": "北京嘉泽源科技",
+    "desc": "AI 开发工程师（原生客户端架构，iOS / Android）\n公司介绍\nGEMINT 是一家面向北美及全球市场的收藏卡牌销售公司，聚焦宝可梦、体育球星卡、海贼王等主流收藏品类，提供涵盖卡牌销售与实物交付的服务。\n公司已获得⼀线美元基⾦投资，并与国际知名⾳乐人 Steve Aoki 建立合作。\nGEMINT ⾤用国际化团队协作模式，业务覆盖产品研发、卡牌采购与销售、品牌营销及用户服务。\n岗位信息\n工作地点：北京，线下办公\n工作性质：全职\n学历要求：本科及以上\n应聘方向：iOS 或 Android，按所应聘的平台匹配；另一平台经验为加分项。\n岗位定位\n负责 iOS 或 Android 原生客户端的架构设计与开发，建设研发 Agent 和执行 loop，协作统一跨端体验，承担从方案到上线的完整交付。\n岗位职责\n1. 建设客户端研发 Agent，贯通编码、构建、模拟器与设备验证、自动化测试及日志反馈。\n2. 设计分层、模块化、导航和状态管理，开发原生业务功能与公共组件，统一跨端接口和业务规则。\n3. 建设网络、认证、安全存储、推送与深链能力。\n4. 优化启动、渲染、内存和交互体验，处理崩溃、设备适配、弱网及状态恢复问题。\n5. 完善测试、构建、签名和发布流程，完成真机验收及应用商店上线，维护技术文档。\n任职要求\n1. 熟练使用 Claude Code、Codex、Cursor 等至少一种 AI 编程工具，有复杂功能或重构交付经验，能审查生成代码，通过构建、测试和运行验证质量。\n2. 具备 Agent 架构设计与实现能力，能设计规划、执行、验证和调度，选择单 Agent 或多 Agent 协作，处理任务依赖、并发、交接与结果合并。\n3. 能实现“规划 → 执行 → 观察 → 验证 → 纠错”的开发 loop，集成客户端工具与测试反馈，设定验收、停止、超时、重试及人工接管条件。\n4. 熟悉上下文工程、MCP 和 Skills，能管理预算、记忆与状态，设计结构化工具接口、权限与异常处理，支持幂等、持久化、中断恢复和失败回退，保留执行证据。\n5. 能建立客户端任务集与评测标准，衡量成功率、正确性、回归质量、迭代次数、耗时和成本，优化提示词、工具和编排并接入 CI/CD。\n6. 具备对应应聘方向的原生开发能力：iOS 掌握 Objective-C 或 Swift、UIKit、Xcode，能维护 Objective-C 工程；Android 掌握 Kotlin、Jetpack Compose、Coroutines / Flow、ViewModel、Gradle 和 R8，理解结构化并发与重组。\n7. 熟悉 MVC / MVVM、模块化与依赖管理，理解内存、异步并发和线程安全，能处理生命周期、状态恢复、设备适配及性能问题，独立设计和开发核心模块。\n8. 熟悉网络通信、认证、安全存储（Keychain / Keystore）、推送及深链（Universal Links / App Links），能处理会话失效和弱网恢复，具备自动化测试、签名发布与应用商店上线经验。\n9. 英语听说读写良好，能作为工作语言参与需求、技术讨论和代码评审，阅读英文资料并编写文档，适应国际化团队，主动同步进展和跨端协作。\n加分项\n- 建设过多 Agent 客户端协作、设备任务调度或研发评测体系，熟悉另一客户端平台。\n- 有 SwiftUI、WebView、3D、复杂动效或移动端性能优化经验。\n- 有 XCTest / XCUITest、Compose UI Test / Espresso 或移动端 CI/CD 实践。"
+  },
+  {
+    "tab": "android",
+    "url": "/job_detail/11e59b92852356390nxy3tq-EVpZ.html",
+    "title": "兼职 AI 编程（Codex）小程序集成员",
+    "company": "河北日上防盗门",
+    "desc": "工作周期：长期兼职\n每周工期：无要求\n工作时间：不限\n⼯作时段：不限\n结算⽅式：⽉结\n招聘截止时间：2027-01-10\n岗位职责\n1. 使用 Codex 辅助微信⼩程序代码生成、改写、排错，协助完成功能集成、接口联调、页面迭代\n2. 配合产品拆解需求，把业务需求转化为可执行的提示词，输出可在微信开发者工具正常编译的代码\n3. 协助调试小程序 BUG、修复兼容问题、对接后端接口、云开发配置，完成预览测试\n4. 整理 Codex 提示词、代码片段、常见问题，沉淀复用模板\n5. 线上协同，按节点交付，配合验收、修改迭代\n任职要求\n1. 核心：熟练使用 Codex 做代码生成、调试，不是只听过名字，有小程序实战落地经验\n2. 熟悉微信小程序原生开发、微信开发者工具，看得WXML/WXSS/JS，能识别 AI 生成代码的问题、改错\n3. 懂基础接口、API 对接、云开发，能做简单前后端联调\n4.会写高质量 Prompt，知道怎么引导 Codex 稳定输出符合小程序规范的代码，规避无效代码\n5.沟通顺畅，响应及时，能线上远程协作，有结果意识，交付前自测\n加分：会 Cursor、Claude Code；有商城 / 表单 / 会员类小程序集成经验；懂 Git"
+  },
+  {
+    "tab": "harmonyos",
+    "url": "/job_detail/a9a5c9a63f6ddbb30nx-09S6EVVT.html",
+    "title": "客户端工程师（跨端 / AI 产品）-至知科技",
+    "company": "至知科技",
+    "desc": "岗位职责：（跨端 / AI 产品方向，React Native 优先）\n1、双端 APP 开发与交付：基于 React Native 或 Flutter，负责 AI 产品在 iOS、Android 双端的开发与迭代，参与技术选型和架构设计，推动功能从需求到上线的完整交付。\n2、核心交互体验优化：开发和优化流式消息展示、Markdown 与代码块渲染、图片与⽂件交互、基础语⾳及历史会话等功能，关注输⼊、键盘、列表滚动和操作反馈等移动端体验。\n3、Agent 任务与状态管理：与后端协作实现任务进度、工具调用状态、⽣成结果展示等功能，处理弱网、连接中断、前后台切换、任务取消和恢复等场景。\n4、跨端适配与原生能力接入：处理 iOS、Android 的平台差异，完成必要的原生 SDK、权限和系统能力接入；合理组织共享代码和平台专属代码，沉淀可复用组件。\n5、性能、稳定性与版本维护：优化启动速度、内存占用和长列表渲染，接入必要的监控与崩溃分析；负责双端构建、签名、分发、上架及后续版本维护。\n6、交付质量与产品改进：参与需求评审和交互设计讨论，完成接口联调、双端自测与关键场景回归，跟进线上反馈，主动推动体验和稳定性改进。\n任职资格：\n1、本科及以上学历，计算机或相关专业，3 年以上客户端或跨端开发经验，具备扎实的编程基础和问题分析能力。\n2、熟练掌握 React Native 或 Flutter，具有实际跨端 APP 项目经验；优先考虑熟练使用 React Native、React 和 TypeScript 的候选人。\n3、实际参与过 iOS、Android 双端应用的发布及上线维护，熟悉双端构建、调试、签名和发布流程，能够独立定位常见平台问题。\n4、熟悉 iOS 或 Android 至少一端的原生开发，能够处理常见原生 SDK 接入、权限配置、构建配置和平台兼容问题。\n5、熟悉网络请求、异步任务及客户端状态管理，了解 SSE / WebSocket 等通信机制；有性能优化、崩溃排查或弱网问题处理经验。\n6、具备独立交付能力和质量意识，能够开展功能自测、补充必要的自动化测试，并与产品、设计、后端高效协作；关注 AI 产品体验，能合理使用 AI 编程工具并对交付结果负责。\n加分项：\n1、有从 0 到 1 开发并持续维护双端 APP 的经验。\n2、有 AI 对话、Agent、IM、内容工具类 APP，或流式富文本、音频交互相关经验。\n3、具备 React Web 开发经验，能够参与 Web 与客户端之间的业务逻辑复用及协作。\n4、有独立产品、开源项目，或较深入的原生模块开发与性能优化经验。"
+  },
+  {
+    "tab": "android",
+    "url": "/job_detail/51429691f0077ec30nJ509-9GVVV.html",
+    "title": "鸿蒙开发工程师",
+    "company": "天眼查",
+    "desc": "岗位概述\n我们寻找一位AI原生的鸿蒙端工程师。你不仅将AI作为代码补全工具，更能够以Agentic Coding作为主要开发⽅式，驱动AI Agent完成从需求拆解、架构设计、编码调试到测试发布的HarmonyOS应⽤开发全流程。\n该岗位的核⼼竞争力：优秀的鸿蒙工程判断⼒ × 高效编排AI Agent的能力。\n核心职责\n1. 现代开发方式：以Claude Code、Cursor、Codex等Agentic Coding工具为主要生产力，端到端交付HarmonyOS应用与功能，持续优化AI工具链和研发工作流。\n2. 需求拆解能力：将模糊需求拆解为清晰、可执行、可验证的任务规格，使AI Agent能够自主、可靠地完成开发并自我验证。\n3. AI协作规范建设：设计高质量的Prompt、Context、规则文件与开发约束，沉淀团队级AI协作规范、鸿蒙开发知识和可复用Workflow。\n4. 鸿蒙业务与架构建设：负责鸿蒙客户端核心功能、基础模块、组件库、DS与Token体系的研发和维护，持续优化应用架构。\n5. 工程自动化建设：参与AST流水线及其他研发自动化能力在鸿蒙工程中的建设，完善生成、Hvigor构建、测试、签名和发布验证流程。\n6. 代码质量管控：保障应用架构、功能正确性、性能、内存、并发和安全，严格审查AI生成代码，避免幻觉、过度设计和隐性缺陷。\n7. 验证闭环建设：通过单元测试、UI测试、构建检查、模拟器及真机运行，驱动Agent持续自我纠错，形成Test-first和Goal-driven开发闭环。\n8. 鸿蒙能力建设：结合HarmonyOS应用模型、系统能力和多设备协同特性，完成符合鸿蒙生态体验与规范的应用开发。\n9. 复杂任务编排：编排多Agent和并行任务，处理大型重构、系统能力迁移、跨模块改造和批量适配。\n10. 客户端能力沉淀：将鸿蒙端形成的任务规格、组件规范、测试方案、自动化工具和AI协作实践沉淀为其他客户端可复用的能力。\n任职要求\n1. 3年以上移动端开发经验，具备HarmonyOS原生应用开发和实际项目交付经验。\n2. 熟练掌握ArkTS、TypeScript和ArkUI，熟悉声明式UI、状态管理及复杂交互开发。\n3. 熟悉HarmonyOS Stage模型、Ability、UIAbility、ExtensionAbility、生命周期及应用上下文管理。\n4. 具备扎实的架构能力，熟悉MVVM、模块化、组件化、状态管理和多模块工程设计。\n5. 熟悉鸿蒙工程体系，包括DevEco Studio、Hvigor、依赖管理、HAP/HAR/HSP、签名打包及版本发布。\n6. 熟悉HarmonyOS网络、存储、通知、媒体、后台任务、权限及系统服务等常用能力。\n7. 熟悉单元测试、UI测试、模拟器和真机调试，具备性能、内存、功耗及稳定性问题的分析和优化能力。\n8. 已将Agentic AI编程作为日常主要开发方式，能够提供使用AI高效交付鸿蒙应用或功能的真实案例。\n9. 具备较强的任务拆解与规格化表达能力，能够将需求转化为Agent可执行、可验证的步骤。\n10. 具备严谨的代码审查和质量意识，能够识别AI生成代码中的幻觉、过度设计、隐藏缺陷、生命周期、内存和并发问题。\n11. 理解LLM的基本特性与边界，包括上下文窗口、工具调用、幻觉、不确定性和上下文污染。\n12. 具备较强的分析和解决问题能力，责任心强，善于沟通和协作。\n加分项\n- 有Android、iOS或跨端应用迁移至HarmonyOS的实际经验；\n- 熟悉一次开发、多端部署及分布式设备协同能力；\n- 有团队AI开发规范、Prompt工程、自定义Skill、MCP或自动化Workflow建设经验；\n- 熟悉TDD、CI/CD及自动化构建发布流程；\n- 熟悉华为应用市场上架流程、审核规范、隐私政策、权限申请和数据合规要求；\n- 有性能优化、稳定性治理、崩溃监控及线上问题排查经验；\n- 关注AI生成代码的第三方依赖、许可证、系统权限、用户数据和供应链安全。"
+  },
+  {
+    "tab": "harmonyos",
+    "url": "/job_detail/2ab799594fe52d2103d829W9EVpW.html",
+    "title": "Android工程师",
+    "company": "省钱快报",
+    "desc": "职位描述：\n1、负责省钱快报Android端功能模块的设计、开发、文档编写，参与产品需求的讨论、评审和功能实现，对项目质量负责；\n2、负责省钱快报Android端工程整体框架的设计与实现，持续优化基础框架的功能扩展和性能；\n3、负责省钱快报Android端性能、崩溃率，程序包大小等指标优化，提升用户体验；\n4、配合产品、客服、市场、运营等部门，提供相关技术支持。\n岗位要求：\n1、扎实的数据结构、算法和操作系统等计算机基础功底；\n2、8年+Android应用开发经验，能独立完成App开发工作；\n3、熟练运用Java、kotlin等语言，有良好的编程规范；\n4、了解常用设计模式，具备架构能力，能灵活掌握设计基本原则；\n5、热爱学习，喜欢钻研技术，对新技术抱有热情。\n加分项：有跨平台或跨端技能优先，如iOS、Flutter、H5中至少熟悉其中1个平台开发。"
+  },
+  {
+    "tab": "harmonyos",
+    "url": "/job_detail/51996fb004281d450nx639S5F1NY.html",
+    "title": "蚂蚁阿福-鸿蒙客户端质量-（北/杭）",
+    "company": "蚂蚁集团",
+    "desc": "1. 负责阿福鸿蒙原生应用质量，主导测试策略、质量标准及发布准入建设，对核心业务体验和线上稳定性负责。\n2. 围绕 Stage 模型、UIAbility ⽣命周期及后台任务机制，验证前后台切换、进程回收、状态恢复和权限变更等场景，治理业务中断与数据丢失问题。\n3. 针对 ArkUI 状态管理、组件刷新及 ArkWeb 交互开展专项测试，重点保障 AI 对话流式渲染、长列表和图⽂交互的正确性与流畅度。\n4. 建设折叠屏、多窗口及不同系统版本的兼容性体系，识别 SDK 升级、系统⾏为变化与三方依赖带来的质量风险。\n5. 运用 DevEco Profiler 等⼯具定位启动慢、卡顿、内存泄漏及功耗问题；建设鸿蒙自动化测试与持续集成能力，推动性能基线和质量门禁落地。\n职位描述\n1. 本科及以上学历，5 年以上移动端质量经验，具备鸿蒙原生应用测试及完整上线经验。\n2. 熟悉 ArkTS、ArkUI、鸿蒙应用模型、沙箱与权限机制，能够结合代码、日志和 Trace 独立分析问题。\n3. 具备自动化框架或测试工具建设能力，有复杂性能、稳定性问题治理经验。\n4. 具备质量体系规划及跨团队推动能力；有 AI 应用、医疗健康业务或大型鸿蒙项目经验者优先。"
+  },
+  {
+    "tab": "harmonyos",
+    "url": "/job_detail/7a89c595e8e36f800nF-2Nq-EFNX.html",
+    "title": "鸿蒙研发工程师（C端）",
+    "company": "上海从鲸信息技术",
+    "desc": "岗位职责：\n1. 根据公司业务发展，完成业务需求开发；\n2. 代码架构优化演进，App稳定性、性能、内存优化；\n3. 负责移动端基础SDK的研发和平台化支持。\n任职要求：\n1. 本科及以上学历，计算机相关专业，一年以上互联网相关行业开发经验；\n2. 熟练掌握ArkTS/C++等开发语⾔和常⽤数据结构，熟悉鸿蒙Next平台开发⼯具；\n3. 具备较强的逻辑思维能力、沟通能力、协调及应变能⼒；\n4. 工作积极主动，具有较强的团队合作意识。"
+  },
+  {
+    "tab": "android",
+    "url": "/job_detail/c36a4593f2d36d6d0nJ529W5ElFY.html",
+    "title": "高级鸿蒙客户端开发工程师（性能优化方向）",
+    "company": "中电信量子集团",
+    "desc": "鸿蒙应用性能体验负责： 主导鸿蒙客户端（HarmonyOS NEXT）的性能优化体系建设，围绕应用启动速度、页面渲染效率（FPS）、内存占用、包体积等核⼼指标，打造极致流畅的⽤户体验。\n稳定性治理（SRE⽅向）： 建立鸿蒙端高可⽤防护体系，负责崩溃（Crash）、卡顿（ANR/丢帧）、内存泄漏（Memory Leak）等线上问题的归因分析与治理，确保App的稳定性SLA达到99.99%+。\nArkUI深度优化： 深入鸿蒙ArkUI框架底层，优化布局嵌套层级，解决滑动卡顿和复杂页面渲染性能瓶颈，推动团队落地异步渲染、组件复用、LazyForEach等高性能编码规范。\n性能工具与自动化建设： 构建鸿蒙原生性能测试自动化平台，利用SmartPerf、DevEco Profiler等工具进行性能劣化拦截，通过静态扫描（Code Lint）和动态监测手段，前置发现性能问题。\n全场景协同调优： 针对鸿蒙分布式特性，优化多设备流转（跨端迁移、多屏协同）时的时延与带宽占用，确保在不同芯片平台（麒麟、高通等）上的兼容性表现。\n技术驱动与规范输出： 结合鸿蒙系统版本迭代（API 9+），探索并落地极简启动、动态加载、Native层性能优化等黑科技；负责输出性能优化指南，并对研发团队进行技术布道。\n任职要求：，5年以上Android/iOS客户端开发经验，至少2年及以上鸿蒙（HarmonyOS）应用开发经验，有大型C端APP（日活千万级）性能优化实战经验。\n鸿蒙技术栈精通： 精通ArkTS/TypeScript语言，深入理解ArkUI (声明式UI)、Stage模型、Ability生命周期；熟悉鸿蒙系统底层架构（如方舟编译器、多线程模型、图形渲染管线）。\n性能分析能力： 具备极强的数据敏感度，熟练使用DevEco Studio性能分析工具集（CPU Profiler, Memory Profiler, HiTrace等）；能够通过火焰图、Trace日志精准定位性能瓶颈。\n底层原理掌握： 熟悉操作系统原理（Linux/鸿蒙微内核），掌握C/C++（NAPI开发）者优先；熟悉常用的内存管理、IO模型及网络协议优化策略。\n疑难杂症攻坚： 具备解决ANR、Native Crash、内存踩踏等底层疑难问题的能力，有系统级（FrameWork）问题分析经验者优先。\n工程素养： 具备良好的架构设计思维，对代码质量有洁癖；熟悉Git、CI/CD流程。\n加分项：\n有OpenHarmony社区贡献经验或鸿蒙官方认证（HCI/HCIA）证书。\n熟悉小程序引擎（如微信/支付宝）在鸿蒙端的适配优化。\n有游戏引擎（Cocos/Unity）或音视频编解码在鸿蒙端的性能调优经验。\n精通GraphQL/HTTP/3等网络协议在弱网环境下的优化。"
+  },
+  {
+    "tab": "harmonyos",
+    "url": "/job_detail/25720d2a7025a2450nB90tS4GVpT.html",
+    "title": "（高级）安卓应用开发工程师 (MJ011054)",
+    "company": "特斯拉 Tesla",
+    "desc": "The Role\nWe are looking for a highly motivated mobile engineer specializing and creating exceptional user experiences for our users in China. You will need strong software engineering skills, excellent interpersonal communication, and experience accepting and giving meaningful feedback on technical designs. You will be responsible for the look and feel of the user experience, architecture, and front-end graphics. You will need to collaborate with our top-notch design team and back end developers. Our goal is to set the bar for what vehicle mobile user experience can be. We want to work with people who are excited by this goal and have the talent to deliver on it.\nResponsibilities:\n• Design, code and maintain mobile user experiences end-to-end.\n• Optimize code for performance, stability and maintainability.\n• Work with a cross-functional team of hardware engineers, application/UI software engineers, QA/Validation, and designers\n• Following the mobile experience trend in China, maintain design and requirements documentations.\nRequirements: \nMust Qualifications\n• Bachelor’s Degree in Computer Science, Software Engineering, or similar areas of study.\n• Experience in Mobile (Android) application development.\n• Proficient in Kotlin/Java.\n• Excellent grasp of fundamental computer science concepts, good at solving complex technical problem.\nPreferred Qualifications\n• Familiar with JavaScript. Experience with React/React Native is preferred.\n• Experience using common design patterns. High standards for code quality, maintainability, and performance.\n• Experience creating, maintaining and shipping top-ranking mobile apps is preferred.\nThis job application may involve an interview with an interviewer outside of Tesla China. If you complete your application, you agree Tesla provides your application information to overseas interviewers in Tesla, Inc. for recruitment purposes. More details and contact information please see &lt;Tesla Talent Personal Data International Transfer Statement&gt; here. (here hyperlink: https://app.mokahr.com/social-recruitment/tesla/46129#/)"
+  },
+  {
+    "tab": "android",
+    "url": "/job_detail/caeaf32dc9aae0110nx53dm6FlFX.html",
+    "title": "【北京】WorkBuddy-移动端高级开发工程师",
+    "company": "腾讯",
+    "desc": "岗位职责\n1.负责WorkBuddy移动端App的整体规划、设计与建设工作；\n2.使用Flutter框架开发WorkBuddy的iOS、Android及鸿蒙端App，确保跨平台兼容性和高性能；设计并实现App与Agent的深度联动和交互能力，探索⼿机本地Agentic能⼒的创新应⽤；\n3.持续跟踪和研究前沿技术，特别是AI Coding和Agent相关领域，将新技术转化为产品功能优化；\n4.与产品、设计团队紧密协作，参与需求分析、技术评审和方案制定，确保开发进度和质量；解决开发过程中的技术难题，优化App性能，提升用户体验；\n5.编写⾼质量代码，参与代码评审，确保代码的可维护性和可扩展性。\n岗位要求\n1.计算机相关专业本科及以上学历，具备扎实的计算机基础理论和编程能力；熟悉移动端开发流程，有参与过中大型App研发经验，了解移动端技术架构；\n2.至少熟练掌握一种主要编程语言，如Dart、C/C++、Swift、Objective-C、Java、Kotlin等；有至少一个主流端平台（Windows、macOS、iOS、Android、Linux、OpenHarmony等）的开发经验；对Agent架构、上下文管理、Harness机制等相关领域有一定了解和实践经验；\n3.深度使用过至少一种AI Agent工具（如Codex、Claude Code、Cursor、Manus等），熟悉AI辅助编程的应用场景；\n4.具备良好的技术学习能力和问题解决能力，能够快速掌握新技术并应用于实际工作；有较强的自驱力和责任感，愿意接受具有挑战性的技术任务。\n加分项\n1.全链路参与过App从立项到发布的全流程，熟悉产品研发的各个环节；\n2.参与过AI工具或Agent平台的设计与开发，有相关项目经验；\n3.有跨平台开发经验，熟悉多种端侧技术栈，有自研跨端框架经验更优；\n4.相关领域发表过技术文章或在开源社区有贡献，具备技术影响力；\n5.有大型复杂系统底层架构设计经验，能够从全局视角优化系统性能。"
+  },
+  {
+    "tab": "android",
+    "url": "/job_detail/dcdb59c14afdbda11HV-09m7GFtT.html",
+    "title": "高级Android研发工程师",
+    "company": "NewsBreak",
+    "desc": "岗位职责：   \n1.负责公司Android产品的性能和体验优化；\n2.负责公司Android产品的开发和维护。\n任职要求：\n1.统招本科及以上学位，3年以上Android开发经验；\n2.精通Android操作系统特性和内部运行机制，精通UI开发，熟练各种UI组件并了解其原理；\n3.精通Android客户端开发，有丰富的客户端应用架构经验，可以独立承担App级别的架构设计；\n4.精通Android调试工具和方法，可以应付各种Android复杂问题，具备良好的分析解决问题能力，有技术难题攻关经验；\n5.有高度的工作热情和自我能动性，项目和技术推动和执行能力强，有团队合作精神。"
+  },
+  {
+    "tab": "android",
+    "url": "/job_detail/c7563416e0f997d80nx52tq1EFFT.html",
+    "title": "高级Android开发",
+    "company": "LesPark",
+    "desc": "高级Android 开发工程师 | LesPark\n岗位职责\n1. 负责 LesPark 安卓客户端核心功能开发，使用 Kotlin/Java 进⾏ Android SDK 层开发；\n2. 独⽴完成需求分析、技术⽅案设计、编码实现及单元测试的全流程闭环；\n3. 具备扎实的数据结构与算法基础，代码风格整洁，有良好的工程习惯；\n4. 参与 Android 端架构优化，推动组件化、性能调优和工程质量提升；\n5. 与产品、设计、后端团队⾼效协作，保障版本迭代节奏与交付质量，持续优化用户体验。\n任职要求 \n● 本科及以上学历，计算机相关专业，5年以上 Android 开发经验；\n● 熟悉 Java / Kotlin，掌握 Android SDK 及主流开发框架，能独立完成模块开发；\n● 具备扎实的数据结构与算法基础，代码风格整洁，有良好的工程习惯；善于主动学习和解决未知问题；\n● AI 原生开发者：熟练使用 AI 编程工具辅助开发（如 AI 生成 UI 组件、业务逻辑、单元测试），近半年 AI 辅助代码有实质贡献，并有自己的使用心得。\n加分项\n● 有社交、直播、视频类产品开发经验；\n● 了解 Android 性能优化、内存管理、多线程编程；\n● 关注 Android 技术趋势（Compose、Kotlin Multiplatform 等），有技术热情。有开源项目或技术社区贡献的。"
+  },
+  {
+    "tab": "android",
+    "url": "/job_detail/7c785a377e5767ef0nZ82NW0F1ZV.html",
+    "title": "android开发",
+    "company": "音娱时光",
+    "desc": "岗位职责:\n1. 负责Android平台应用的设计、开发与维护，确保代码质量与性能优化；\n2. 参与需求分析、系统架构设计及功能实现，保障项目按时高质量交付；\n3. 解决开发过程中的关键技术问题，持续优化应用稳定性与⽤户体验；\n4. 编写相关技术⽂档，规范开发流程与接口设计；\n5. 参与团队技术交流，推动团队技术⽔平提升；\n任职要求：\n1. 善于沟通协作，高效完成分配的开发任务；\n2. 具备良好的编程习惯和代码规范意识， 熟练掌握常见的数据结构基本算法；\n3. 熟悉Android开发技术体系，掌握主流开发框架和调试工具；\n4. 具备较强的问题分析与解决能⼒，深入理解移动端性能优化等核心技术；\n5. 拥有良好的学习能力，持续关注前沿技术及AI动态，熟悉AI Coding工具；"
+  },
+  {
+    "tab": "android",
+    "url": "/job_detail/0f7cc58340fdfe850nN53N-7GVRX.html",
+    "title": "Android开发工程师",
+    "company": "北京通远科技",
+    "desc": "岗位职责：\n 1.负责 Android 客户端核心功能开发、性能优化及版本迭代。 \n 2.参与产品需求评审、技术方案设计、开发联调、测试上线等完整研发流程。\n 3.负责客户端基础能力建设，包括网络请求、缓存、组件化、稳定性、性能优化等。\n 4.处理不同机型、系统版本的兼容性问题，提升 App 稳定性和⽤户体验。 \n 5.参与 React Native 相关模块的接⼊、开发与优化，推动跨端功能落地。 \n 6.与产品、设计、后端、测试等团队协作，推动需求⾼质量落地。 \n岗位要求：\n1. 本科及以上学历，计算机相关专业优先。 \n2.5年以上 Android 开发经验，熟练掌握 Kotlin / Java，具备扎实的 Android 基础。 \n3.熟悉 Android 常用框架、UI 开发、网络通信、多线程、数据存储及性能优化。 \n 4.有 React Native 实际项⽬落地经验，能够参与跨端模块开发、联调和问题排查。 \n5.熟悉 Android 组件化、模块化开发，有大型 App 或复杂业务项目经验优先。"
+  },
+  {
+    "tab": "android",
+    "url": "/job_detail/df68d2325088f55a03J73ti9ElpU.html",
+    "title": "Android高级安卓开发（急招岗位）",
+    "company": "牵手",
+    "desc": "【工作内容】\n1、负责 牵手客户端开发； \n2、负责基础模块和组件的研发和维护； \n3、负责性能优化和用户体验的提升。 \n【能力要求】\n1、熟练掌握基本的算法和数据结构\n2、熟练掌握常用网络协议，包括但不限于 TCP/IP、HTTP、WebSocket\n3、熟练掌握关系数据库和 SQL 语言\n4、 具备扎实的编程设计能力\n5、具备扎实的 Java 基础\n6、熟练掌握 Android 开发技能，深入理解 Android 底层原理\n7、熟练掌握编程设计模式，具备架构设计能力\n8、熟练使用 Android Jetpack\n9、熟练掌握 Kotlin 语言，熟悉协程\n10、具备较强的问题分析和解决能力\n11、责任心强、善于沟通"
+  },
+  {
+    "tab": "android",
+    "url": "/job_detail/2fc1346a0211efc90nx53960E1FX.html",
+    "title": "中高级android开发工程师",
+    "company": "作业帮",
+    "desc": "岗位职责\n1. 负责公司 AI 出海商业化应用的移动端架构设计、核心功能开发和持续迭代。\n2. 与产品、设计、后端团队协作，推动 AI 对话、内容生成、推荐等能力在客户端⾼质量落地。\n3. 负责 Flutter 技术架构与⼯程体系建设，推进公共组件、状态管理、性能优化及跨端能⼒复用。\n4. 对线上稳定性和体验负责，推进 Crash、ANR、OOM、启动速度及渲染性能治理。\n5. 参与客户端工程体系建设，包括模块化、状态管理、⾃动化测试及 CI/CD 流程优化。\n6. 负责多语言、多时区及隐私授权等海外场景适配，保障客户端符合相关合规要求。\n岗位亮点\n1. 参与 AI 对话、流式交互、多模态内容等前沿场景落地，积累完整的 AI 客户端工程经验。\n2. 鼓励 AI Coding 与工程自动化实践，为技术创新和效率工具建设提供落地空间。\n岗位要求\n1. 3年以上移动客户端开发经验，至少精通 Android 或 iOS 其中一端。\n2. 熟悉网络通信、状态管理、生命周期和性能分析，具备线上问题排查能力。\n3. 具备良好的工程意识、责任心和跨团队沟通能力，能够独立推动需求交付。\n4. 能够独立承担复杂模块的方案设计、开发、测试及上线，并主动识别和推动解决风险。\n5. 具备良好的代码质量意识和跨端学习能力，能够快速投入 Flutter 项目的开发与维护。\n加分项\n1. 具备 Flutter/Dart、Flutter Plugin或混合工程开发经验。\n2. 有 AI 对话、SSE流式输出、Markdown渲染或多模态应用开发经验。\n3. 熟悉 AI Coding 工作流，能有效审查和修正 AI 生成代码，并沉淀为团队实践。\n4. 有出海应用、订阅支付、广告商业化或应用商店上架经验。"
+  }
+]

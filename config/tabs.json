@@ -1,0 +1,11 @@
+{
+  "city": "北京",
+  "limit_per_tab": 1000,
+  "request_interval_ms": 1500,
+  "request_interval_jitter_ms": 800,
+  "tabs": [
+    { "key": "recommend", "label": "推荐", "keyword": null },
+    { "key": "harmonyos", "label": "鸿蒙开发工程师(北京)", "keyword": "鸿蒙" },
+    { "key": "android", "label": "Android(北京)", "keyword": "Android" }
+  ]
+}

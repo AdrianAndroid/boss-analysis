@@ -1,0 +1,136 @@
+{
+  "plan_version": "v0.1",
+  "updated_at": "2026-11-15",
+  "current_phase": "1",
+  "phases": {
+    "0": {
+      "status": "done",
+      "started_at": "2026-11-15",
+      "finished_at": "2026-11-15",
+      "note": "工程化与规范对齐"
+    },
+    "1": {
+      "status": "pending",
+      "started_at": null,
+      "finished_at": null,
+      "note": "列表采集"
+    },
+    "2": {
+      "status": "pending",
+      "started_at": null,
+      "finished_at": null,
+      "note": "详情采集"
+    },
+    "3": {
+      "status": "pending",
+      "started_at": null,
+      "finished_at": null,
+      "note": "清洗结构化"
+    },
+    "4": {
+      "status": "pending",
+      "started_at": null,
+      "finished_at": null,
+      "note": "技能与关键词分析"
+    },
+    "5": {
+      "status": "pending",
+      "started_at": null,
+      "finished_at": null,
+      "note": "趋势与需求总结"
+    },
+    "6": {
+      "status": "pending",
+      "started_at": null,
+      "finished_at": null,
+      "note": "教程映射设计"
+    },
+    "7": {
+      "status": "pending",
+      "started_at": null,
+      "finished_at": null,
+      "note": "Git 归档"
+    }
+  },
+  "collection": {
+    "tabs": {
+      "recommend": {
+        "collected": 0,
+        "target": 1000,
+        "batch": 0,
+        "last_url": null,
+        "failed": [],
+        "skipped": []
+      },
+      "harmonyos": {
+        "collected": 0,
+        "target": 1000,
+        "batch": 0,
+        "last_url": null,
+        "failed": [],
+        "skipped": []
+      },
+      "android": {
+        "collected": 0,
+        "target": 1000,
+        "batch": 0,
+        "last_url": null,
+        "failed": [],
+        "skipped": []
+      }
+    },
+    "detail": {
+      "collected": 0,
+      "failed": [],
+      "last_url": null
+    }
+  },
+  "validation": {
+    "total": 0,
+    "duplicates": 0,
+    "empty_fields": 0,
+    "company_complete_rate": null
+  },
+  "decisions": {
+    "tech_stack": "builtin-browser 采集 + python 分析",
+    "report_format": "markdown-table",
+    "on_cap_limit": "keep-collected",
+    "git_timing": "phase-7",
+    "collector": "builtin-browser (本期); playwright 留作后续周期复采工具"
+  },
+  "stage1_list": {
+    "status": "done",
+    "counts": {
+      "recommend": 385,
+      "harmonyos": 450,
+      "android": 450
+    },
+    "unique_url": 1063
+  },
+  "stage2_detail": {
+    "status": "in_progress",
+    "to_fetch": 1063,
+    "done": 172,
+    "note": "内置浏览器分批续采；断点自动跳过已采"
+  },
+  "stage3_clean": {
+    "status": "done",
+    "raw": 172,
+    "unique": 169,
+    "duplicates": 3,
+    "empty_desc": 0,
+    "company_complete": "169/169"
+  },
+  "stage4_5_report": {
+    "status": "done",
+    "sample": 169,
+    "report": "reports/2026-11-15/岗位技能分析报告.md",
+    "note": "基线版；全量详情补齐后刷新"
+  },
+  "stage6_curriculum": {
+    "status": "done",
+    "skills": 101,
+    "high": 12,
+    "file": "curriculum/skill_map.json"
+  }
+}

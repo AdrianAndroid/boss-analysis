@@ -1,0 +1,21 @@
+# 依赖与运行时
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+
+# 登录态与凭据（禁止入库）
+auth/
+*.cookie
+cookies.json
+storageState.json
+.env
+.env.*
+!.env.example
+
+# 临时产物
+tmp/
+*.log
+screenshots/

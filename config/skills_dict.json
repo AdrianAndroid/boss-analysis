@@ -1,0 +1,11 @@
+{
+  "编程语言": ["java", "kotlin", "c++", "c/c++", "swift", "objective-c", "dart", "typescript", "arkts", "javascript", "python", "rust", "golang", "go"],
+  "Android体系": ["android", "framework", "aosp", "ndk", "sdk", "jetpack", "binder", "aidl", "systemui", "launcher", "selinux", "hal"],
+  "音视频/通信": ["webrtc", "rtc", "音视频", "音频", "视频", "h.264", "h.265", "opus", "pcm", "蓝牙", "ble", "wi-fi", "wifi", "socket", "udp", "tcp", "kcp", "编解码", "media codec", "websocket"],
+  "鸿蒙/跨端": ["harmonyos", "鸿蒙", "arkts", "flutter", "react native", "跨端", "跨平台"],
+  "AI/大模型": ["ai coding", "ai", "大模型", "agent", "智能体", "codex", "vibe coding", "机器学习", "深度学习", "llm", "数据标注", "智能体研发", "mcp", "prompt"],
+  "架构/性能/质量": ["架构", "性能优化", "性能", "内存优化", "稳定性", "兼容性", "优化", "design pattern", "设计模式", "单元测试", "集成测试", "自动化测试", "监控", "crash", "anr", "卡顿", "逆向", "frida", "jvm", "ci/cd"],
+  "后端/大数据/云": ["分布式", "大数据", "flink", "spark", "hadoop", "hbase", "湖仓", "实时计算", "数仓", "aws", "数据库", "服务端", "全栈", "微服务"],
+  "汽车/座舱/嵌入式": ["座舱", "车控", "qnx", "linux", "autosar", "mcu", "嵌入式", "车载", "智能座舱", "视觉算法", "音频算法", "传感器", "radar"],
+  "业务/管理/行业": ["团队管理", "团队", "跨部门", "协作", "解决方案", "售前", "供应链", "采购", "供应商", "erp", "金融", "物流", "能源", "战略", "商务谈判", "成本"]
+}

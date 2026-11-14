@@ -1,0 +1,2271 @@
+{
+  "date": "2026-11-15",
+  "sample": 169,
+  "result": {
+    "overall": {
+      "编程语言": {
+        "hit_jobs": 139,
+        "cover_rate": 0.822,
+        "keywords": [
+          {
+            "keyword": "java",
+            "cover": 102,
+            "freq": 155
+          },
+          {
+            "keyword": "kotlin",
+            "cover": 80,
+            "freq": 114
+          },
+          {
+            "keyword": "c++",
+            "cover": 34,
+            "freq": 45
+          },
+          {
+            "keyword": "python",
+            "cover": 20,
+            "freq": 24
+          },
+          {
+            "keyword": "c/c++",
+            "cover": 19,
+            "freq": 21
+          },
+          {
+            "keyword": "typescript",
+            "cover": 16,
+            "freq": 17
+          },
+          {
+            "keyword": "swift",
+            "cover": 16,
+            "freq": 17
+          },
+          {
+            "keyword": "arkts",
+            "cover": 15,
+            "freq": 18
+          },
+          {
+            "keyword": "objective-c",
+            "cover": 12,
+            "freq": 14
+          },
+          {
+            "keyword": "dart",
+            "cover": 12,
+            "freq": 12
+          },
+          {
+            "keyword": "javascript",
+            "cover": 9,
+            "freq": 11
+          },
+          {
+            "keyword": "go",
+            "cover": 8,
+            "freq": 9
+          },
+          {
+            "keyword": "rust",
+            "cover": 4,
+            "freq": 5
+          },
+          {
+            "keyword": "golang",
+            "cover": 3,
+            "freq": 3
+          }
+        ]
+      },
+      "Android体系": {
+        "hit_jobs": 136,
+        "cover_rate": 0.805,
+        "keywords": [
+          {
+            "keyword": "android",
+            "cover": 132,
+            "freq": 581
+          },
+          {
+            "keyword": "sdk",
+            "cover": 52,
+            "freq": 125
+          },
+          {
+            "keyword": "jetpack",
+            "cover": 27,
+            "freq": 37
+          },
+          {
+            "keyword": "framework",
+            "cover": 19,
+            "freq": 24
+          },
+          {
+            "keyword": "ndk",
+            "cover": 8,
+            "freq": 13
+          },
+          {
+            "keyword": "binder",
+            "cover": 7,
+            "freq": 7
+          },
+          {
+            "keyword": "aosp",
+            "cover": 2,
+            "freq": 4
+          },
+          {
+            "keyword": "aidl",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "hal",
+            "cover": 1,
+            "freq": 1
+          }
+        ]
+      },
+      "音视频/通信": {
+        "hit_jobs": 48,
+        "cover_rate": 0.284,
+        "keywords": [
+          {
+            "keyword": "视频",
+            "cover": 25,
+            "freq": 55
+          },
+          {
+            "keyword": "音视频",
+            "cover": 15,
+            "freq": 31
+          },
+          {
+            "keyword": "tcp",
+            "cover": 13,
+            "freq": 14
+          },
+          {
+            "keyword": "websocket",
+            "cover": 11,
+            "freq": 13
+          },
+          {
+            "keyword": "蓝牙",
+            "cover": 10,
+            "freq": 14
+          },
+          {
+            "keyword": "音频",
+            "cover": 5,
+            "freq": 10
+          },
+          {
+            "keyword": "udp",
+            "cover": 5,
+            "freq": 5
+          },
+          {
+            "keyword": "ble",
+            "cover": 4,
+            "freq": 7
+          },
+          {
+            "keyword": "编解码",
+            "cover": 4,
+            "freq": 4
+          },
+          {
+            "keyword": "rtc",
+            "cover": 3,
+            "freq": 7
+          },
+          {
+            "keyword": "wifi",
+            "cover": 2,
+            "freq": 3
+          },
+          {
+            "keyword": "wi-fi",
+            "cover": 2,
+            "freq": 3
+          },
+          {
+            "keyword": "socket",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "webrtc",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "h.264",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "h.265",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "pcm",
+            "cover": 1,
+            "freq": 1
+          }
+        ]
+      },
+      "鸿蒙/跨端": {
+        "hit_jobs": 95,
+        "cover_rate": 0.562,
+        "keywords": [
+          {
+            "keyword": "flutter",
+            "cover": 45,
+            "freq": 91
+          },
+          {
+            "keyword": "跨端",
+            "cover": 39,
+            "freq": 68
+          },
+          {
+            "keyword": "跨平台",
+            "cover": 37,
+            "freq": 62
+          },
+          {
+            "keyword": "react native",
+            "cover": 29,
+            "freq": 48
+          },
+          {
+            "keyword": "鸿蒙",
+            "cover": 28,
+            "freq": 131
+          },
+          {
+            "keyword": "arkts",
+            "cover": 15,
+            "freq": 18
+          },
+          {
+            "keyword": "harmonyos",
+            "cover": 13,
+            "freq": 30
+          }
+        ]
+      },
+      "AI/大模型": {
+        "hit_jobs": 91,
+        "cover_rate": 0.538,
+        "keywords": [
+          {
+            "keyword": "ai",
+            "cover": 85,
+            "freq": 431
+          },
+          {
+            "keyword": "agent",
+            "cover": 56,
+            "freq": 179
+          },
+          {
+            "keyword": "大模型",
+            "cover": 22,
+            "freq": 42
+          },
+          {
+            "keyword": "llm",
+            "cover": 18,
+            "freq": 26
+          },
+          {
+            "keyword": "智能体",
+            "cover": 11,
+            "freq": 25
+          },
+          {
+            "keyword": "ai coding",
+            "cover": 11,
+            "freq": 22
+          },
+          {
+            "keyword": "mcp",
+            "cover": 11,
+            "freq": 17
+          },
+          {
+            "keyword": "prompt",
+            "cover": 10,
+            "freq": 12
+          },
+          {
+            "keyword": "vibe coding",
+            "cover": 9,
+            "freq": 10
+          },
+          {
+            "keyword": "codex",
+            "cover": 8,
+            "freq": 12
+          }
+        ]
+      },
+      "架构/性能/质量": {
+        "hit_jobs": 159,
+        "cover_rate": 0.941,
+        "keywords": [
+          {
+            "keyword": "优化",
+            "cover": 143,
+            "freq": 403
+          },
+          {
+            "keyword": "性能",
+            "cover": 132,
+            "freq": 361
+          },
+          {
+            "keyword": "架构",
+            "cover": 132,
+            "freq": 301
+          },
+          {
+            "keyword": "性能优化",
+            "cover": 83,
+            "freq": 127
+          },
+          {
+            "keyword": "稳定性",
+            "cover": 79,
+            "freq": 117
+          },
+          {
+            "keyword": "监控",
+            "cover": 37,
+            "freq": 45
+          },
+          {
+            "keyword": "卡顿",
+            "cover": 37,
+            "freq": 43
+          },
+          {
+            "keyword": "兼容性",
+            "cover": 31,
+            "freq": 44
+          },
+          {
+            "keyword": "设计模式",
+            "cover": 28,
+            "freq": 29
+          },
+          {
+            "keyword": "ci/cd",
+            "cover": 25,
+            "freq": 27
+          },
+          {
+            "keyword": "anr",
+            "cover": 24,
+            "freq": 35
+          },
+          {
+            "keyword": "crash",
+            "cover": 17,
+            "freq": 33
+          },
+          {
+            "keyword": "自动化测试",
+            "cover": 15,
+            "freq": 16
+          },
+          {
+            "keyword": "单元测试",
+            "cover": 12,
+            "freq": 12
+          },
+          {
+            "keyword": "内存优化",
+            "cover": 7,
+            "freq": 7
+          },
+          {
+            "keyword": "逆向",
+            "cover": 4,
+            "freq": 6
+          },
+          {
+            "keyword": "frida",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "jvm",
+            "cover": 1,
+            "freq": 1
+          }
+        ]
+      },
+      "后端/大数据/云": {
+        "hit_jobs": 52,
+        "cover_rate": 0.308,
+        "keywords": [
+          {
+            "keyword": "全栈",
+            "cover": 26,
+            "freq": 57
+          },
+          {
+            "keyword": "分布式",
+            "cover": 15,
+            "freq": 18
+          },
+          {
+            "keyword": "服务端",
+            "cover": 14,
+            "freq": 20
+          },
+          {
+            "keyword": "数据库",
+            "cover": 12,
+            "freq": 20
+          },
+          {
+            "keyword": "微服务",
+            "cover": 4,
+            "freq": 5
+          },
+          {
+            "keyword": "数仓",
+            "cover": 1,
+            "freq": 1
+          }
+        ]
+      },
+      "汽车/座舱/嵌入式": {
+        "hit_jobs": 24,
+        "cover_rate": 0.142,
+        "keywords": [
+          {
+            "keyword": "linux",
+            "cover": 18,
+            "freq": 26
+          },
+          {
+            "keyword": "嵌入式",
+            "cover": 3,
+            "freq": 6
+          },
+          {
+            "keyword": "座舱",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "智能座舱",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "车载",
+            "cover": 2,
+            "freq": 4
+          },
+          {
+            "keyword": "传感器",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "qnx",
+            "cover": 1,
+            "freq": 4
+          }
+        ]
+      },
+      "业务/管理/行业": {
+        "hit_jobs": 134,
+        "cover_rate": 0.793,
+        "keywords": [
+          {
+            "keyword": "团队",
+            "cover": 108,
+            "freq": 233
+          },
+          {
+            "keyword": "协作",
+            "cover": 79,
+            "freq": 123
+          },
+          {
+            "keyword": "成本",
+            "cover": 13,
+            "freq": 21
+          },
+          {
+            "keyword": "解决方案",
+            "cover": 12,
+            "freq": 13
+          },
+          {
+            "keyword": "团队管理",
+            "cover": 6,
+            "freq": 6
+          },
+          {
+            "keyword": "跨部门",
+            "cover": 6,
+            "freq": 6
+          },
+          {
+            "keyword": "金融",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "供应链",
+            "cover": 1,
+            "freq": 2
+          },
+          {
+            "keyword": "能源",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "供应商",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "战略",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "售前",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "erp",
+            "cover": 1,
+            "freq": 1
+          }
+        ]
+      }
+    },
+    "per_tab": {
+      "android": {
+        "n": 169,
+        "top": [
+          {
+            "keyword": "优化",
+            "cover": 143,
+            "freq": 403
+          },
+          {
+            "keyword": "android",
+            "cover": 132,
+            "freq": 581
+          },
+          {
+            "keyword": "性能",
+            "cover": 132,
+            "freq": 361
+          },
+          {
+            "keyword": "架构",
+            "cover": 132,
+            "freq": 301
+          },
+          {
+            "keyword": "团队",
+            "cover": 108,
+            "freq": 233
+          },
+          {
+            "keyword": "java",
+            "cover": 102,
+            "freq": 155
+          },
+          {
+            "keyword": "ai",
+            "cover": 85,
+            "freq": 431
+          },
+          {
+            "keyword": "性能优化",
+            "cover": 83,
+            "freq": 127
+          },
+          {
+            "keyword": "kotlin",
+            "cover": 80,
+            "freq": 114
+          },
+          {
+            "keyword": "协作",
+            "cover": 79,
+            "freq": 123
+          },
+          {
+            "keyword": "稳定性",
+            "cover": 79,
+            "freq": 117
+          },
+          {
+            "keyword": "agent",
+            "cover": 56,
+            "freq": 179
+          },
+          {
+            "keyword": "sdk",
+            "cover": 52,
+            "freq": 125
+          },
+          {
+            "keyword": "flutter",
+            "cover": 45,
+            "freq": 91
+          },
+          {
+            "keyword": "跨端",
+            "cover": 39,
+            "freq": 68
+          },
+          {
+            "keyword": "跨平台",
+            "cover": 37,
+            "freq": 62
+          },
+          {
+            "keyword": "监控",
+            "cover": 37,
+            "freq": 45
+          },
+          {
+            "keyword": "卡顿",
+            "cover": 37,
+            "freq": 43
+          },
+          {
+            "keyword": "c++",
+            "cover": 34,
+            "freq": 45
+          },
+          {
+            "keyword": "兼容性",
+            "cover": 31,
+            "freq": 44
+          },
+          {
+            "keyword": "arkts",
+            "cover": 30,
+            "freq": 36
+          },
+          {
+            "keyword": "react native",
+            "cover": 29,
+            "freq": 48
+          },
+          {
+            "keyword": "鸿蒙",
+            "cover": 28,
+            "freq": 131
+          },
+          {
+            "keyword": "设计模式",
+            "cover": 28,
+            "freq": 29
+          },
+          {
+            "keyword": "jetpack",
+            "cover": 27,
+            "freq": 37
+          },
+          {
+            "keyword": "全栈",
+            "cover": 26,
+            "freq": 57
+          },
+          {
+            "keyword": "视频",
+            "cover": 25,
+            "freq": 55
+          },
+          {
+            "keyword": "ci/cd",
+            "cover": 25,
+            "freq": 27
+          },
+          {
+            "keyword": "anr",
+            "cover": 24,
+            "freq": 35
+          },
+          {
+            "keyword": "大模型",
+            "cover": 22,
+            "freq": 42
+          },
+          {
+            "keyword": "python",
+            "cover": 20,
+            "freq": 24
+          },
+          {
+            "keyword": "framework",
+            "cover": 19,
+            "freq": 24
+          },
+          {
+            "keyword": "c/c++",
+            "cover": 19,
+            "freq": 21
+          },
+          {
+            "keyword": "llm",
+            "cover": 18,
+            "freq": 26
+          },
+          {
+            "keyword": "linux",
+            "cover": 18,
+            "freq": 26
+          },
+          {
+            "keyword": "crash",
+            "cover": 17,
+            "freq": 33
+          },
+          {
+            "keyword": "typescript",
+            "cover": 16,
+            "freq": 17
+          },
+          {
+            "keyword": "swift",
+            "cover": 16,
+            "freq": 17
+          },
+          {
+            "keyword": "音视频",
+            "cover": 15,
+            "freq": 31
+          },
+          {
+            "keyword": "分布式",
+            "cover": 15,
+            "freq": 18
+          },
+          {
+            "keyword": "自动化测试",
+            "cover": 15,
+            "freq": 16
+          },
+          {
+            "keyword": "服务端",
+            "cover": 14,
+            "freq": 20
+          },
+          {
+            "keyword": "harmonyos",
+            "cover": 13,
+            "freq": 30
+          },
+          {
+            "keyword": "成本",
+            "cover": 13,
+            "freq": 21
+          },
+          {
+            "keyword": "tcp",
+            "cover": 13,
+            "freq": 14
+          },
+          {
+            "keyword": "数据库",
+            "cover": 12,
+            "freq": 20
+          },
+          {
+            "keyword": "objective-c",
+            "cover": 12,
+            "freq": 14
+          },
+          {
+            "keyword": "解决方案",
+            "cover": 12,
+            "freq": 13
+          },
+          {
+            "keyword": "单元测试",
+            "cover": 12,
+            "freq": 12
+          },
+          {
+            "keyword": "dart",
+            "cover": 12,
+            "freq": 12
+          },
+          {
+            "keyword": "智能体",
+            "cover": 11,
+            "freq": 25
+          },
+          {
+            "keyword": "ai coding",
+            "cover": 11,
+            "freq": 22
+          },
+          {
+            "keyword": "mcp",
+            "cover": 11,
+            "freq": 17
+          },
+          {
+            "keyword": "websocket",
+            "cover": 11,
+            "freq": 13
+          },
+          {
+            "keyword": "蓝牙",
+            "cover": 10,
+            "freq": 14
+          },
+          {
+            "keyword": "prompt",
+            "cover": 10,
+            "freq": 12
+          },
+          {
+            "keyword": "javascript",
+            "cover": 9,
+            "freq": 11
+          },
+          {
+            "keyword": "vibe coding",
+            "cover": 9,
+            "freq": 10
+          },
+          {
+            "keyword": "ndk",
+            "cover": 8,
+            "freq": 13
+          },
+          {
+            "keyword": "codex",
+            "cover": 8,
+            "freq": 12
+          },
+          {
+            "keyword": "go",
+            "cover": 8,
+            "freq": 9
+          },
+          {
+            "keyword": "binder",
+            "cover": 7,
+            "freq": 7
+          },
+          {
+            "keyword": "内存优化",
+            "cover": 7,
+            "freq": 7
+          },
+          {
+            "keyword": "团队管理",
+            "cover": 6,
+            "freq": 6
+          },
+          {
+            "keyword": "跨部门",
+            "cover": 6,
+            "freq": 6
+          },
+          {
+            "keyword": "音频",
+            "cover": 5,
+            "freq": 10
+          },
+          {
+            "keyword": "udp",
+            "cover": 5,
+            "freq": 5
+          },
+          {
+            "keyword": "ble",
+            "cover": 4,
+            "freq": 7
+          },
+          {
+            "keyword": "逆向",
+            "cover": 4,
+            "freq": 6
+          },
+          {
+            "keyword": "微服务",
+            "cover": 4,
+            "freq": 5
+          },
+          {
+            "keyword": "rust",
+            "cover": 4,
+            "freq": 5
+          },
+          {
+            "keyword": "编解码",
+            "cover": 4,
+            "freq": 4
+          },
+          {
+            "keyword": "rtc",
+            "cover": 3,
+            "freq": 7
+          },
+          {
+            "keyword": "嵌入式",
+            "cover": 3,
+            "freq": 6
+          },
+          {
+            "keyword": "座舱",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "智能座舱",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "金融",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "golang",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "aosp",
+            "cover": 2,
+            "freq": 4
+          },
+          {
+            "keyword": "车载",
+            "cover": 2,
+            "freq": 4
+          },
+          {
+            "keyword": "wifi",
+            "cover": 2,
+            "freq": 3
+          },
+          {
+            "keyword": "wi-fi",
+            "cover": 2,
+            "freq": 3
+          },
+          {
+            "keyword": "传感器",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "socket",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "aidl",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "qnx",
+            "cover": 1,
+            "freq": 4
+          },
+          {
+            "keyword": "供应链",
+            "cover": 1,
+            "freq": 2
+          },
+          {
+            "keyword": "能源",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "供应商",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "frida",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "webrtc",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "数仓",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "战略",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "hal",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "h.264",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "h.265",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "pcm",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "jvm",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "售前",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "erp",
+            "cover": 1,
+            "freq": 1
+          }
+        ]
+      },
+      "harmonyos": {
+        "n": 99,
+        "top": [
+          {
+            "keyword": "android",
+            "cover": 87,
+            "freq": 389
+          },
+          {
+            "keyword": "优化",
+            "cover": 87,
+            "freq": 236
+          },
+          {
+            "keyword": "性能",
+            "cover": 81,
+            "freq": 224
+          },
+          {
+            "keyword": "架构",
+            "cover": 78,
+            "freq": 165
+          },
+          {
+            "keyword": "java",
+            "cover": 61,
+            "freq": 89
+          },
+          {
+            "keyword": "团队",
+            "cover": 59,
+            "freq": 124
+          },
+          {
+            "keyword": "kotlin",
+            "cover": 56,
+            "freq": 76
+          },
+          {
+            "keyword": "性能优化",
+            "cover": 54,
+            "freq": 87
+          },
+          {
+            "keyword": "稳定性",
+            "cover": 50,
+            "freq": 72
+          },
+          {
+            "keyword": "协作",
+            "cover": 46,
+            "freq": 71
+          },
+          {
+            "keyword": "ai",
+            "cover": 43,
+            "freq": 190
+          },
+          {
+            "keyword": "跨端",
+            "cover": 32,
+            "freq": 53
+          },
+          {
+            "keyword": "sdk",
+            "cover": 31,
+            "freq": 75
+          },
+          {
+            "keyword": "flutter",
+            "cover": 26,
+            "freq": 44
+          },
+          {
+            "keyword": "agent",
+            "cover": 25,
+            "freq": 53
+          },
+          {
+            "keyword": "arkts",
+            "cover": 24,
+            "freq": 30
+          },
+          {
+            "keyword": "卡顿",
+            "cover": 23,
+            "freq": 27
+          },
+          {
+            "keyword": "react native",
+            "cover": 21,
+            "freq": 39
+          },
+          {
+            "keyword": "jetpack",
+            "cover": 20,
+            "freq": 27
+          },
+          {
+            "keyword": "监控",
+            "cover": 20,
+            "freq": 22
+          },
+          {
+            "keyword": "鸿蒙",
+            "cover": 19,
+            "freq": 91
+          },
+          {
+            "keyword": "跨平台",
+            "cover": 19,
+            "freq": 30
+          },
+          {
+            "keyword": "设计模式",
+            "cover": 18,
+            "freq": 19
+          },
+          {
+            "keyword": "视频",
+            "cover": 17,
+            "freq": 28
+          },
+          {
+            "keyword": "兼容性",
+            "cover": 17,
+            "freq": 22
+          },
+          {
+            "keyword": "anr",
+            "cover": 17,
+            "freq": 22
+          },
+          {
+            "keyword": "c++",
+            "cover": 16,
+            "freq": 22
+          },
+          {
+            "keyword": "ci/cd",
+            "cover": 14,
+            "freq": 16
+          },
+          {
+            "keyword": "swift",
+            "cover": 13,
+            "freq": 14
+          },
+          {
+            "keyword": "全栈",
+            "cover": 12,
+            "freq": 23
+          },
+          {
+            "keyword": "framework",
+            "cover": 11,
+            "freq": 16
+          },
+          {
+            "keyword": "音视频",
+            "cover": 11,
+            "freq": 14
+          },
+          {
+            "keyword": "c/c++",
+            "cover": 11,
+            "freq": 13
+          },
+          {
+            "keyword": "crash",
+            "cover": 10,
+            "freq": 20
+          },
+          {
+            "keyword": "分布式",
+            "cover": 10,
+            "freq": 13
+          },
+          {
+            "keyword": "typescript",
+            "cover": 10,
+            "freq": 10
+          },
+          {
+            "keyword": "harmonyos",
+            "cover": 9,
+            "freq": 25
+          },
+          {
+            "keyword": "服务端",
+            "cover": 9,
+            "freq": 14
+          },
+          {
+            "keyword": "objective-c",
+            "cover": 9,
+            "freq": 10
+          },
+          {
+            "keyword": "tcp",
+            "cover": 9,
+            "freq": 10
+          },
+          {
+            "keyword": "websocket",
+            "cover": 8,
+            "freq": 9
+          },
+          {
+            "keyword": "自动化测试",
+            "cover": 8,
+            "freq": 9
+          },
+          {
+            "keyword": "蓝牙",
+            "cover": 7,
+            "freq": 11
+          },
+          {
+            "keyword": "linux",
+            "cover": 7,
+            "freq": 9
+          },
+          {
+            "keyword": "ndk",
+            "cover": 7,
+            "freq": 7
+          },
+          {
+            "keyword": "ai coding",
+            "cover": 6,
+            "freq": 10
+          },
+          {
+            "keyword": "llm",
+            "cover": 6,
+            "freq": 10
+          },
+          {
+            "keyword": "大模型",
+            "cover": 6,
+            "freq": 9
+          },
+          {
+            "keyword": "javascript",
+            "cover": 6,
+            "freq": 8
+          },
+          {
+            "keyword": "python",
+            "cover": 6,
+            "freq": 7
+          },
+          {
+            "keyword": "单元测试",
+            "cover": 6,
+            "freq": 6
+          },
+          {
+            "keyword": "解决方案",
+            "cover": 6,
+            "freq": 6
+          },
+          {
+            "keyword": "智能体",
+            "cover": 5,
+            "freq": 11
+          },
+          {
+            "keyword": "dart",
+            "cover": 5,
+            "freq": 5
+          },
+          {
+            "keyword": "成本",
+            "cover": 5,
+            "freq": 5
+          },
+          {
+            "keyword": "ble",
+            "cover": 4,
+            "freq": 7
+          },
+          {
+            "keyword": "数据库",
+            "cover": 4,
+            "freq": 4
+          },
+          {
+            "keyword": "binder",
+            "cover": 4,
+            "freq": 4
+          },
+          {
+            "keyword": "内存优化",
+            "cover": 4,
+            "freq": 4
+          },
+          {
+            "keyword": "vibe coding",
+            "cover": 4,
+            "freq": 4
+          },
+          {
+            "keyword": "go",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "团队管理",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "udp",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "跨部门",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "嵌入式",
+            "cover": 2,
+            "freq": 5
+          },
+          {
+            "keyword": "逆向",
+            "cover": 2,
+            "freq": 4
+          },
+          {
+            "keyword": "车载",
+            "cover": 2,
+            "freq": 4
+          },
+          {
+            "keyword": "codex",
+            "cover": 2,
+            "freq": 3
+          },
+          {
+            "keyword": "wifi",
+            "cover": 2,
+            "freq": 3
+          },
+          {
+            "keyword": "wi-fi",
+            "cover": 2,
+            "freq": 3
+          },
+          {
+            "keyword": "座舱",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "智能座舱",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "prompt",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "音频",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "socket",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "aidl",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "编解码",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "aosp",
+            "cover": 1,
+            "freq": 2
+          },
+          {
+            "keyword": "rtc",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "mcp",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "传感器",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "金融",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "能源",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "战略",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "jvm",
+            "cover": 1,
+            "freq": 1
+          }
+        ]
+      },
+      "recommend": {
+        "n": 16,
+        "top": [
+          {
+            "keyword": "android",
+            "cover": 16,
+            "freq": 86
+          },
+          {
+            "keyword": "优化",
+            "cover": 16,
+            "freq": 51
+          },
+          {
+            "keyword": "架构",
+            "cover": 15,
+            "freq": 35
+          },
+          {
+            "keyword": "性能",
+            "cover": 14,
+            "freq": 31
+          },
+          {
+            "keyword": "java",
+            "cover": 12,
+            "freq": 18
+          },
+          {
+            "keyword": "团队",
+            "cover": 10,
+            "freq": 20
+          },
+          {
+            "keyword": "kotlin",
+            "cover": 10,
+            "freq": 14
+          },
+          {
+            "keyword": "稳定性",
+            "cover": 10,
+            "freq": 13
+          },
+          {
+            "keyword": "性能优化",
+            "cover": 10,
+            "freq": 13
+          },
+          {
+            "keyword": "sdk",
+            "cover": 8,
+            "freq": 27
+          },
+          {
+            "keyword": "协作",
+            "cover": 8,
+            "freq": 9
+          },
+          {
+            "keyword": "兼容性",
+            "cover": 8,
+            "freq": 9
+          },
+          {
+            "keyword": "ai",
+            "cover": 6,
+            "freq": 20
+          },
+          {
+            "keyword": "framework",
+            "cover": 5,
+            "freq": 8
+          },
+          {
+            "keyword": "跨平台",
+            "cover": 5,
+            "freq": 7
+          },
+          {
+            "keyword": "c++",
+            "cover": 5,
+            "freq": 6
+          },
+          {
+            "keyword": "c/c++",
+            "cover": 5,
+            "freq": 6
+          },
+          {
+            "keyword": "tcp",
+            "cover": 5,
+            "freq": 5
+          },
+          {
+            "keyword": "flutter",
+            "cover": 4,
+            "freq": 9
+          },
+          {
+            "keyword": "跨端",
+            "cover": 4,
+            "freq": 5
+          },
+          {
+            "keyword": "anr",
+            "cover": 4,
+            "freq": 5
+          },
+          {
+            "keyword": "卡顿",
+            "cover": 4,
+            "freq": 4
+          },
+          {
+            "keyword": "crash",
+            "cover": 3,
+            "freq": 6
+          },
+          {
+            "keyword": "harmonyos",
+            "cover": 3,
+            "freq": 6
+          },
+          {
+            "keyword": "agent",
+            "cover": 3,
+            "freq": 4
+          },
+          {
+            "keyword": "设计模式",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "ndk",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "binder",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "内存优化",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "arkts",
+            "cover": 2,
+            "freq": 4
+          },
+          {
+            "keyword": "udp",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "ci/cd",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "react native",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "自动化测试",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "linux",
+            "cover": 2,
+            "freq": 2
+          },
+          {
+            "keyword": "ble",
+            "cover": 1,
+            "freq": 2
+          },
+          {
+            "keyword": "wifi",
+            "cover": 1,
+            "freq": 2
+          },
+          {
+            "keyword": "javascript",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "typescript",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "aidl",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "监控",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "jetpack",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "swift",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "dart",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "团队管理",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "跨部门",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "python",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "视频",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "vibe coding",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "智能体",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "分布式",
+            "cover": 1,
+            "freq": 1
+          },
+          {
+            "keyword": "解决方案",
+            "cover": 1,
+            "freq": 1
+          }
+        ]
+      }
+    },
+    "overall_top": [
+      {
+        "keyword": "优化",
+        "cover": 143,
+        "freq": 403
+      },
+      {
+        "keyword": "android",
+        "cover": 132,
+        "freq": 581
+      },
+      {
+        "keyword": "性能",
+        "cover": 132,
+        "freq": 361
+      },
+      {
+        "keyword": "架构",
+        "cover": 132,
+        "freq": 301
+      },
+      {
+        "keyword": "团队",
+        "cover": 108,
+        "freq": 233
+      },
+      {
+        "keyword": "java",
+        "cover": 102,
+        "freq": 155
+      },
+      {
+        "keyword": "ai",
+        "cover": 85,
+        "freq": 431
+      },
+      {
+        "keyword": "性能优化",
+        "cover": 83,
+        "freq": 127
+      },
+      {
+        "keyword": "kotlin",
+        "cover": 80,
+        "freq": 114
+      },
+      {
+        "keyword": "协作",
+        "cover": 79,
+        "freq": 123
+      },
+      {
+        "keyword": "稳定性",
+        "cover": 79,
+        "freq": 117
+      },
+      {
+        "keyword": "agent",
+        "cover": 56,
+        "freq": 179
+      },
+      {
+        "keyword": "sdk",
+        "cover": 52,
+        "freq": 125
+      },
+      {
+        "keyword": "flutter",
+        "cover": 45,
+        "freq": 91
+      },
+      {
+        "keyword": "跨端",
+        "cover": 39,
+        "freq": 68
+      },
+      {
+        "keyword": "跨平台",
+        "cover": 37,
+        "freq": 62
+      },
+      {
+        "keyword": "监控",
+        "cover": 37,
+        "freq": 45
+      },
+      {
+        "keyword": "卡顿",
+        "cover": 37,
+        "freq": 43
+      },
+      {
+        "keyword": "c++",
+        "cover": 34,
+        "freq": 45
+      },
+      {
+        "keyword": "兼容性",
+        "cover": 31,
+        "freq": 44
+      },
+      {
+        "keyword": "arkts",
+        "cover": 30,
+        "freq": 36
+      },
+      {
+        "keyword": "react native",
+        "cover": 29,
+        "freq": 48
+      },
+      {
+        "keyword": "鸿蒙",
+        "cover": 28,
+        "freq": 131
+      },
+      {
+        "keyword": "设计模式",
+        "cover": 28,
+        "freq": 29
+      },
+      {
+        "keyword": "jetpack",
+        "cover": 27,
+        "freq": 37
+      },
+      {
+        "keyword": "全栈",
+        "cover": 26,
+        "freq": 57
+      },
+      {
+        "keyword": "视频",
+        "cover": 25,
+        "freq": 55
+      },
+      {
+        "keyword": "ci/cd",
+        "cover": 25,
+        "freq": 27
+      },
+      {
+        "keyword": "anr",
+        "cover": 24,
+        "freq": 35
+      },
+      {
+        "keyword": "大模型",
+        "cover": 22,
+        "freq": 42
+      },
+      {
+        "keyword": "python",
+        "cover": 20,
+        "freq": 24
+      },
+      {
+        "keyword": "framework",
+        "cover": 19,
+        "freq": 24
+      },
+      {
+        "keyword": "c/c++",
+        "cover": 19,
+        "freq": 21
+      },
+      {
+        "keyword": "llm",
+        "cover": 18,
+        "freq": 26
+      },
+      {
+        "keyword": "linux",
+        "cover": 18,
+        "freq": 26
+      },
+      {
+        "keyword": "crash",
+        "cover": 17,
+        "freq": 33
+      },
+      {
+        "keyword": "typescript",
+        "cover": 16,
+        "freq": 17
+      },
+      {
+        "keyword": "swift",
+        "cover": 16,
+        "freq": 17
+      },
+      {
+        "keyword": "音视频",
+        "cover": 15,
+        "freq": 31
+      },
+      {
+        "keyword": "分布式",
+        "cover": 15,
+        "freq": 18
+      },
+      {
+        "keyword": "自动化测试",
+        "cover": 15,
+        "freq": 16
+      },
+      {
+        "keyword": "服务端",
+        "cover": 14,
+        "freq": 20
+      },
+      {
+        "keyword": "harmonyos",
+        "cover": 13,
+        "freq": 30
+      },
+      {
+        "keyword": "成本",
+        "cover": 13,
+        "freq": 21
+      },
+      {
+        "keyword": "tcp",
+        "cover": 13,
+        "freq": 14
+      },
+      {
+        "keyword": "数据库",
+        "cover": 12,
+        "freq": 20
+      },
+      {
+        "keyword": "objective-c",
+        "cover": 12,
+        "freq": 14
+      },
+      {
+        "keyword": "解决方案",
+        "cover": 12,
+        "freq": 13
+      },
+      {
+        "keyword": "单元测试",
+        "cover": 12,
+        "freq": 12
+      },
+      {
+        "keyword": "dart",
+        "cover": 12,
+        "freq": 12
+      },
+      {
+        "keyword": "智能体",
+        "cover": 11,
+        "freq": 25
+      },
+      {
+        "keyword": "ai coding",
+        "cover": 11,
+        "freq": 22
+      },
+      {
+        "keyword": "mcp",
+        "cover": 11,
+        "freq": 17
+      },
+      {
+        "keyword": "websocket",
+        "cover": 11,
+        "freq": 13
+      },
+      {
+        "keyword": "蓝牙",
+        "cover": 10,
+        "freq": 14
+      },
+      {
+        "keyword": "prompt",
+        "cover": 10,
+        "freq": 12
+      },
+      {
+        "keyword": "javascript",
+        "cover": 9,
+        "freq": 11
+      },
+      {
+        "keyword": "vibe coding",
+        "cover": 9,
+        "freq": 10
+      },
+      {
+        "keyword": "ndk",
+        "cover": 8,
+        "freq": 13
+      },
+      {
+        "keyword": "codex",
+        "cover": 8,
+        "freq": 12
+      },
+      {
+        "keyword": "go",
+        "cover": 8,
+        "freq": 9
+      },
+      {
+        "keyword": "binder",
+        "cover": 7,
+        "freq": 7
+      },
+      {
+        "keyword": "内存优化",
+        "cover": 7,
+        "freq": 7
+      },
+      {
+        "keyword": "团队管理",
+        "cover": 6,
+        "freq": 6
+      },
+      {
+        "keyword": "跨部门",
+        "cover": 6,
+        "freq": 6
+      },
+      {
+        "keyword": "音频",
+        "cover": 5,
+        "freq": 10
+      },
+      {
+        "keyword": "udp",
+        "cover": 5,
+        "freq": 5
+      },
+      {
+        "keyword": "ble",
+        "cover": 4,
+        "freq": 7
+      },
+      {
+        "keyword": "逆向",
+        "cover": 4,
+        "freq": 6
+      },
+      {
+        "keyword": "微服务",
+        "cover": 4,
+        "freq": 5
+      },
+      {
+        "keyword": "rust",
+        "cover": 4,
+        "freq": 5
+      },
+      {
+        "keyword": "编解码",
+        "cover": 4,
+        "freq": 4
+      },
+      {
+        "keyword": "rtc",
+        "cover": 3,
+        "freq": 7
+      },
+      {
+        "keyword": "嵌入式",
+        "cover": 3,
+        "freq": 6
+      },
+      {
+        "keyword": "座舱",
+        "cover": 3,
+        "freq": 3
+      },
+      {
+        "keyword": "智能座舱",
+        "cover": 3,
+        "freq": 3
+      },
+      {
+        "keyword": "金融",
+        "cover": 3,
+        "freq": 3
+      },
+      {
+        "keyword": "golang",
+        "cover": 3,
+        "freq": 3
+      },
+      {
+        "keyword": "aosp",
+        "cover": 2,
+        "freq": 4
+      },
+      {
+        "keyword": "车载",
+        "cover": 2,
+        "freq": 4
+      },
+      {
+        "keyword": "wifi",
+        "cover": 2,
+        "freq": 3
+      },
+      {
+        "keyword": "wi-fi",
+        "cover": 2,
+        "freq": 3
+      },
+      {
+        "keyword": "传感器",
+        "cover": 2,
+        "freq": 2
+      },
+      {
+        "keyword": "socket",
+        "cover": 2,
+        "freq": 2
+      },
+      {
+        "keyword": "aidl",
+        "cover": 2,
+        "freq": 2
+      },
+      {
+        "keyword": "qnx",
+        "cover": 1,
+        "freq": 4
+      },
+      {
+        "keyword": "供应链",
+        "cover": 1,
+        "freq": 2
+      },
+      {
+        "keyword": "能源",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "供应商",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "frida",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "webrtc",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "数仓",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "战略",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "hal",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "h.264",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "h.265",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "pcm",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "jvm",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "售前",
+        "cover": 1,
+        "freq": 1
+      },
+      {
+        "keyword": "erp",
+        "cover": 1,
+        "freq": 1
+      }
+    ]
+  }
+}

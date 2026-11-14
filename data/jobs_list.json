@@ -1,0 +1,44 @@
+{
+  "city": "北京",
+  "collected_at": "2026-11-14",
+  "tabs": {
+    "recommend": [
+      {"url": "/job_detail/43b1410b1b7a71fa0nN539q4EFRY.html", "title": "Android 专家工程师", "company": "滴滴", "location": "北京·昌平区·回龙观", "exp": "10年以上", "edu": "本科", "tags": ["Android客户端产品研发", "架构设计/优化", "Flutter"]},
+      {"url": "/job_detail/c2a6d033aed05bce0nF409u8F1ZQ.html", "title": "android framework工程师", "company": "天地智云", "location": "北京·朝阳区·望京", "exp": "5-10年", "edu": "本科", "tags": ["Android framework"]},
+      {"url": "/job_detail/c44ddc20d931a26a0nx42N27GVdV.html", "title": "采购高级经理/总监（硬件/软件/数据标注）", "company": "世通亨奇", "location": "北京·海淀区·学院路", "exp": "10年以上", "edu": "本科", "tags": []},
+      {"url": "/job_detail/d56a13a36213fee70nx939m8F1RQ.html", "title": "Android开发工程师（海外应用）-Base成都", "company": "TestBird", "location": "北京·朝阳区·西坝河", "exp": "3-5年", "edu": "本科", "tags": ["Android客户端产品研发", "Kotlin", "Android开发经验"]},
+      {"url": "/job_detail/a2af2a8a018352800nd82Nm8FlBZ.html", "title": "能源事业部总经理 (MJ000013)", "company": "新中大科技", "location": "北京·朝阳区·朝外", "exp": "10年以上", "edu": "本科", "tags": []},
+      {"url": "/job_detail/577bdbc183eecd900nx-39m_EVNS.html", "title": "智能座舱软件架构师", "company": "某大型汽车研发/制造公司", "location": "北京", "exp": "10年以上", "edu": "本科", "tags": ["架构设计/优化", "Android客户端产品研发", "Java"]},
+      {"url": "/job_detail/c38887d644184b280nF-2t64FFRR.html", "title": "资深大数据架构师", "company": "某大型计算机软件公司", "location": "北京", "exp": "10年以上", "edu": "本科", "tags": []},
+      {"url": "/job_detail/cd9e5fa36ad5bab20nB909y8EVJQ.html", "title": "Sr. Finance Manager 高级财务BP", "company": "亚马逊中国", "location": "北京·朝阳区·望京", "exp": "10年以上", "edu": "本科", "tags": []},
+      {"url": "/job_detail/3ea77e51b344ce860nV82N20FVNX.html", "title": "大件物流解决方案专家", "company": "北京某中型ToB SaaS独角兽公司（IPO申请中）", "location": "北京", "exp": "10年以上", "edu": "本科", "tags": ["物流网络规划", "中大型供应链管理经验", "电商行业经验"]},
+      {"url": "/job_detail/c95b0786e8992dad0nx539q1FFJV.html", "title": "服务端/全栈leader", "company": "北京临场感科技", "location": "北京·朝阳区·望京", "exp": "10年以上", "edu": "本科", "tags": []},
+      {"url": "/job_detail/34722c82b6649d2e0nd42tW1GFtY.html", "title": "大数据架构师", "company": "北京某大型云计算上市公司", "location": "北京", "exp": "10年以上", "edu": "本科", "tags": ["分布式技术", "大数据分布式计算平台", "湖仓"]},
+      {"url": "/job_detail/35a2db6e020985620nB80tS4FldY.html", "title": "知识工程咨询/解决方案专家", "company": "海致星图", "location": "北京·海淀区·学院路", "exp": "10年以上", "edu": "本科", "tags": ["客户售前支持", "金融", "AI"]}
+    ],
+    "harmonyos": [
+      {"url": "/job_detail/61e7203aa743f40f0nJ72d2_GFVQ.html", "title": "鸿蒙App开发工程师(XJ003154)", "company": "牛电信息", "location": "上海·闵行区", "exp": "3-5年", "edu": "本科", "tags": ["ArkTS/TypeScript", "AI编程工具", "Vibe Coding"]},
+      {"url": "/job_detail/e952a03b626e48ec0nx409S6FVpV.html", "title": "AI客户端开发（iOS/Android）", "company": "北京嘉泽源科技", "location": "北京·海淀区·苏州桥", "exp": "3-5年", "edu": "本科", "tags": []},
+      {"url": "/job_detail/11e59b92852356390nxy3tq-EVpZ.html", "title": "兼职 AI 编程（Codex）小程序集成员", "company": "河北日上防盗门", "location": "北京·大兴区·亦庄", "exp": "1-3年", "edu": "本科", "tags": []},
+      {"url": "/job_detail/a9a5c9a63f6ddbb30nx-09S6EVVT.html", "title": "客户端工程师（跨端 / AI 产品）-至知科技", "company": "至知科技", "location": "北京·海淀区·学院路", "exp": "3-5年", "edu": "本科", "tags": ["Android开发经验", "iOS、Android 双端", "IOS客户端产品研发"]},
+      {"url": "/job_detail/51429691f0077ec30nJ509-9GVVV.html", "title": "鸿蒙开发工程师", "company": "天眼查", "location": "北京·海淀区·苏州桥", "exp": "3-5年", "edu": "本科", "tags": ["HarmonyOS", "ArkTS", "TypeScript"]},
+      {"url": "/job_detail/2ab799594fe52d2103d829W9EVpW.html", "title": "Android工程师", "company": "省钱快报", "location": "北京·朝阳区·望京", "exp": "5-10年", "edu": "本科", "tags": ["Java", "Android开发经验", "Android客户端产品研发"]},
+      {"url": "/job_detail/51996fb004281d450nx639S5F1NY.html", "title": "蚂蚁阿福-鸿蒙客户端质量-（北/杭）", "company": "蚂蚁集团", "location": "北京·海淀区·万柳", "exp": "3-5年", "edu": "本科", "tags": []},
+      {"url": "/job_detail/7a89c595e8e36f800nF-2Nq-EFNX.html", "title": "鸿蒙研发工程师（C端）", "company": "上海从鲸信息技术", "location": "上海·长宁区·中山公园", "exp": "经验不限", "edu": "本科", "tags": []},
+      {"url": "/job_detail/c36a4593f2d36d6d0nJ529W5ElFY.html", "title": "高级鸿蒙客户端开发工程师（性能优化方向）", "company": "中电信量子集团", "location": "北京·朝阳区·朝外", "exp": "5-10年", "edu": "本科", "tags": []},
+      {"url": "/job_detail/25720d2a7025a2450nB90tS4GVpT.html", "title": "（高级）安卓应用开发工程师 (MJ011054)", "company": "特斯拉 Tesla", "location": "上海·浦东新区·临港", "exp": "5-10年", "edu": "本科", "tags": ["Android客户端产品研发", "架构设计/优化", "C++"]}
+    ],
+    "android": [
+      {"url": "/job_detail/51429691f0077ec30nJ509-9GVVV.html", "title": "鸿蒙开发工程师", "company": "天眼查", "location": "北京·海淀区·苏州桥", "exp": "3-5年", "edu": "本科", "tags": ["HarmonyOS", "ArkTS", "TypeScript"], "dup_of": "harmonyos"},
+      {"url": "/job_detail/11e59b92852356390nxy3tq-EVpZ.html", "title": "兼职 AI 编程（Codex）小程序集成员", "company": "河北日上防盗门", "location": "北京·大兴区·亦庄", "exp": "1-3年", "edu": "本科", "tags": [], "dup_of": "harmonyos"},
+      {"url": "/job_detail/caeaf32dc9aae0110nx53dm6FlFX.html", "title": "【北京】WorkBuddy-移动端高级开发工程师", "company": "腾讯", "location": "北京·朝阳区·亚运村", "exp": "5-10年", "edu": "本科", "tags": ["Android客户端产品研发", "Java", "计算机/软件工程相关专业"]},
+      {"url": "/job_detail/dcdb59c14afdbda11HV-09m7GFtT.html", "title": "高级Android研发工程师", "company": "NewsBreak", "location": "北京·东城区·安贞", "exp": "3-5年", "edu": "本科", "tags": ["Android客户端产品研发"]},
+      {"url": "/job_detail/c36a4593f2d36d6d0nJ529W5ElFY.html", "title": "高级鸿蒙客户端开发工程师（性能优化方向）", "company": "中电信量子集团", "location": "北京·朝阳区·朝外", "exp": "5-10年", "edu": "本科", "tags": [], "dup_of": "harmonyos"},
+      {"url": "/job_detail/c7563416e0f997d80nx52tq1EFFT.html", "title": "高级Android开发", "company": "LesPark", "location": "北京·海淀区·上地", "exp": "5-10年", "edu": "本科", "tags": ["安卓", "AndroidSDK", "Android架构"]},
+      {"url": "/job_detail/7c785a377e5767ef0nZ82NW0F1ZV.html", "title": "android开发", "company": "音娱时光", "location": "北京·海淀区·学院路", "exp": "3-5年", "edu": "本科", "tags": ["Android开发经验", "Android客户端产品研发"]},
+      {"url": "/job_detail/0f7cc58340fdfe850nN53N-7GVRX.html", "title": "Android开发工程师", "company": "北京通远科技", "location": "北京·海淀区·学院路", "exp": "5-10年", "edu": "本科", "tags": []},
+      {"url": "/job_detail/df68d2325088f55a03J73ti9ElpU.html", "title": "Android高级安卓开发（急招岗位）", "company": "牵手", "location": "北京·朝阳区·朝外", "exp": "5-10年", "edu": "本科", "tags": ["Android客户端产品研发", "研发流程优化", "架构设计/优化"]},
+      {"url": "/job_detail/2fc1346a0211efc90nx53960E1FX.html", "title": "中高级android开发工程师", "company": "作业帮", "location": "北京·海淀区·上地", "exp": "3-5年", "edu": "本科", "tags": []}
+    ]
+  }
+}
