@@ -1,0 +1,37 @@
+{
+  "city": "北京",
+  "city_code": "101010100",
+  "base_url": "https://www.zhipin.com/web/geek/jobs",
+  "url_pattern": "{base_url}?query={keyword}&city={city_code}",
+  "note": "站内关键词检索组。URL 直拼 query+city 实测可用；列表卡片与详情提取选择器复用现有链路。检索组与原 recommend/harmonyos/android 并列，job_key 全局去重，跨期全量保留。",
+  "groups": [
+    {
+      "key": "ai_agent",
+      "label": "AI / 大模型 / Agent",
+      "keywords": ["AI", "大模型", "Agent", "LLM", "智能体", "RAG", "AIGC", "多模态", "大模型应用"],
+      "keep_rules": [
+        "标题或 JD 命中 AI / 大模型 / Agent / 智能体 / LLM / RAG / 多模态 / AIGC 之一",
+        "研发岗为主：JD 含开发/工程/算法/架构/平台/全栈等技能词"
+      ],
+      "drop_rules": [
+        "销售 / 商务 / 渠道 / 运营 / 产品经理（纯产品，无研发职责）",
+        "数据标注 / 质检 / 训练师等非研发执行岗",
+        "标题与 JD 均无任何 AI 或研发技能词的误召回"
+      ]
+    },
+    {
+      "key": "fde",
+      "label": "FDE 前置 / 前沿 / 前线部署工程师",
+      "keywords": ["FDE", "前沿部署", "前置部署", "前线部署", "前向部署", "Forward Deployed"],
+      "keep_rules": [
+        "标题含 FDE / 部署工程师 / 交付工程师 / 原型交付，且 JD 含研发或 AI / Agent / 大模型 / 智能体内容",
+        "驻场交付、方案原型到落地、全栈 + AI 层落地类岗位"
+      ],
+      "drop_rules": [
+        "销售 / 商务 / 渠道 / 自带客户资源类岗位",
+        "门店 / 店长 / 前置门店等线下岗位",
+        "纯私有化部署运维 / 实施运维，且 JD 无研发与 AI 内容"
+      ]
+    }
+  ]
+}

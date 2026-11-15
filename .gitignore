@@ -19,3 +19,8 @@ storageState.json
 tmp/
 *.log
 screenshots/
+
+# 编辑器/工具本地配置
+.obsidian/
+.vscode/
+.idea/

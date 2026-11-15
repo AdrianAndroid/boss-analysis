@@ -1,6 +1,6 @@
 # BOSS 岗位分析
 
-采集 BOSS 直聘「推荐 / 鸿蒙开发 / Android」等 tab 下的岗位 JD，拆解技能、统计热门关键词、输出带表格与趋势的分析结论，并为后续"技能 → 学习教程"沉淀映射结构。
+采集 BOSS 直聘「推荐 / 鸿蒙开发 / Android」等 tab，以及「AI/大模型/Agent」「FDE 前置部署工程师」等关键词检索组下的岗位 JD，拆解技能、统计热门关键词、输出带表格与趋势的分析结论，并为后续"技能 → 学习教程"沉淀映射结构。
 
 ## 目录
 
@@ -9,21 +9,25 @@ boss-analysis/
 ├── README.md               # 本文件
 ├── SPEC.md                 # 口径规范（身份键、去重、采集红线、schema）
 ├── PLAN.md                 # 工作计划与阶段进度
+├── docs/
+│   └── ai_fde_research.md  # AI/FDE 检索采集调研（URL 规则、召回、噪声、接入点）
 ├── config/
 │   ├── tabs.json           # 目标 tab、城市、采集上限、限速参数
+│   ├── search_groups.json  # AI/FDE 关键词检索组与过滤规则
 │   └── skills_dict.json     # 技能/关键词词典
 ├── scripts/
 │   ├── detail_store.py      # 详情落盘 / 断点队列 / job_key 生成
 │   ├── clean.py              # 清洗结构化、单批去重、校验指标
 │   ├── build_report.py       # 技能/关键词统计与 Markdown 报告生成
 │   ├── build_curriculum.py   # 技能→教程映射清单生成
+│   ├── make_charts.py        # 增速对比图与存量结构图生成
 │   ├── analyze.py            # 旧版词频统计（兼容保留）
 │   ├── collect.mjs          # Playwright 本地复采骨架（规划项，未启用）
 │   └── lib/                  # Playwright 骨架复用的配置/身份键/存储模块
 ├── data/
 │   ├── raw/<日期>/          # 每期原始快照（list / detail / companies）
 │   └── processed/           # 清洗后结构化明细（CSV + JSON）
-├── reports/<日期>/          # 每期分析报告（analysis.json + Markdown）
+├── reports/<日期>/          # 每期分析报告（analysis.json + Markdown + 图表）
 ├── curriculum/              # 教程映射设计（schema + 待学清单）
 └── progress/checkpoint.json # 断点续采进度记录
 ```
@@ -37,7 +41,10 @@ python3 scripts/clean.py
 # 2) 技能/关键词分析 + 生成 Markdown 报告
 python3 scripts/build_report.py
 
-# 3) 生成技能→教程映射清单（不写教程正文）
+# 3) 生成增速对比图与存量结构图
+python3 scripts/make_charts.py
+
+# 4) 生成技能→教程映射清单（不写教程正文）
 python3 scripts/build_curriculum.py
 ```
 

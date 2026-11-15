@@ -75,6 +75,7 @@ boss-analysis/
 | 5 | 趋势与需求总结：当期基线表、近期高频硬技能、增量新趋势、稀缺方向、岗位分层；预留跨期环比列 | `reports/<日期>/` 报告（表格） | pending | 报告章节完成度、表格清单 |
 | 6 | 教程映射设计：定义 skill_map schema，从 JD 抽取待学技能清单填入；不写教程正文 | `curriculum/` 映射表 | pending | 待学技能数、优先级分布 |
 | 7 | Git 归档：init、首次提交、核对无敏感文件、关联私有仓库并推送 | 私有仓库远端 | pending | 提交记录、入库文件清单核对 |
+| 8 | AI/FDE 检索组调研：实测站内关键词检索 URL、关键词召回与噪声；固化配置与口径 | `config/search_groups.json`、`docs/ai_fde_research.md` | done | URL 规则已验证；FDE/Agent 岗位可见；过滤规则待全量采集时落地 |
 
 ## 六、进度记录机制（断点续作）
 
