@@ -23,7 +23,7 @@ BOUNDARY_WORDS = {"go", "c", "ai", "r", "sdk", "ndk", "rtc", "hal", "mcu", "qnx"
 
 def load_clean():
     data = json.load(open(PROC / "jobs_clean.json", encoding="utf-8"))
-    return [r for r in data["records"] if not r.get("dup_of")]
+    return [r for r in data["records"] if not r.get("dup_of") and not r.get("dropped")]
 
 
 def load_dict():
@@ -128,7 +128,8 @@ def render_markdown(jobs, dictionary, result, growth):
     lines.append(f"- 采集日期：{DATE}　|　城市口径：北京　|　样本：去重后 **{n}** 个岗位")
     lines.append(f"- tab 命中（多对多）：" + "，".join(f"{k} {v}" for k, v in tab_n.items()))
     lines.append("- 说明：本期为第一期基线，尚无历史期可比，环比/上升衰退列保留待第二期回填；薪资受字体反爬影响未纳入统计。")
-    lines.append("- 采集状态：三 tab 列表去重 1063 条全部采集完成，清洗后 1051 个唯一岗位。")
+    lines.append(f"- 采集状态：三 tab（recommend/harmonyos/android）与两个检索组（ai_agent/fde）合并采集，清洗去噪后 **{n}** 个唯一岗位。")
+    lines.append("- 检索组口径：ai_agent 为 AI/大模型/Agent 研发岗；fde 分「核心 FDE」（标题含 FDE/前沿·前线部署）与「相邻交付/解决方案/部署岗」两层，纯销售、投资出版、芯片/FPGA 原型验证、纯客户成功商务岗已剔除。")
     lines.append("- 口径：关键词区分「岗位覆盖数」（命中岗位数）与「词频」（出现次数）；纯英文短词按词边界匹配。\n")
 
     # 总体分组覆盖表

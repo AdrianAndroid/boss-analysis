@@ -15,6 +15,14 @@ DATA_RAW = ROOT / "data" / "raw" / DATE
 DATA_PROC = ROOT / "data" / "processed" / DATE
 
 SALARY_NOISE = re.compile(r"薪|元/月|^\s*[-–—\dKk·\.\s]+$|\d+\s*-\s*\d+\s*K")
+# 去除私有区字体字符/符号/数字/K 后为空，视为薪资或占位噪音标签
+_NOISE_STRIP = re.compile(r"[\uE000-\uF8FF\-–—\dKk·\.\s/]")
+
+
+def _noise_tag(t):
+    if SALARY_NOISE.search(t):
+        return True
+    return _NOISE_STRIP.sub("", t) == ""
 
 
 def load_json(path, default):
@@ -71,9 +79,9 @@ def main():
     # 岗位明细（仅去重后，剔除薪资噪音标签）
     jobs = []
     for r in clean.get("records", []):
-        if r.get("dup_of"):
+        if r.get("dup_of") or r.get("dropped"):
             continue
-        tags = [t for t in r.get("tags", []) if t and not SALARY_NOISE.search(t)]
+        tags = [t for t in r.get("tags", []) if t and not _noise_tag(t)]
         jobs.append({
             "title": r.get("title", ""),
             "company": r.get("company", "") or "匿名",
@@ -81,6 +89,7 @@ def main():
             "location": r.get("location", "") or "—",
             "tags": tags[:5],
             "tabs": r.get("tabs", []),
+            "role": r.get("group_role", ""),
             "url": r.get("url", ""),
         })
 
@@ -165,6 +174,8 @@ td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
 .rank{color:var(--ink-3);font-variant-numeric:tabular-nums;width:34px}
 .tag{display:inline-block;background:var(--line-soft);border-radius:6px;padding:2px 8px;font-size:12px;color:var(--ink-2);margin:2px 4px 2px 0}
 .tag.src{background:var(--accent-soft);color:var(--accent)}
+.tag.core{background:var(--accent);color:#fff}
+.tag.adj{background:transparent;border:1px solid var(--line-soft);color:var(--ink-2)}
 .job-title{font-weight:600}
 .job-company{color:var(--ink-2);font-size:13px}
 a.job-link{color:var(--ink);text-decoration:none}
@@ -375,13 +386,14 @@ function renderJobs(){
   document.getElementById("job-rows").innerHTML=shown.map(j=>{
     const tags=j.tags.map(t=>`<span class="tag">${t}</span>`).join("");
     const srcs=j.tabs.map(t=>`<span class="tag src">${t}</span>`).join("");
+    const roleTag=j.role==="fde_core"?`<span class="tag core">核心FDE</span>`:(j.role==="fde_adjacent"?`<span class="tag adj">相邻交付</span>`:"");
     const href=BOSS+j.url;
     return `<tr>
       <td><a class="job-link" href="${href}" target="_blank" rel="noopener"><div class="job-title">${j.title||"—"}</div></a></td>
       <td class="hide-m job-company">${j.company}</td>
       <td>${j.salary}</td>
       <td class="hide-m muted">${j.location}</td>
-      <td>${tags}${srcs}</td>
+      <td>${tags}${srcs}${roleTag}</td>
     </tr>`;
   }).join("") || `<tr><td colspan="5" class="muted">无匹配岗位</td></tr>`;
   document.getElementById("job-count").textContent=`共 ${rows.length} 个岗位，展示前 ${shown.length} 个`;

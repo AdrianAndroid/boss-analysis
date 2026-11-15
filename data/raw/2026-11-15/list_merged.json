@@ -1,6 +1,6 @@
 {
   "collected_at": "2026-11-15",
-  "count": 1063,
+  "count": 1403,
   "items": [
     {
       "url": "/job_detail/e7668826fd6a4f2d0nJ43tW-GVNV.html",
@@ -1844,7 +1844,8 @@
       "url": "/job_detail/3ff3e2324d3a4e6e0nx63ti7FlBT.html",
       "text": "AI 业务开发工程师（FDE） | -K | 10年以上 | 本科 | 效率工具 | 知识检索 | AI Agent | 途游游戏 | 北京·朝阳区·立水桥",
       "tabs": [
-        "android"
+        "android",
+        "fde"
       ]
     },
     {
@@ -3884,7 +3885,8 @@
       "url": "/job_detail/4e9c1dcbf1c2a8360nx729q_FFRU.html",
       "text": "前沿部署工程师（FDE） | -K·薪 | 1-3年 | 本科 | 全栈无侧重 | 计算机相关专业 | 伴鱼 | 北京·朝阳区·祁家豁子",
       "tabs": [
-        "harmonyos"
+        "harmonyos",
+        "fde"
       ]
     },
     {
@@ -5510,13 +5512,6 @@
       ]
     },
     {
-      "url": "/job_detail/923f78d876d5ed931XZz2Ni9EFU~.html",
-      "text": "产品经理（物联网方向） | -K | 10年以上 | 本科 | B端产品 | 商业产品 | 电商产品 | 北纬科技 | 北京",
-      "tabs": [
-        "recommend"
-      ]
-    },
-    {
       "url": "/job_detail/ca133581d26bdf7903170ti9FlJS.html",
       "text": "市场品牌总监 | -K·薪 | 10年以上 | 本科 | 杭州某大型互联网上市公司 | 北京",
       "tabs": [
@@ -6157,7 +6152,8 @@
       "url": "/job_detail/72caa590ccb174af03Fz3dW8FVtR.html",
       "text": "资深大模型算法工程师 | -K·薪 | 10年以上 | 本科 | agent | rag | 大模型 | 数智建材研究院 | 北京·朝阳区·朝阳公园",
       "tabs": [
-        "recommend"
+        "recommend",
+        "ai_agent"
       ]
     },
     {
@@ -6542,7 +6538,8 @@
       "url": "/job_detail/4f1a54871ee2586a0nJz09q6EldY.html",
       "text": "FDE(C++/GO) | -K·薪 | 10年以上 | 本科 | C++ | Linux开发/部署经验 | 架构设计经验 | 成都精灵云 | 北京·海淀区·学院路",
       "tabs": [
-        "recommend"
+        "recommend",
+        "fde"
       ]
     },
     {
@@ -6891,13 +6888,6 @@
     {
       "url": "/job_detail/23b174a7f5240e8b03F_3dS9ElVY.html",
       "text": "解决方案专家（GIS、零售解决方案经验） | -K·薪 | 10年以上 | 本科 | 智慧城市信息化项目 | 云服务 | 系统集成 | 某大型互联网公司 | 北京",
-      "tabs": [
-        "recommend"
-      ]
-    },
-    {
-      "url": "/job_detail/5872fb0cce65cc4a3n1-0t25EFA~.html",
-      "text": "高级结构工程师 | -K | 10年以上 | 本科 | CATIA | 机械工程师 | 材料工程师 | 一数科技 | 北京·海淀区·学院路",
       "tabs": [
         "recommend"
       ]
@@ -7663,6 +7653,2403 @@
       "text": "PRBP—电商 | -K | 3-5年 | 本科 | 字节跳动 | 北京·海淀区·中关村",
       "tabs": [
         "recommend"
+      ]
+    },
+    {
+      "url": "/job_detail/84d86e93f6670f8c0nxz2tm6EFRW.html",
+      "text": "Agent Harness 首席技术专家 | 5-10年 | 硕士 | 锐捷网络 | 北京·海淀区·中关村",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/8ea210185792cddd0nZ939S_ElBT.html",
+      "text": "Agent Infrastructure 工程师 | 3-5年 | 本科 | Olares | 北京·海淀区·苏州街",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/66e0449f766f9f560nxy0tm0GVJQ.html",
+      "text": "Agent Identity 产品经理（AI安全治理） | 5-10年 | 本科 | 中科创达 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/0f9fd2b2e9b47d590nZy39i9F1tX.html",
+      "text": "Agent Product Manager - Financial | 3-5年 | 本科 | 奇运发发科技有限公司 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/57414c7f5ef81c1d0nd42Ni7GFRR.html",
+      "text": "Agent Infra 工程师 | 3-5年 | 本科 | 美篇 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/9260d73823c219d60nxy2ti0FFBT.html",
+      "text": "【实习】AI Agent 策略产品实习生-BJ | 4天/周 | 3个月 | 本科 | Shopee | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/3218c82b65a97b970nR-29m0E1tT.html",
+      "text": "大模型后训练Agentic RL/General Agent | 经验不限 | 学历不限 | 月之暗面 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/08bd9d2a4b64e1420nN-2tm7EVNX.html",
+      "text": "AI管培生- Agent Builder | 5天/周 | 4个月 | 本科 | 鹿客 | 北京·海淀区·西北旺",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/d4007baed6c5fc8e0ndz0tW5GVZZ.html",
+      "text": "Agent Infra产品运营高级专家-北京/杭州 | 5-10年 | 本科 | 阿里云计算有限公司 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/04a2661589e4092a0nZ62t-4FFpX.html",
+      "text": "产品专家/总师/负责人（ToG /AI Agent ） | 10年以上 | 本科 | 世通亨奇 | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/f1c10dcee33cdef70nN52dm4F1tY.html",
+      "text": "27校招-AI Agent 工程师-分… | 在校/应届 | 本科 | FunPlus | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/b16fb5d251689ed80nx539S4FVVY.html",
+      "text": "AI高级产品经理（Personal Agent ） | 5-10年 | 本科 | 知乎 | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/f8dca856bec0dc4c0nZ609S0FlFX.html",
+      "text": "Agent Infra 运维开发工程师 | 3-5年 | 本科 | 智谱华章 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/338469253e15ea4f0nd82t21E1JU.html",
+      "text": "Agent Harness 研究实习生 | 4天/周 | 3个月 | 本科 | QVeris AI | 北京·海淀区·五道口",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/64bb5873c31052920nJ83N67EltW.html",
+      "text": "资深Java开发工程师（AI agent / AI网关） | 5-10年 | 本科 | 滴滴 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/3ee69e6fefd6684c0nd82ti_F1ZY.html",
+      "text": "大模型 Eval 工程师 | 经验不限 | 博士 | 曼孚科技 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/085b34825c0bbb051Hx_3tu_GFBY.html",
+      "text": "大模型算法 | 经验不限 | 学历不限 | 大物智联 | 北京·东城区·王府井",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/e77ca0be9f3a41b60nd83Nq4FlpT.html",
+      "text": "AI大模型 | 经验不限 | 本科 | 非凸科技 | 北京·东城区·东四",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/ec8dfd245fa1edbb0nR529m1F1dV.html",
+      "text": "大模型算法专家 | 5-10年 | 博士 | 用友网络 | 北京·海淀区·西北旺",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/9b1e7dd0cff2371f0nV-2Ny1E1RV.html",
+      "text": "大模型训练工程师 | 3-5年 | 本科 | 快手 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/41018aeec181f4bf1Hx429-_GVJW.html",
+      "text": "大模型算法专家 | 3-5年 | 硕士 | Flow++ | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/22fc0bf33442d3890nd52dy4FlpS.html",
+      "text": "大模型算法专家 | 经验不限 | 硕士 | 阿里健康 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/9fbbf91d360ec7cf0nV72N60F1VQ.html",
+      "text": "规控大模型算法 | 3-5年 | 硕士 | 长城汽车 | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/a1708d47cc38cc7f03Jz3NS_F1JS.html",
+      "text": "大模型算法工程师 | 4天/周 | 3个月 | 硕士 | 教师研修网 | 北京·朝阳区·亚运村",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/4b1f3b0456f8ca510nx83t65E1ZQ.html",
+      "text": "大模型推理优化工程师 | 在校/应届 | 本科 | BOSS直聘 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/9788e78bc17a082103d-2dS5EVRQ.html",
+      "text": "大模型算法工程师 | 3天/周 | 3个月 | 硕士 | 融乘数科 | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/dbb2ba4ba328aac31HJz29y5GFtQ.html",
+      "text": "大模型算法 | 在校/应届 | 硕士 | MiniMax | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/2f76c71c455ee0551HN43NS1GFtU.html",
+      "text": "大模型算法工程师 | 3-5年 | 硕士 | 首都信息 | 北京·东城区·王府井",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/e8001e7300c73f371HN639W7F1JV.html",
+      "text": "大模型算法实习生 | 5天/周 | 6个月 | 本科 | 领铄智能科技 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/7e917fd11c47c8c603Fz3d21FFVT.html",
+      "text": "大模型算法工程师 | 经验不限 | 硕士 | 奇妙王国 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/54bc98ee9c9c3fe70nF82d24GVRX.html",
+      "text": "【LLM】LLM -预训练数据算法工程师-BJ-社招 | 1-3年 | 本科 | Shopee | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/059b2605566a9c4b0nd53ty1GVZZ.html",
+      "text": "LLM Posttrain算法实习生 | 4天/周 | 3个月 | 硕士 | 米哈游 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/fab83ac3a130ea2f0nx92d28FltV.html",
+      "text": "LLM Agent算法负责人 | 经验不限 | 本科 | 滴滴 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/5122e7d506af99730nx92tS6EVdW.html",
+      "text": "LLM Agent算法负责人 | 经验不限 | 本科 | 滴滴 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/475a4a1da790bcc30nxy09q8FlNZ.html",
+      "text": "LLM Agent算法负责人 | 5-10年 | 硕士 | 滴滴 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/85115d036436090a0nx929y-EFRS.html",
+      "text": "LLM Agent算法负责人 | 5-10年 | 本科 | 滴滴 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/8288c2460334ccc50nxy3N-4ElBS.html",
+      "text": "LLM Agent算法负责人 | 5-10年 | 本科 | 滴滴 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/e9523687397e7a780nx73du8GVJS.html",
+      "text": "LLM 后端技术专家 (AI应用方向) | 5-10年 | 本科 | Shopee | 北京·海淀区·五道口",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/e86daeba8087b5aa0nB629q-GVRX.html",
+      "text": "LLM 预训练研究员 / 工程师 | 5-10年 | 本科 | 北京可达智灵科技 | 北京·海淀区·中关村",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/913fda692b5331ef0nd_3du7GFRS.html",
+      "text": "LLM 后训练算法实习生 | 4天/周 | 3个月 | 硕士 | 米哈游 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/4c3cac0fea0cb8cc0nx839y0F1NW.html",
+      "text": "应用算法工程师 / LLM 应用工程师 | 5-10年 | 本科 | 沃丰科技 | 北京·丰台区·花乡",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/652ce098a24339870nFz0ti9FVtZ.html",
+      "text": "大模型算法工程师(nlp、 LLM、pipeline) | 1-3年 | 本科 | 曼孚科技 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/38cef54bf6265d160nZ92ty_EVVZ.html",
+      "text": "AI研发工程师（LLM/Agent方向） | 3-5年 | 本科 | 百合网 | 北京·朝阳区·朝外",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/6aca5ed3893fa28c0nx-3Ny1FVBV.html",
+      "text": "大模型算法实习生（多模态Agentic LLM） | 5天/周 | 6个月 | 本科 | SenseTime | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/e7f60515b208fda00nB73dS_EVtV.html",
+      "text": "【27届】LLM pre-train算法研究员 | 4天/周 | 4个月 | 硕士 | 上海阶跃星辰智能科技 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/0d6f8c4f1715b6e40nd42dS5F1FR.html",
+      "text": "资深研发工程师 — 智能体 | 3-5年 | 本科 | 滴滴 | 北京·海淀区·西北旺",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/0c802689782a8e6d0nd42dS0FVRR.html",
+      "text": "资深研发工程师 — 智能体 | 3-5年 | 本科 | 滴滴 | 北京·海淀区·回龙观",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/0b841fdab677c1c40nV43dq-GFZS.html",
+      "text": "智能体策略工程师 | 3-5年 | 本科 | 百度在线 | 北京·海淀区·西北旺",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/32ef10456da2d3b90nBy3dW7E1RT.html",
+      "text": "智能体开发工程师 | 1-3年 | 本科 | 康龙化成 | 北京·大兴区·亦庄",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/809e555f972d2ce90nRy3Ni1GFdR.html",
+      "text": "硬件智能体产品经理 | 1-3年 | 本科 | 北京数字基建投资 | 北京·大兴区·亦庄",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/ccd3fe2df900e6580nd43Ny7EFFX.html",
+      "text": "智能体工厂产品专家 | 5-10年 | 本科 | 360集团 | 北京·朝阳区·798",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/7ec45f87c30056280nF_3N26FlpX.html",
+      "text": "AI 智能体专家 | 3-5年 | 本科 | 360集团 | 北京·朝阳区·酒仙桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/91b5e8eccfa02a4e0nd909W9FVFW.html",
+      "text": "智能体开发 | 3-5年 | 硕士 | 戴纳 | 北京·丰台区·科技园区",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c9a5ce145351ad320nRz2Nq1GFZY.html",
+      "text": "AI智能体开发工程师 | 1年以内 | 本科 | 朗新天霁 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/44904e9890f805a00nZy0t61GVVQ.html",
+      "text": "AI智能体开发工程师 | 3-5年 | 本科 | 北京华科众合科技 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/0b1f91e236efa9010ndy2Ni6EVRQ.html",
+      "text": "工业智能体首席专家 | 10年以上 | 硕士 | 北京才立方信息科技 | 北京·海淀区·五棵松",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/bdd92b207ed415e10nV42d69E1VT.html",
+      "text": "智能体算法工程师 | 经验不限 | 硕士 | 北京医索科技有限公司 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/f257b0b12f3053e20nV-09q9FlBU.html",
+      "text": "智能体研发负责人 | 3-5年 | 硕士 | 甲板智慧 | 北京·石景山区·古城",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/311e864d199470120nxy39y6FFJY.html",
+      "text": "安全智能体交付实习 | 5天/周 | 6个月 | 本科 | 360集团 | 北京",
+      "tabs": [
+        "ai_agent",
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/d7f59e52c721ae390nV63N61EVNR.html",
+      "text": "智能体算法架构师 | 5-10年 | 硕士 | OPPO | 北京·朝阳区·朝阳公园",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/fb0d4be861a5ce2603Rz09m1FFJZ.html",
+      "text": "RAG 研发工程师 | 3-5年 | 本科 | 禅境股份 | 北京·海淀区·五道口",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/e4d697998af6d50403J-2du9FFdQ.html",
+      "text": "RAG与数据工程师 | 3-5年 | 本科 | 山西锦波生物 | 北京·朝阳区·大望路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/f2f792cd3064f3bb0nB609-0GFBU.html",
+      "text": "【北斗】大模型算法-RL/推理/RAG/多模态 | 在校/应届 | 硕士 | 美团 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/a0926c4355a0fca40nZ439q7FVJX.html",
+      "text": "RAG架构师（北深上成都） | 经验不限 | 本科 | 腾讯 | 北京·海淀区·马连洼",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/427bec4612626f041Hx-0tW0EFJV.html",
+      "text": "蚂蚁集团-RAG检索算法工程师-北京急招 | 经验不限 | 硕士 | 蚂蚁集团 | 北京·海淀区·魏公村",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/2ae78c0ea217c5bf0ndy2921EFBU.html",
+      "text": "千问/夸克-AI搜索-RAG/Agent算法专家-京/杭 | 经验不限 | 硕士 | 阿里巴巴千问事业部 | 北京·朝阳区·朝外",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/67b43798237248d303xz3tS6EVtQ.html",
+      "text": "AI算法工程师 (知识图谱与RAG方向) | 3-5年 | 硕士 | 北京一起成行科技 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/e2cfe01ecf4be0490nd73d60FVtS.html",
+      "text": "阿里千问-日常算法实习生-RAG检索算法 | 4天/周 | 3个月 | 本科 | 阿里集团 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/ff4a3ed4cf6547070nx709i_FVtT.html",
+      "text": "【年薪35-45w】Java资深讲师(ai应用) | 3-5年 | 本科 | 传智教育 | 北京·昌平区·西三旗",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/0fc7835ec9be25aa03xz0tS_EVJW.html",
+      "text": "项目经理 | 3-5年 | 本科 | 万维空间 | 北京·丰台区·六里桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/db13263914d64fda0nd52ti_ElNS.html",
+      "text": "python开发+周末双休+全额五险一金 | 经验不限 | 本科 | 勇冠睿智 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/387777fcdf7c97370nZ43969E1tU.html",
+      "text": "运维开发工程师(AI方向) | 3-5年 | 本科 | 欢网科技 | 北京·朝阳区·劲松",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/6f349e8ac259b378031-09y4GVVW.html",
+      "text": "大模型Agent算法工程师 | 5-10年 | 硕士 | 人形机器人创新中心 | 北京·大兴区·亦庄",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/bd83714f3ff0f7740ndy39m_F1VW.html",
+      "text": "Java开发（AI方向） | 3-5年 | 本科 | 纬致芯创科技 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/9daa5c01bde0550b0nN-3N28EFJW.html",
+      "text": "AIGC C端产品经理（AI创作工具方向） | 3-5年 | 本科 | Shopee | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/208cd0c0ac6d3f560nx-3NW8E1RW.html",
+      "text": "AIGC 多模态算法实习生 | 4天/周 | 3个月 | 硕士 | 明略科技 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/49e2988f1625425f0nd63Nq-EVVW.html",
+      "text": "AIGC 增长实习生 | 5天/周 | 6个月 | 本科 | 火花思维 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c3ee49fa51413c0a0nZ83t68GFRR.html",
+      "text": "AIGC 内容创作运营 | 5天/周 | 3个月 | 本科 | 微竞体育文化 | 北京·朝阳区·朝阳公园",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/9df3a164e31b55200nx83du7EFFW.html",
+      "text": "AIGC 效果设计师 | 3-5年 | 本科 | 亿达信息 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/4867afee89194f1803B709m-ElpV.html",
+      "text": "AIGC 产品经理(J12007) | 3-5年 | 本科 | Keep | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/794509b51af34e860nd-0tW5GFdU.html",
+      "text": "AIGC 师（AI 电影 / VR 内容方向） | 1-3年 | 本科 | 北京爱立斯文化发展 | 北京·朝阳区·朝外",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/9c6ceba356d8044e0nx52tW0ElBS.html",
+      "text": "资深 AIGC 视频生成师（动态生成师） | 1-3年 | 本科 | 科大讯飞 | 北京·朝阳区·常营",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c803bf081433b1ce0nNy2Nu9F1BY.html",
+      "text": "AIGC 视觉/动画设计实习生 (MJ050507) | 5天/周 | 3个月 | 本科 | 好未来 | 北京·昌平区·回龙观",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/311a4e836666db7c0nR42t-7FFJU.html",
+      "text": "AIGC 产品经理（技术落地 & 创意工具流） | 1-3年 | 本科 | 途游游戏 | 北京·朝阳区·亚运村",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/ce3f2a36897228530nN73Nu_GFNX.html",
+      "text": "汽车行业 AIGC 产品经理 | 经验不限 | 本科 | 汽车之家 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/9d21593b5d3ee4eb0nZ92d69FVNU.html",
+      "text": "市场技术专家（SWITCH/AIGC）(A154740) | 10年以上 | 本科 | 云合智网 | 北京·海淀区·西二旗",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c305ba32b0b175650nxy09m4E1ZY.html",
+      "text": "AIGC 美工助理｜小白可接受！缴纳五险一金 | 经验不限 | 大专 | 北京惠民行科技有... | 北京·昌平区·天通苑",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/dfb8146052af008a0ndz0tS5GFpW.html",
+      "text": "大客户销售（政企/ 数据中心 / AIGC 集成） | 经验不限 | 大专 | 南京旺德睿 | 北京·丰台区·宋家庄",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c52295bbba7083eb03F929u7GVRR.html",
+      "text": "AI 社交-算法研究员/专家 - AIGC （CV） | 经验不限 | 本科 | 昆仑万维科技股份... | 北京·东城区·东单",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/2b7dbc16317c22750nJ_2d27ElRX.html",
+      "text": "多模态 Agent 算法 / 工程师 | 经验不限 | 硕士 | 北京轨道辰光科技 | 北京·海淀区·西北旺",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c95daee4c6adce8d0nd63NS0FVNX.html",
+      "text": "多模态 Data Infra 高级工程师-可灵AI | 3-5年 | 本科 | 快手 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/8b794af77a7e69470nxy29i9F1dR.html",
+      "text": "AI 应用开发-大模型 多模态 Agent | 5-10年 | 本科 | 360集团 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/91ea47890cd1d8f60nx839m0EVdW.html",
+      "text": "多模态大模型算法 | 3-5年 | 硕士 | 京东物流 | 北京·大兴区·亦庄",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/978fd356b8f1c9e50nV42Nm5EFFQ.html",
+      "text": "多模态算法专家 | 5-10年 | 硕士 | 广联达 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c47552233effc8c60nN639-0EFJS.html",
+      "text": "多模态音频标注 | 1-3年 | 本科 | 联想利泰 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/3cfab004f5c6fdad0nF53t27GVBS.html",
+      "text": "安全多模态大模型方向 | 在校/应届 | 硕士 | BOSS直聘 | 北京·朝阳区·太阳宫",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/5160860705d1e32e0nd_2tu9GFBX.html",
+      "text": "多模态视觉理解效果评测 | 经验不限 | 本科 | 北京新满泰科技 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/e66b2f9333e541bb0nZ53Nm1GFJX.html",
+      "text": "多模态算法工程师 | 3-5年 | 本科 | 北京灵感时刻 | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/df5a290c824cd3760ndz39S7F1tX.html",
+      "text": "多模态算法工程师 | 5天/周 | 6个月 | 硕士 | 心影随形 | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/54c7c027dd052bf503J_3dq5EFBZ.html",
+      "text": "大模型/多模态算法 | 5-10年 | 硕士 | coupang | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/3dfb0080026448a30nN72N21FlpT.html",
+      "text": "多模态大模型算法专家 | 3-5年 | 本科 | 测测 | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/2a0ade223a74e57e0nB60ty8E1ZW.html",
+      "text": "多模态模型算法研究专家 | 1-3年 | 硕士 | 腾讯 | 北京·海淀区·西北旺",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/debf53dcdf233b060nd7296_E1pU.html",
+      "text": "高级算法-多模态 | 5-10年 | 硕士 | 美的 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/030bde89db40160d03170t28ElZT.html",
+      "text": "多模态算法工程师 | 1-3年 | 硕士 | 百川智能 | 北京·海淀区·五道口",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/4cf24da7854b361e03Vz3tm7FFBY.html",
+      "text": "大模型应用 | 1-3年 | 本科 | 字节跳动 | 北京·朝阳区·大望路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/5865fe752b27a6430nR40ty8EVZX.html",
+      "text": "大模型应用研发工程师 | 1-3年 | 本科 | 知擎科技 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/d3656ebef0f3bf6a0nd50ti9F1RW.html",
+      "text": "大模型应用算法工程师 | 3-5年 | 硕士 | 美团 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/dfb1ffb6e78a88cd0nZ_2Nq0ElNW.html",
+      "text": "大模型算法应用工程师 | 1-3年 | 本科 | 寒武纪 | 北京·海淀区·北太平庄",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c42890fb252256c20nV82dm7GFRQ.html",
+      "text": "大模型应用开发工程师 | 3-5年 | 本科 | 格尔软件 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/574930efc9aa549403d72d-1ElJY.html",
+      "text": "大模型算法应用工程师 | 1-3年 | 硕士 | 搜狐 | 北京·海淀区·中关村",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/699586050809fea00nB60967FldZ.html",
+      "text": "高级AI大模型应用工程师 | 5-10年 | 硕士 | 北京才立方信息科技 | 北京·海淀区·五棵松",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/7582bec5cf57c0630nB73dq-E1VT.html",
+      "text": "大模型应用开发工程师 | 3-5年 | 硕士 | 与爱为舞 | 北京·海淀区·西二旗",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/619ea2c65fa4ce630nJ82t29EFVZ.html",
+      "text": "个性化与大模型应用算法工程师 | 1-3年 | 硕士 | BOSS直聘 | 北京·朝阳区·太阳宫",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/5a98620fb9e4e2ed031939S-EVpY.html",
+      "text": "蚂蚁集团-AGI-多模态大模型应用算法-灵光 | 3-5年 | 本科 | 蚂蚁集团 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c4a24c395acaa39103x83Nu8FFtZ.html",
+      "text": "大模型算法工程师-AIGC应用研究 | 在校/应届 | 硕士 | MiniMax | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c7b40943b5797f8b0nN93di8ElpS.html",
+      "text": "算法实习生（大模型技术+创新应用） | 5天/周 | 3个月 | 博士 | 滴滴 | 北京·海淀区·西北旺",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/8d633d5645063c1c0nd62ti1GFBW.html",
+      "text": "大模型应用开发工程师 | 5-10年 | 本科 | 中科聚信 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/7e4da9192ea263f90nR809q8FVpV.html",
+      "text": "AI大模型应用工程师（量化交易方向） | 1年以内 | 本科 | 量锐科技 | 北京·丰台区·花乡",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/ea94e1882d8a8a250nV63Nu9FlJZ.html",
+      "text": "千问C端事业群-大模型应用算法专家-北京 | 3-5年 | 本科 | 阿里巴巴千问事业部 | 北京·朝阳区·来广营",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/545e07ebcb8361911HF-29u9FFVY.html",
+      "text": "AI Expert 人工智能专家 | 5-10年 | 硕士 | 高知特智能技术 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/b19b7ecdd137c13803d63dS6GFVQ.html",
+      "text": "AI 人工智能算法开发工程师 | 3-5年 | 硕士 | 西思艾 | 北京·海淀区·中关村",
+      "tabs": [
+        "ai_agent",
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/fb9f6126b587e67303Fy2dy5FFFZ.html",
+      "text": "ai人工智能工程师 | 1-3年 | 本科 | 奇妙王国 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent",
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/72c967c263458acb03Z_3dS0E1BY.html",
+      "text": "AI人工智能算法工程师 | 经验不限 | 硕士 | 康龙化成 | 北京·大兴区·亦庄",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/069674b49f6c21ae1H1-09W0GVtV.html",
+      "text": "AI人工智能、边缘计算产品销售 | 3-5年 | 本科 | 北京强云创新科技 | 北京·昌平区·回龙观",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/896fdee470096bf00nd63t67E1tY.html",
+      "text": "招聘实习生（AI人工智能行业） | 4天/周 | 3个月 | 本科 | 智源人工智能研究院 | 北京·海淀区·学院路",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/ecf148b85cf5486b03Z63dW6GFZY.html",
+      "text": "软件大客户销售（人工智能AI产品） | 1-3年 | 大专 | 星河智源 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/a088387094d2fce403F_2tq7EFNQ.html",
+      "text": "诚招清华大学毕业生-AI人工智能专业 | 经验不限 | 本科 | 福石投资 | 北京·朝阳区·望京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/9bd74c66e4e0f91703R40968FlFR.html",
+      "text": "AI人工智能/大客户经理/政府侧资源优先 | 3-5年 | 大专 | 中科汇联 | 北京·海淀区·上地",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/44717e728a01b67903N839i-ElFX.html",
+      "text": "人工智能 | 4天/周 | 3个月 | 本科 | 易景道景观 | 北京·东城区·安定门",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/14ca876da827e1f30nV509S0E1BZ.html",
+      "text": "人工智能助理 | 1-3年 | 本科 | 兰色希望 | 北京·东城区·王府井",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/d5fd9ed9d6f16d1003F53du8EldZ.html",
+      "text": "人工智能讲师 | 3-5年 | 本科 | 北京博海迪信息科技 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/c6b3b31874f7dd380nV53Nq-FldV.html",
+      "text": "人工智能应用研究 | 5-10年 | 本科 | 中铝数为 | 北京·海淀区·西直门",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/8456055b4ef5508a03B73di9GFVX.html",
+      "text": "人工智能讲师 | 经验不限 | 本科 | 华晟经世 | 北京",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/0a04b7bb1c457c441HV-29i5F1dW.html",
+      "text": "人工智能实习生 | 5天/周 | 3个月 | 学历不限 | 汇智有识 | 北京·通州区·武夷花园",
+      "tabs": [
+        "ai_agent"
+      ]
+    },
+    {
+      "url": "/job_detail/6daf8ec7b1cb7e680nN429u1ElNY.html",
+      "text": "FDE / Forward Deployed Engineer | 3-5年 | 本科 | 聚宽投资 | 北京·朝阳区·世贸天阶",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/bf71d01d95afb1af0nx82tq_F1ZW.html",
+      "text": "AI搜索评测运营（FDE） | 5-10年 | 本科 | 360集团 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/a8277639abf7a9b30nN-0tS5EVJU.html",
+      "text": "AI 交付 FDE | 3-5年 | 本科 | 神策数据 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/b1573808c7417f830nN83NS9GFJR.html",
+      "text": "（FDE）医疗AI‑Agent前线交付研究员 | 经验不限 | 本科 | 康龙化成 | 北京·朝阳区·大望路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/b26b1b35246c7aba0nxy096_E1RU.html",
+      "text": "（J73188）AI应用工程师（FDE… | 5天/周 | 3个月 | 本科 | 贝壳找房 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/f15229c4b6e508000nN52tm6E1JT.html",
+      "text": "CatPaw FDE 工程师-Agent开发 | 3-5年 | 本科 | 美团 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/678a9cdc4e7ee2800nF42N21EVtT.html",
+      "text": "FDE - AI Forward Deployed Engineer | 1-3年 | 本科 | 创新奇智 | 北京·海淀区·中关村",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/e417cce0a837af040nF82t20GFBZ.html",
+      "text": "前沿部署工程师（FDE） | 5-10年 | 本科 | 科大讯飞 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/9a26d64c0136dfda031409-8EVNQ.html",
+      "text": "现场部署工程师（FDE） | 3-5年 | 硕士 | 未尔科技 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/06488ef63500481f0nBy09i_GVBU.html",
+      "text": "网络安全FDE | 3-5年 | 本科 | 安恒信息 | 北京·海淀区·万柳",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/0dc5001e898023000nx-3Ny-FlNX.html",
+      "text": "FDE培训业务负责人 | 10年以上 | 硕士 | 致远互联 | 北京·海淀区·颐和园",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/785703c5d62d9f240nx52t-7GFZQ.html",
+      "text": "FDE培养计划 | 在校/应届 | 本科 | 好未来 | 北京·昌平区·回龙观",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/e1ea829cf167bbf50nJz2NW9F1FW.html",
+      "text": "【顶尖人才】27届校招 前沿部署工程师 | 在校/应届 | 本科 | Shopee | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/4a09fb69c27360930nx53NW4GVZU.html",
+      "text": "美团餐饮系统—前沿部署工程师（FDE） | 5-10年 | 本科 | 美团 | 北京·朝阳区·太阳宫",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/77f4e5d137d5086a0nx73929FFtY.html",
+      "text": "AI-前沿部署工程师（FDE） | 3-5年 | 本科 | 百炼智能 | 北京·朝阳区·亚运村",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/44334b1199f9c9c30nx_39i0EVJY.html",
+      "text": "FDE 前沿部署工程师（北京） | 5-10年 | 本科 | 谷川联行 | 北京·丰台区·六里桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/17322fd0f338072403N-2ty-EVNZ.html",
+      "text": "AI应用前沿方案架构师 | 3-5年 | 硕士 | 中经社 | 北京·西城区·金融街",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/90fc64184aa8528203F92N6_EFdW.html",
+      "text": "前沿科技主编/出版人 | 5-10年 | 本科 | 中信出版集团 | 北京·朝阳区·朝外",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/86ab75d9c0f05e8f0nR93t65FlRT.html",
+      "text": "VLM/VLA前沿算法研究员 | 5-10年 | 硕士 | 卓世科技 | 北京·丰台区·花乡",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/8d028e5a55f9ccac0nR62di4EVJT.html",
+      "text": "算法工程师（前沿探索方向） | 经验不限 | 硕士 | 青鸟消防 | 北京·海淀区·五道口",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/b28552654f19793e0nZ73tq_FVVU.html",
+      "text": "HongShan In实习生-AI/前沿科技方向 | 4天/周 | 3个月 | 本科 | 红杉中国 | 北京·朝阳区·大望路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/9d014465d53338ab03B_2tS9GVFS.html",
+      "text": "数据科学-与顶尖团队探索AI 驱动的商业前沿 | 1-3年 | 本科 | BOSS直聘 | 北京·朝阳区·太阳宫",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/c5986959057721d80nd829S_FVFZ.html",
+      "text": "投资助理-AI及前沿科技方向 | 4天/周 | 3个月 | 本科 | BAI 资本 | 北京·朝阳区·左家庄",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/c977f5dce63dd85d0ndy2t-_FltT.html",
+      "text": "前沿科技投资（光子/量子/核聚变/生物/AI) | 5-10年 | 硕士 | 中科创星 | 北京·海淀区·知春路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/92ac6795ef84f6730nB70969EVJU.html",
+      "text": "前线部署负责人 | 5-10年 | 本科 | 目的涌现 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/9d1435e64cdd7f220nd-09y4ElZQ.html",
+      "text": "算法工程化部署 | 经验不限 | 本科 | 荣耀 | 北京·海淀区·西北旺",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/c147607b2336311f0nd43dy7E1FZ.html",
+      "text": "AI算法部署实习工程师 | 4天/周 | 6个月 | 本科 | 智汇云舟 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/cb96d2357772eade03F62Ny7EFZS.html",
+      "text": "算法部署工程师 | 3-5年 | 本科 | 长城汽车 | 北京·海淀区·知春路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/0b738ae0c8e9a8ab0nVz2d67ElNQ.html",
+      "text": "端侧大模型部署优化工程师 | 3-5年 | 硕士 | 上海阶跃星辰智能科技 | 北京·海淀区·中关村",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/2908938e49084c5b0nx92tu8ElFS.html",
+      "text": "VLA模型训练与部署实习生 | 4天/周 | 4个月 | 本科 | 逐际动力 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/3211d67ca3b6fdcc0nd43tW_EldX.html",
+      "text": "大模型部署算法工程师 | 经验不限 | 本科 | 清华大学 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/721371aee7d08ff60315392-E1BW.html",
+      "text": "具身算法部署工程师 | 3-5年 | 硕士 | 小鹏汽车 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/d92f60b2637d5b650nB7292_GVZZ.html",
+      "text": "模型部署工程师 | 3-5年 | 本科 | 汉朔科技 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/76c92287f6254761031929u4EVRQ.html",
+      "text": "高级算法优化与部署工程师 | 1-3年 | 硕士 | 八爪智能 | 北京·东城区·北京站",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/a54a7c17e6ee978b0nB_29S8GVZW.html",
+      "text": "AI模型部署工程师 | 3-5年 | 本科 | 京东物流 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/cb6cdfc3703664800nV43t-5EVtS.html",
+      "text": "端到端部署开发工程师 | 经验不限 | 本科 | 北汽研究总院 | 北京·大兴区·亦庄",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/0aa83d091731c3030nd52N24GFVS.html",
+      "text": "端侧大模型部署优化工程师 | 3-5年 | 本科 | 上海阶跃星辰智能科技 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/0af620e9723f48c70nZz3NW5EVpS.html",
+      "text": "模型部署与推理优化工程师 | 3-5年 | 本科 | 原力灵机 | 北京·海淀区·清河",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/ac1edc182cb5603503B52Nu_GFpZ.html",
+      "text": "高级模型部署/训练工程师 | 3-5年 | 硕士 | 北京酷睿程科技 | 北京·海淀区·西北旺",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/bcdc4bd3993bbb690nd43t65GFtZ.html",
+      "text": "感知模型部署工程师 | 5-10年 | 本科 | 荣耀 | 北京·海淀区·西北旺",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/7e59a9cb3888cce203R809S7FVJQ.html",
+      "text": "交付工程师 | 1-3年 | 本科 | 中兴正远 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/06fb52eea09dda9103J62tm4EFNQ.html",
+      "text": "交付工程师 | 1-3年 | 本科 | 格尔软件 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/97446db579fd44e703d-3dy1EFNW.html",
+      "text": "交付工程师 | 5天/周 | 12个月 | 本科 | 神州灵云 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/2e09a85ce8b89a620nN60t-7FVdQ.html",
+      "text": "AI Agent 交付工程师 (MJ002844) | 1-3年 | 本科 | 百融云创 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/e3e355400278be830nx62Ny4EVNV.html",
+      "text": "交付工程师-上海/北京/深圳/广州/杭州 | 3-5年 | 本科 | SmartX | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/d0ea9fc1305a77830nZz0t2_FFpZ.html",
+      "text": "交付实施工程师 | 在校/应届 | 本科 | 首信科技 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/3feee2c983005d0803F73t-9FFtU.html",
+      "text": "运维交付工程师 | 3-5年 | 本科 | 嘉为科技 | 北京·朝阳区·劲松",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/fa52755ed309fdc11XJ73t2-GVVR.html",
+      "text": "交付工程师 | 经验不限 | 本科 | 云盾智慧 | 北京·西城区·百万庄",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/36b917a7e09a733c03d60t-8GFRU.html",
+      "text": "交付工程师 | 1-3年 | 学历不限 | 墨云科技 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/515c7d927aa6caeb0nx92NS9EFRV.html",
+      "text": "技术交付工程师 | 在校/应届 | 本科 | 小米 | 北京·海淀区·清河",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/28f318dbece8577e0nB70tu6FltR.html",
+      "text": "算法交付工程师 | 3-5年 | 大专 | 中科创达 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/e1410f95afecf57703d-2Nq8FlVY.html",
+      "text": "交付工程师 | 1-3年 | 本科 | 广州云趣 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/1c187f09145bef7e03x-3N-1EFZQ.html",
+      "text": "算法交付工程师 | 5-10年 | 本科 | 稳准智能科技 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/5689340fbe7152cb0nZ93di8EFRZ.html",
+      "text": "交付工程师 | 3-5年 | 本科 | 原点数安 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/c191cabf1d0b26210nF53920GFpY.html",
+      "text": "系统交付工程师 | 3-5年 | 本科 | 京东物流 | 北京·通州区·马驹桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/afeecb030935bac60nZ42NW1F1BS.html",
+      "text": "解决方案工程师 | 5-10年 | 硕士 | 北京明珠智慧新能源 | 北京·大兴区·亦庄",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/9f461c2cb504f7330nxy3N28FVJT.html",
+      "text": "解决方案工程师 | 经验不限 | 本科 | 学堂在线 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/0d1cfb55a4d6aee70nZ72tW_ElpX.html",
+      "text": "解决方案工程师 | 5-10年 | 本科 | 华望科技 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/8d78cdc5b1f9563b03x829W7GVVX.html",
+      "text": "解决方案工程师 | 1年以内 | 本科 | 国瑞数智 | 北京·海淀区·小西天",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/43ec2125b7bd52d803R709W0EFNW.html",
+      "text": "解决方案工程师 | 3-5年 | 本科 | 鉴衡认证中心 | 北京·东城区·柳芳",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/5bd408e68c9b96a30nN62dW6FFZS.html",
+      "text": "解决方案工程师 | 3-5年 | 本科 | 诚迈科技 | 北京·东城区·王府井",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/9d89fd250e5f393303Z_3Ny9EVRV.html",
+      "text": "解决方案工程师 | 1-3年 | 本科 | UBiX | 北京·东城区·美术馆",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/4d5427fa233937670nV-2t65E1JY.html",
+      "text": "解决方案工程师 | 3-5年 | 本科 | 浙江大华 | 北京·丰台区·丽泽",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/658a913fdbc9e07003Z_2dW1E1tR.html",
+      "text": "解决方案工程师 | 1-3年 | 硕士 | 天仪研究院 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/788e218bf71afb2c1X1z3tS5E1pW.html",
+      "text": "解决方案工程师 | 3-5年 | 本科 | Zenlayer | 北京·朝阳区·三元桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/183822d5218ec7cb1XZ90926F1FQ.html",
+      "text": "解决方案工程师 | 3-5年 | 本科 | 淳中科技 | 北京·海淀区·西北旺",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/425cda27d6d6f6d00nd82tW1GVpX.html",
+      "text": "解决方案工程师 | 3-5年 | 硕士 | 白杨智能 | 北京·海淀区·西北旺",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/eb0b0dd6fa27af8f03N62t21ElZR.html",
+      "text": "售前解决方案工程师 | 3-5年 | 本科 | 涛思数据 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/118b2f6a777e4b950nV83N-5ElZW.html",
+      "text": "售前解决方案工程师 | 3-5年 | 本科 | 驭势科技 | 北京·朝阳区·三里屯",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/70c5082c67c716ba0nJz3926GVJS.html",
+      "text": "工业场景AI落地解决方案工程师 | 5-10年 | 本科 | 华夏易联 | 北京·西城区·德胜门",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/783a08760db83b080nxy3d29F1ZZ.html",
+      "text": "核工业数字化售前技术支持（售前工程师） | 3-5年 | 本科 | 众芯汉创 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/595c1587bf8b624a1XJ93tu8GFBW.html",
+      "text": "售前工程师 | 1-3年 | 本科 | 正孚软件 | 北京·大兴区·高米店南",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/5587139795bd80181XF429y-FFFT.html",
+      "text": "售前工程师 | 经验不限 | 硕士 | 津发科技 | 北京·海淀区·安宁庄",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/5419ea15adb20d5b0nRy2tu_FFtY.html",
+      "text": "售前工程师 | 3-5年 | 本科 | 江南信安 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/3090dc27c4a1390d0nZz3dW6FVRZ.html",
+      "text": "售前工程师 | 5-10年 | 大专 | 中奥科技 | 北京·东城区·王府井",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/5fefaea91c50ffa11X1539S5EVNU.html",
+      "text": "售前工程师 | 3-5年 | 本科 | 金钱猫科技 | 北京·大兴区·旧宫",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/bc103e3f1ed54c4d1Xd40tq1FFRS.html",
+      "text": "售前工程师 | 3-5年 | 本科 | 万里红科技有限公司 | 北京·海淀区·中关村",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/17747220d27101880nxy09--EFtY.html",
+      "text": "售前工程师 | 3-5年 | 本科 | 索贝数码 | 北京·朝阳区·大望路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/1f3aaa9cbfb00b6f0nR-3NW_EVRU.html",
+      "text": "售前工程师 | 3-5年 | 本科 | 鹍智科技 | 北京·丰台区·科技园区",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/abf247507685ff5603B_3ty4E1tY.html",
+      "text": "售前工程师 | 1-3年 | 本科 | 赛目科技 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/60ed49d88c1e361703d-296-FlVV.html",
+      "text": "售前工程师 | 经验不限 | 硕士 | 中铁信安 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/fc97e97b8247465303N429m8GVVT.html",
+      "text": "售前工程师 | 1-3年 | 大专 | 上海星钛数码科技公司 | 北京·东城区·王府井",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/8a868de57fc75d661n1-2dW_EVpW.html",
+      "text": "售前工程师 | 5-10年 | 本科 | 观安信息 | 北京·西城区·德胜门",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/b775728e2262400503F93NS_F1BZ.html",
+      "text": "售前工程师 | 在校/应届 | 本科 | 任子行 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/f2dee30a5be614b11XRy3NW4GVBY.html",
+      "text": "售前工程师 | 经验不限 | 本科 | 鹏通高科 | 北京·丰台区·马家堡",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/bf682ab2acd6636703xz2Ni7F1pY.html",
+      "text": "交付技术专家 | 5-10年 | 本科 | 微步在线 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/96a7819f580bdeef03xy29i-GFNW.html",
+      "text": "海外项目交付技术专家 | 3-5年 | 本科 | 易控智驾 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/48f15986d7f3d07a0nVy0ty4FlRX.html",
+      "text": "技术总监（交付实施） | 5-10年 | 本科 | 中数睿智 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/0b89d9cce1415f250ndy39S9EFBT.html",
+      "text": "技术交付（实习生）(J13727) | 5天/周 | 3个月 | 本科 | 安恒信息 | 北京·海淀区·五道口",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/8f5b36ed12384c5e1HBz29m5FlNR.html",
+      "text": "技术交付工程师（项目经理管培生） | 经验不限 | 本科 | 北京橡数科技有限公司 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/c0f70d9e95f9dd4d03Vy3928FFJV.html",
+      "text": "技术型项目经理 | 5-10年 | 本科 | 金睛云华 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/66f8e793dd44f7840nZ-3Nm6GFpR.html",
+      "text": "交付运维 | 3-5年 | 大专 | 亿达信息 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/7d42eb1ffc1cbc020ndy2d-0FlZW.html",
+      "text": "交付总监 | 5-10年 | 本科 | 数坤网络科技股份... | 北京·朝阳区·亚运村",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/76362d1fd200d13003Zz3tq-FlRQ.html",
+      "text": "交付研发工程师 | 3-5年 | 本科 | 中盾智安 | 北京·海淀区·白石桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/ff729369dd767e1403F82du1GFJZ.html",
+      "text": "原型验证工程师 | 5-10年 | 硕士 | 北京行云集成电路 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/15a8ff5a3bd9730f1XJ83dm6E1NR.html",
+      "text": "高级FPGA原型验证工程师 | 3-5年 | 硕士 | 展讯通信(上海)... | 北京·海淀区·北太平庄",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/683fc9f9c39182340nx529i7F1RT.html",
+      "text": "2027校招-FPGA原型验证工程师 | 在校/应届 | 硕士 | 思朗科技 | 北京·海淀区·清河",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/abe9e3cc9c9e15110nd82928EVNV.html",
+      "text": "芯片原型软件-高速接口（北京） | 3-5年 | 硕士 | 摩尔线程 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/5baec51f8324d6770ndy2dq8GFVU.html",
+      "text": "原型验证工程师 | 1-3年 | 本科 | 翼华科技 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/79d077ed64ebd8d80nB62du0E1VR.html",
+      "text": "SOC原型验证工程师 | 经验不限 | 本科 | 北京开芯红科技 | 北京·海淀区·中关村",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/c66b2aabfb24a9fc0nd_2N60EVdU.html",
+      "text": "FPGA原型验证实习生 | 4天/周 | 12个月 | 硕士 | 辉羲 | 北京·海淀区·中关村",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/6c8d240373de3c9303192Nq1FVpT.html",
+      "text": "FPGA原型验证工程师 | 3-5年 | 本科 | 北京芯升半导体科技 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/7002394717f7aa380nd82t25F1pQ.html",
+      "text": "FPGA/EMU原型机工程师 | 5-10年 | 本科 | 博瑞精芯 | 北京·朝阳区·朝外",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/bbcb3919e2cb7c6c0nZ52Nm_EFJW.html",
+      "text": "FPGA原型验证工程师-2026(A199789) | 经验不限 | 本科 | 上海曦望芯科智能科技 | 北京·海淀区·万柳",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/e7ff9d5bb3d9f0110nx829q5EVdU.html",
+      "text": "交付经理 | 3-5年 | 大专 | 中科创达 | 北京·顺义区·马坡",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/1d6517a8adc6c88c1HR92tm0FlRU.html",
+      "text": "交付经理 | 3-5年 | 本科 | 智睿博 | 北京·昌平区·沙河",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/33bdbf704137eabb0nZ_2N-9E1RZ.html",
+      "text": "项目交付经理 | 3-5年 | 大专 | 赛博智能 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/2c214b53965c2e710nNy0ty6FFZV.html",
+      "text": "客户成功工程师 | 1-3年 | 本科 | Ptmind | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/1bc71d4919af7a990nd62dq6F1FV.html",
+      "text": "客户成功运维工程师（SRE方向） | 5-10年 | 本科 | 北京可达智灵科技 | 北京·海淀区·中关村",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/98ade5a69e416b760nxy0tu6FVBY.html",
+      "text": "客户成功 | 1-3年 | 大专 | 法本 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/72dfdc3f586d24a31X1y2t-6GVZT.html",
+      "text": "客户成功专员 | 1-3年 | 大专 | 探迹 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/0266fd06a53e0b1d1H192920GVFQ.html",
+      "text": "客户成功经理 | 1-3年 | 本科 | 微步在线 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/dab3398ba1207c191nF93dS_GVVT.html",
+      "text": "客户成功经理 | 1-3年 | 本科 | ONES | 北京·朝阳区·亚运村",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/ab7599093d4d36860nd_0tq0EVJQ.html",
+      "text": "客户成功专员 | 1-3年 | 本科 | 红石榴 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/99851ad208dd9a581HJ-2tq4GVdS.html",
+      "text": "客户成功经理 | 1年以内 | 本科 | 一心向上ESOP | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/c7b2ca2a894c76fb031539y6ElRY.html",
+      "text": "客户成功经理 | 3-5年 | 本科 | PingCode | 北京·海淀区·清河",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/e84b0fc6a16d59ac03N_0tm4FlZW.html",
+      "text": "客户成功总监 | 10年以上 | 本科 | 云客数智 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/2a7ae16fd758eb101Hx509i6FVNX.html",
+      "text": "客户成功经理 | 3-5年 | 本科 | 在途商旅 | 北京·朝阳区·大望路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/9a856ab9903775230nV83tS0FldQ.html",
+      "text": "客户成功专员 | 3-5年 | 本科 | 差旅壹号 | 北京·朝阳区·朝外",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/5d6ef1fe16fa3a4a1HJ82ti-E1RZ.html",
+      "text": "客户成功经理 | 5-10年 | 大专 | 同程旅行 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/d50a9409c2575faa03V609y7FFBY.html",
+      "text": "海外客户成功岗 | 3-5年 | 本科 | 贝壳找房 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/ffb9dee1f3e5d82103183N66FFVQ.html",
+      "text": "客户成功经理 | 1-3年 | 大专 | 空港嘉华 | 北京·顺义区·李桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/ffa595b529be37600nR80ti4FVJQ.html",
+      "text": "解决方案架构师 | 3-5年 | 本科 | 致远互联 | 北京·海淀区·万柳",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/768174ce6c3497691Hd939i6E1VY.html",
+      "text": "解决方案架构师 | 5-10年 | 本科 | 阿里云 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/683c124ac97902231HV62Nu0FlZY.html",
+      "text": "资深解决方案架构师 | 10年以上 | 本科 | 金山云 | 北京·海淀区·安宁庄",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/43b4ae37abc7eff91HN42d-1E1BX.html",
+      "text": "信息系统解决方案架构师 | 10年以上 | 本科 | 飞腾公司 | 北京·海淀区·知春路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/c4d235118e3e45751nx-0tS5FVNX.html",
+      "text": "云计算解决方案架构师 | 1-3年 | 本科 | 长虹佳华 | 北京·丰台区·科技园区",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/525a28a339b40ec50nV-2Nm1EFpY.html",
+      "text": "大模型API解决方案架构师 | 3-5年 | 本科 | 月之暗面 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/a4e8719273d2bb650nd_3t69EVNZ.html",
+      "text": "云计算解决方案架构师 | 5-10年 | 本科 | UCloud | 北京·西城区·西直门",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/0b79c3eef65bca4a0nZy3NS4E1RT.html",
+      "text": "智能座舱解决方案架构师 | 5-10年 | 本科 | 展讯通信(上海)... | 北京·海淀区·北太平庄",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/8359152b836ec06103F_2tW4EltV.html",
+      "text": "大模型平台解决方案架构师 | 5-10年 | 本科 | 百度 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/28c338aebaf197ff03N639S-FVVV.html",
+      "text": "解决方案架构师-生命科学方向 | 3-5年 | 本科 | 百图生科 | 北京·海淀区·知春路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/c3882a8e9cca15a20nFy29i5E1FY.html",
+      "text": "售前解决方案架构师（物联网） | 5-10年 | 本科 | 智臾科技 | 北京·朝阳区·朝外",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/19f42be8fe93780203N43dW4ElZQ.html",
+      "text": "技术经理/解决方案架构师(J10807) | 5-10年 | 本科 | 电科网安 | 北京·丰台区·花乡",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/4f1a1c5d6b357ea80nJ70t27EFFU.html",
+      "text": "企业AI转型顾问/AI解决方案架构师 | 5-10年 | 本科 | 小米 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/433a453282d4ae740nR93di4E1FT.html",
+      "text": "资深GPU解决方案架构师(J10759) | 5-10年 | 本科 | 北京摩尔线程智能科技 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/2612172a7e7741b60nZ60ty-FFVS.html",
+      "text": "军工AI解决方案架构师 | 5-10年 | 本科 | 中科雨辰 | 北京·海淀区·西山",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/44aa368fd8bd896403x73Nq1E1FY.html",
+      "text": "运维交付架构师 | 5-10年 | 本科 | 嘉为科技 | 北京·朝阳区·劲松",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/e8b9bfd567e88b2e0nN93N21FVtZ.html",
+      "text": "Agent 技术负责人 / Agent 架构师 | 10年以上 | 本科 | 360集团 | 北京·朝阳区·酒仙桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/d62420a8028a2d9a0nV72dq8GVJU.html",
+      "text": "架构师 | 5-10年 | 本科 | 齐数科技 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/34f7b760683138d01nZ609W-ElRR.html",
+      "text": "架构师 | 经验不限 | 本科 | 电科金仓 | 北京·朝阳区·来广营",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/3390ee0561fc472a0nZ-3du6FVRX.html",
+      "text": "架构师 | 经验不限 | 本科 | 烟台东方瑞创达电... | 北京·海淀区·五棵松",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/1853bde7232b97910nZ80ty8ElZU.html",
+      "text": "java架构师 | 3-5年 | 本科 | 书生电子 | 北京·朝阳区·安贞",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/f629f298356717a603J53di-FFJQ.html",
+      "text": "AI架构师 | 5-10年 | 硕士 | 新华都特种电气 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/6b1c98f7f69f8b5b0nd43d-5GVpZ.html",
+      "text": "Agent平台架构师 | 10年以上 | 本科 | 数智建材研究院 | 北京·朝阳区·朝阳公园",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/be061f6a3c6d616c03J72N-0E1dT.html",
+      "text": "平台研发架构师 | 10年以上 | 本科 | 硕磐智能 | 北京·西城区·大悦城",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/04e7d0bd5f42f9210nx92NW0FlJR.html",
+      "text": "工业AI场景技术架构师 | 5-10年 | 本科 | 华夏易联 | 北京·西城区·德胜门",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/6c6a8284596e892d0nN_0tS6EVpT.html",
+      "text": "GPU芯片架构师 | 5-10年 | 本科 | 小米 | 北京·海淀区·清河",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/d40a77ae3f278f070nx60t25GFBT.html",
+      "text": "专家架构师 | 5-10年 | 本科 | 滴滴 | 北京·海淀区·回龙观",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/9b6de0b1f9c34245031z3ty6FVtQ.html",
+      "text": "高级架构师 | 3-5年 | 本科 | 诚益通 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/87b0574dda0dea350nd-0927FVJX.html",
+      "text": "操作系统架构师 | 5-10年 | 本科 | 北京加速进化科技 | 北京·海淀区·清河",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/55ab30024898a8000ndy2NS_GFVR.html",
+      "text": "支付平台架构师 | 5-10年 | 本科 | TransferEasy | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/7d313a77bf1411eb0nxy3dS-F1RY.html",
+      "text": "AI应用落地工程师 | 3-5年 | 本科 | 医赋科技 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/b1a6c5d627f2a5fb0nd709W8EVpW.html",
+      "text": "AI工程化落地工程师（多模态数据分析方向） | 1-3年 | 本科 | 北京中广长城通信科技 | 北京·海淀区·万寿路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/871955767b339c0e0nZy2ty6FVNU.html",
+      "text": "售前解决方案工程师（AI应用落地方向） | 3-5年 | 本科 | 北京数据项素智能科技 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/2fb3d46e93d582550nxy09S6GFRV.html",
+      "text": "AI运维工程师（AI Agent平台方向） | 3-5年 | 本科 | 中科软 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/1f791f4a3b2a71e203Nz09W8E1NX.html",
+      "text": "AI服务器运维开发工程师 | 3-5年 | 本科 | MiniMax | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/7ecb40c0a89f74030nx73tm9GFdV.html",
+      "text": "运维工程师-AI Ops J10327 | 在校/应届 | 本科 | 白龙马云行科技 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/898d877f8556ad211H193Nm1FlJV.html",
+      "text": "AI智算中心交付工程师 | 5-10年 | 本科 | 清微智能 | 北京·海淀区·西三旗",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/7fa87142090d1e5d0nx42dm0F1VR.html",
+      "text": "机器人运控算法工程师(落地项目） | 1-3年 | 本科 | 智平方 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/142f164b61a698170nV83N2-FFdY.html",
+      "text": "数据和AI交付运维工程师（海淀区） | 1-3年 | 大专 | 亿达信息 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/20aa599ab284afbd0nd53Nu5ElFY.html",
+      "text": "AI 落地应用专家 | 3-5年 | 本科 | 澜景科技 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/b803f915329c26520nB50t65GFNQ.html",
+      "text": "AI 研发效能架构师（SDD 体系落地） | 5-10年 | 本科 | 迅雷网络 | 北京·海淀区·清河",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/d16483aaeeda57f80nF-3Nu4FlNX.html",
+      "text": "企业AI落地运营专家 | 5-10年 | 本科 | 小米 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/090e65c2cec05bb903Jz0tq7EFdS.html",
+      "text": "实施顾问 | 3-5年 | 本科 | 玲珑塔科技 | 北京·朝阳区·朝外",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/9fdef49ec779b8b503J72di5EldU.html",
+      "text": "实施顾问 | 3-5年 | 本科 | 优财云链 | 北京·西城区·西直门",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/06b05b3e1f2e8e731X1y3N27EVpU.html",
+      "text": "实施顾问 | 7天/周 | 4个月 | 大专 | 北京集智源科技 | 北京·东城区·广渠门",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/f71137c21406eb520nZ-3ty0GVtW.html",
+      "text": "实施顾问 | 1-3年 | 本科 | 海致科技 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/17f8a9bab7d5a0201Hx52NS-GVVS.html",
+      "text": "实施顾问 | 1-3年 | 本科 | 金普蝶 | 北京·朝阳区·朝外",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/57c3e162cb14fd9c1XN93dy5E1dT.html",
+      "text": "实施顾问 | 5-10年 | 本科 | 信华信数字 | 北京·海淀区·万柳",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/913c0db27dd319f70nV-2N2-ElVU.html",
+      "text": "实施顾问 | 1-3年 | 本科 | 中兴新云 | 北京·海淀区·甘家口",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/3132619c5c4dd0591nB52Nm4GFBW.html",
+      "text": "实施顾问 | 3-5年 | 本科 | 用友金融 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/bcf73e5a58e89adf1HV_39i-FlFR.html",
+      "text": "实施顾问 | 1-3年 | 本科 | 月边星网络 | 北京·昌平区·天通苑",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/247251b8add8e7c10nZ609i_GFdQ.html",
+      "text": "高级实施顾问 | 3-5年 | 本科 | 用友网络 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/ab8b21ab0322b07e1HB939W1F1dZ.html",
+      "text": "实施顾问 | 1-3年 | 本科 | 新视窗 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/4a4d03c7d29ea5670nxy3Nq5GVVX.html",
+      "text": "实施顾问FICO | 10年以上 | 本科 | 联想利泰 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/2e65a986844c0fa11XJ92tW4FlVU.html",
+      "text": "EPM实施顾问 | 3-5年 | 本科 | EPMVenus | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/96f474ec5373416e03J829S9GVRY.html",
+      "text": "FICO实施顾问 | 5-10年 | 本科 | 东方雨虹 | 北京·大兴区·亦庄",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/d91a2ac8cad423010nRz3ti-F1NW.html",
+      "text": "美容技术顾问 | 1-3年 | 学历不限 | 北京煜坤硕美健康管理 | 北京·东城区·和平里",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/52299600f6dee0ce03N83tu1EVpU.html",
+      "text": "单细胞技术顾问 | 1-3年 | 硕士 | 新格元 | 北京·东城区·崇文门",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/789c941882294b7d03Jz09-_GFJR.html",
+      "text": "手机电脑维修技术顾问 | 1-3年 | 中专/中技 | 陕西浩达 | 北京·大兴区·亦庄",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/0d1a4349419b2e3b1Xdz2Ny0FltY.html",
+      "text": "SAP实施/运维/技术顾问 | 5-10年 | 大专 | 赛意信息 | 北京·朝阳区·建国门内",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/8f26ba872d24a39b03V-29u8FVJT.html",
+      "text": "科研顾问（技术型销售） | 1-3年 | 硕士 | 伯豪生物 | 北京·丰台区·花乡",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/8d94982c781e2c4b0nZ80ty0FFJZ.html",
+      "text": "技术专家顾问 | 5-10年 | 本科 | 省钱快报 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/7550e994bb0823810nB60ty1EVNU.html",
+      "text": "C1元年共享技术运维顾问 | 3-5年 | 本科 | 贝则科技 | 北京·东城区·王府井",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/99bbb9afeeac3a8b03183di5FldV.html",
+      "text": "技术支持顾问（北京） | 3-5年 | 本科 | 云迹科技 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/b4970c41fccf87120nd729m-GFpR.html",
+      "text": "销售顾问（北京高新技术企业资质） | 1-3年 | 大专 | 北京中钎科技有限公司 | 北京·大兴区·黄村",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/aa10412f41c4142003Bz2dW4FFFW.html",
+      "text": "安全技术咨询师 | 经验不限 | 学历不限 | 蔻凯恒安咨询 | 北京·房山区·燕山",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/b773759d1427b4b903Vy3dm1EVZZ.html",
+      "text": "技术顾问（北京） | 经验不限 | 硕士 | 北京明朝万达科技 | 北京·海淀区·四季青",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/5183967d91b6e5d81XJ_096-GVRR.html",
+      "text": "安全技术服务咨询师 | 3-5年 | 大专 | 中平科学技术院 | 北京·朝阳区·双桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/c62ac2d7a0045f5d1n1729i0GFJU.html",
+      "text": "技术顾问（病理医学） | 3-5年 | 硕士 | 知见生命 | 北京·海淀区·新街口",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/60fe0c8c8ecea95703x_3tq4ElZW.html",
+      "text": "k12咨询师/课程顾问主管-配专属外呼带团队 | 1-3年 | 大专 | 北京北文科技文化发展有限公司 | 北京·海淀区·苏州桥",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/ca39f54c22d375371HB-3di4ElNV.html",
+      "text": "无人机技术支持 | 1-3年 | 本科 | 天途航空 | 北京·昌平区·马池口",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/dd6a44e516215c1f1XJ7296-EVtX.html",
+      "text": "行业安全解决方案专家 | 3-5年 | 本科 | 新华三技术有限公司 | 北京·海淀区·西北旺",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/9d20850a780fed930nV43Nm7E1tY.html",
+      "text": "AI行业解决方案专家 | 5-10年 | 本科 | Inspire Group | 北京·东城区·交道口",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/0213b21e669fc4600nd709u1EVdZ.html",
+      "text": "低空行业解决方案专家 | 5-10年 | 本科 | 北京中广长城通信科技 | 北京·海淀区·万寿路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/bce837b29757523803170t24GFVR.html",
+      "text": "海外金融行业解决方案经理 | 5-10年 | 本科 | ZDNS | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/f9ae00f911b3bb330nV72t-6F1NU.html",
+      "text": "军工行业售前解决方案工程师 | 3-5年 | 本科 | 北京拙河科技 | 北京·海淀区·西二旗",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/d90e2f161e7354b90nxz2d60FVFV.html",
+      "text": "解决方案工程师（印刷行业） | 5-10年 | 本科 | 西门子中国 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/e2ef64d3d5592c240nd82N65F1JW.html",
+      "text": "解决方案经理（交通行业） | 5-10年 | 本科 | 锐捷网络 | 北京·海淀区·五棵松",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/7b6d03f22f4b80ee0nx539m_GFpT.html",
+      "text": "医疗行业解决方案专家（外包双休） | 1-3年 | 本科 | 亿达信息 | 北京·朝阳区·望京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/46e9d5c2b8fea47003F_3tu6F1RV.html",
+      "text": "售前解决方案工程师（电力行业优先） | 3-5年 | 本科 | 易达图灵 | 北京",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/43917692ce6c22140nR52dS1FlZS.html",
+      "text": "解决方案专家（汽车行业） | 5-10年 | 本科 | 灵动科技 | 北京·海淀区·上地",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/68bc9e2f651245910nV43di1F1JU.html",
+      "text": "解决方案架构专家（AI+ToB 行业） | 10年以上 | 本科 | 数洋智慧 | 北京·海淀区·学院路",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/15fa825a43193ade03N_09W8GFdU.html",
+      "text": "行业AI解决方案售前 | 3-5年 | 本科 | 南威软件 | 北京·丰台区·花乡",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/d21f3204bb3c56bc0ndy3d--EVFR.html",
+      "text": "石化行业数字化解决方案资深售前专家 | 5-10年 | 本科 | 博智化安 | 北京·西城区·西直门",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/65e94c22c63127f30nd52Nu7E1dY.html",
+      "text": "运营商行业解决方案专家(J13980) | 5-10年 | 本科 | 安恒信息 | 北京·海淀区·万柳",
+      "tabs": [
+        "fde"
+      ]
+    },
+    {
+      "url": "/job_detail/be8c28a09d9030ea0nZ93ti_ElFV.html",
+      "text": "售前技术支持（烟草行业解决方案） | 3-5年 | 本科 | 北京中科知道科技 | 北京·丰台区·右安门外",
+      "tabs": [
+        "fde"
       ]
     }
   ]
