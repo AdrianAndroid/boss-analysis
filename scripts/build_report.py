@@ -30,6 +30,10 @@ def load_dict():
     return json.load(open(ROOT / "config" / "skills_dict.json", encoding="utf-8"))
 
 
+def load_growth():
+    return json.load(open(ROOT / "config" / "trend_growth.json", encoding="utf-8"))
+
+
 def hit(keyword, text):
     kw = keyword.lower().strip()
     if not kw:
@@ -116,7 +120,7 @@ def analyze(jobs, dictionary):
     return {"overall": overall, "per_tab": tab_result, "overall_top": overall_top}
 
 
-def render_markdown(jobs, dictionary, result):
+def render_markdown(jobs, dictionary, result, growth):
     n = len(jobs)
     tab_n = {t: v["n"] for t, v in result["per_tab"].items()}
     lines = []
@@ -134,6 +138,20 @@ def render_markdown(jobs, dictionary, result):
     for group, info in result["overall"].items():
         reps = "、".join(f"{k['keyword']}({k['cover']}:{k['freq']})" for k in info["keywords"][:5])
         lines.append(f"| {group} | {info['hit_jobs']} | {info['cover_rate']*100:.1f}% | {reps} |")
+
+    # 本地存量结构图
+    lines.append("\n### 本地样本技能大类覆盖结构\n")
+    lines.append("![本地样本技能大类覆盖结构](chart_structure.png)\n")
+
+    # 外部增速对比（公开口径）
+    lines.append("### 外部岗位招聘需求增速（公开报告口径）\n")
+    lines.append(f"> {growth['note']}\n")
+    lines.append("![岗位增速对比](chart_growth.png)\n")
+    lines.append("| 方向 | 同比增速 | 来源与周期 |")
+    lines.append("|---|---|---|")
+    for g in sorted(growth["items"], key=lambda x: -x["growth_pct"]):
+        lines.append(f"| {g['direction']} | +{g['growth_pct']:g}% | {g['source']} |")
+    lines.append(f"\n> {growth['extra']}\n")
 
     # 全量高频 TOP20
     lines.append("\n## 二、全量高频关键词 TOP 20\n")
@@ -166,13 +184,14 @@ def render_markdown(jobs, dictionary, result):
 def main():
     jobs = load_clean()
     dictionary = load_dict()
+    growth = load_growth()
     result = analyze(jobs, dictionary)
 
     REP.mkdir(parents=True, exist_ok=True)
     json.dump({"date": DATE, "sample": len(jobs), "result": result},
               open(REP / "analysis.json", "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
-    md = render_markdown(jobs, dictionary, result)
+    md = render_markdown(jobs, dictionary, result, growth)
     open(REP / "岗位技能分析报告.md", "w", encoding="utf-8").write(md)
 
     print(f"分析完成: {len(jobs)} 岗位")
