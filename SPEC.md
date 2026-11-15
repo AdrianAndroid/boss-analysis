@@ -21,8 +21,14 @@ boss-analysis/
 ├── config/                # tabs.json（采集配置）、skills_dict.json（词典）
 ├── scripts/               # 采集与分析脚本
 ├── data/
-│   ├── raw/<日期>/         # 每期原始快照（jobs_list / jobs_detail）
-│   └── processed/          # 清洗后结构化明细（CSV + JSON）
+│   ├── raw/<日期>/
+│   │   ├── lists/<来源>.json  # 按来源（tab/检索组）保存的列表快照
+│   │   ├── list_merged.json   # 合并去重索引（详情待采队列）
+│   │   ├── jobs_detail.json   # 全量详情底稿（跨来源岗位不拆分，归属见 tabs/groups）
+│   │   └── companies.json     # 公司主页缓存
+│   └── processed/<日期>/
+│       ├── jobs_clean.json/.csv  # 全量清洗明细
+│       └── by_source/<来源>.json/.csv  # 按来源导出的视图（跨来源岗位各留一份）
 ├── reports/<日期>/         # 每期分析报告
 ├── curriculum/             # 教程映射设计（schema + 待学清单）
 ├── progress/checkpoint.json # 断点续采进度记录

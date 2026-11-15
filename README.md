@@ -25,8 +25,14 @@ boss-analysis/
 │   ├── collect.mjs          # Playwright 本地复采骨架（规划项，未启用）
 │   └── lib/                  # Playwright 骨架复用的配置/身份键/存储模块
 ├── data/
-│   ├── raw/<日期>/          # 每期原始快照（list / detail / companies）
-│   └── processed/           # 清洗后结构化明细（CSV + JSON）
+│   ├── raw/<日期>/
+│   │   ├── lists/<来源>.json   # 按来源（tab/检索组）的列表快照
+│   │   ├── list_merged.json    # 合并去重索引（详情待采队列）
+│   │   ├── jobs_detail.json   # 全量详情底稿（归属见 tabs/groups）
+│   │   └── companies.json      # 公司主页缓存
+│   └── processed/<日期>/
+│       ├── jobs_clean.json/.csv       # 全量清洗明细
+│       └── by_source/<来源>.json/.csv  # 按来源导出的视图
 ├── reports/<日期>/          # 每期分析报告（analysis.json + Markdown + 图表）
 ├── curriculum/              # 教程映射设计（schema + 待学清单）
 └── progress/checkpoint.json # 断点续采进度记录

@@ -68,7 +68,7 @@ boss-analysis/
 | 阶段 | 任务 | 产出 | 状态 | 进度记录要点 |
 |---|---|---|---|---|
 | 0 | 工程化与规范对齐：建目录、补 README、词典迁入 config、SPEC 补全字段与周期口径 | 目录骨架、config、README | done | 各目录就绪；词典 9 组 |
-| 1 | 列表采集：三 tab 分页滚动，提取标题/链接/标签/地点，按 `job_key` 单批去重 | `data/raw/<日期>/*_raw.json`、`list_merged.json` | done | 推荐 385 / 鸿蒙 450 / Android 450；URL 去重 1063 |
+| 1 | 列表采集：三 tab 分页滚动，提取标题/链接/标签/地点，按 `job_key` 单批去重 | `data/raw/<日期>/lists/<来源>.json`、`list_merged.json` | done | 推荐 385 / 鸿蒙 450 / Android 450；URL 去重 1063 |
 | 2 | 详情采集：逐个打开详情，采全岗位 + 公司字段，限速访问，断点续采 | `data/raw/<日期>/jobs_detail.json`、`companies.json` | in_progress | 97/1063；JD/公司/薪资齐全；公司主页待补阶段/规模/行业 |
 | 3 | 清洗结构化：文本清洗、字段拆分、缺失值标记、旧样本回填 `job_key`；校验条数/空字段率/重复率 | `data/processed/` 明细 CSV/JSON | pending | 校验指标、异常记录 |
 | 4 | 技能与关键词分析：岗位覆盖数 + 词频，分 tab 对比，分组统计 | 分析中间结果 | pending | 词典命中覆盖、分组结果 |
@@ -96,7 +96,7 @@ boss-analysis/
 
 ### 本期已验证的复采流程（下次照此续作）
 
-1. **列表**：内置浏览器登录后进入 `/web/geek/jobs`，依次切「推荐 / 鸿蒙开发工程师(北京) / Android(北京)」，滚动触顶后页面内规范化提取卡片（URL 去 query、过滤 footer/相似职位链接），落 `data/raw/<日期>/<tab>_raw.json`。
+1. **列表**：内置浏览器登录后进入 `/web/geek/jobs`，依次切「推荐 / 鸿蒙开发工程师(北京) / Android(北京)」或按检索组 URL 取词，滚动触顶后页面内规范化提取卡片（URL 去 query、过滤 footer/相似职位链接），按来源落 `data/raw/<日期>/lists/<来源>.json`。
 2. **合并去重**：本地脚本按 URL 合并三 tab 为 `list_merged.json`，记录每条出现的 `tabs[]`；跨 tab 同岗位详情只采一次。
 3. **详情断点续采**：`scripts/detail_store.py` 维护待采队列与已采记录，按 URL 跳过；每条间隔 1.2–1.8s 随机抖动、不并发；遇登录/验证 URL 即停并交人工。详情取标题/公司/薪资/JD 全文；公司主页链接入 `companies.json`。
 4. **公司补充字段**：按公司主页去重访问，回填融资阶段/规模人数/行业；匿名岗无主页链接则留空，不编造。

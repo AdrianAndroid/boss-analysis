@@ -18,6 +18,10 @@ from detail_store import make_job_key  # noqa: E402
 DATE = "2026-11-15"
 RAW = ROOT / "data" / "raw" / DATE
 PROC = ROOT / "data" / "processed" / DATE
+BY_SOURCE = PROC / "by_source"
+
+# 已知来源（tab / 检索组）；AI/FDE 目录待首次采集时由数据自动补入
+KNOWN_SOURCES = ["recommend", "harmonyos", "android", "ai_agent", "fde"]
 
 NOISE_RE = re.compile(r"BOSS直聘|BOSS|boss|Boss|直聘|kanzhun", re.I)
 
@@ -30,6 +34,10 @@ def clean_desc(text):
     t = re.sub(r"[ \t]{2,}", " ", t)
     return t.strip()
 
+
+FIELDS = ["job_key", "primary_tab", "tabs", "url", "title", "company",
+          "salary", "location", "exp", "edu", "tags", "company_stage",
+          "company_size", "company_industry", "desc", "dup_of", "period_status"]
 
 EXP_RE = re.compile(r"(经验不限|应届|\d+\s*-\s*\d+\s*年|\d+\s*年以上|\d+\s*年)")
 EDU_RE = re.compile(r"(博士|硕士|本科|大专|学历不限)")
@@ -74,6 +82,40 @@ def parse_list_text(text):
 
     return {"title": title, "salary": salary, "exp": exp, "edu": edu,
             "location": location, "company": company, "tags": tags}
+
+
+def _source_of(rec):
+    return rec.get("tabs") or [rec.get("primary_tab") or "unknown"]
+
+
+def export_by_source(unique):
+    """按来源导出视图到 processed/<日期>/by_source/<source>.{json,csv}。
+
+    跨来源岗位在每个归属视图各出现一次；全量明细仍以 jobs_clean.* 为准。
+    """
+    BY_SOURCE.mkdir(parents=True, exist_ok=True)
+    groups = {}
+    for rec in unique:
+        for src in _source_of(rec):
+            groups.setdefault(src, []).append(rec)
+
+    ordered = [s for s in KNOWN_SOURCES if s in groups]
+    ordered += [s for s in groups if s not in KNOWN_SOURCES]
+
+    for src in ordered:
+        recs = groups[src]
+        json.dump({"date": DATE, "source": src, "count": len(recs), "records": recs},
+                  open(BY_SOURCE / f"{src}.json", "w", encoding="utf-8"),
+                  ensure_ascii=False, indent=2)
+        with open(BY_SOURCE / f"{src}.csv", "w", encoding="utf-8-sig", newline="") as f:
+            w = csv.DictWriter(f, fieldnames=FIELDS)
+            w.writeheader()
+            for x in recs:
+                row = dict(x)
+                row["tabs"] = "/".join(x["tabs"])
+                row["tags"] = "/".join(x["tags"])
+                w.writerow(row)
+        print(f"  来源视图 {src}: {len(recs)} 岗")
 
 
 def clean():
@@ -135,17 +177,17 @@ def clean():
               open(PROC / "jobs_clean.json", "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
 
-    fields = ["job_key", "primary_tab", "tabs", "url", "title", "company",
-              "salary", "location", "exp", "edu", "tags", "company_stage",
-              "company_size", "company_industry", "desc", "dup_of", "period_status"]
     with open(PROC / "jobs_clean.csv", "w", encoding="utf-8-sig", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=fields)
+        w = csv.DictWriter(f, fieldnames=FIELDS)
         w.writeheader()
         for x in records:
             row = dict(x)
             row["tabs"] = "/".join(x["tabs"])
             row["tags"] = "/".join(x["tags"])
             w.writerow(row)
+
+    # 按来源（tab / 检索组）导出视图：跨来源岗位在各视图各留一份，归属以 tabs/groups 为准
+    export_by_source(unique)
 
     print(f"清洗完成: 原始 {total} | 去重后 {len(unique)} | 重复 {total - len(unique)} -> {PROC}")
     print(f"  job_key 重复组: {len(dup_keys)}")
