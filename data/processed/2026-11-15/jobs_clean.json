@@ -58,7 +58,7 @@
       "period_status": null
     },
     {
-      "job_key": "54a1433f8c5c",
+      "job_key": "0f12f497f1ea",
       "primary_tab": "android",
       "tabs": [
         "android",
@@ -66,7 +66,7 @@
       ],
       "url": "/job_detail/3b4844cf1909322d0nx_2ty0FVZX.html",
       "title": "Android应用高级工程师",
-      "company": "BOSS直聘",
+      "company": "360集团",
       "salary": "20-30K·15薪",
       "location": "北京·朝阳区·酒仙桥",
       "exp": "3-5年",
@@ -77,9 +77,9 @@
         "架构设计/优化",
         "Java"
       ],
-      "company_stage": null,
-      "company_size": null,
-      "company_industry": null,
+      "company_stage": "D轮及以上",
+      "company_size": "1000-9999人",
+      "company_industry": "互联网",
       "desc": "一、岗位职责\n1.负责 Android 手表微聊，视频通话等通信应用开发\n2.负责 智能手表 AI 类应⽤研发\n3.负责⼿表定位或者推送服务等核⼼模块开发\n4.以 AI 辅助研发为默认工作方式，深度使⽤ Claude Code / Cursor / Copilot 等 Agent 工具完成编码、调试、测试与文档撰写，并沉淀可复用的 AI 工程化实践，提升个人与团队研发效率。\n二、任职要求\n1.本科及以上学历，计算机 / 通信 / 电子信息等相关专业，3 年及以上 Android 开发经验\n2.精通 Java / Kotlin，具备扎实的 C / C++ 功底，熟悉 JNI 与 Native 开发；\n3.熟悉 菊风，声网，即构等即时通讯SDK, 极光推送类 push 服务\n4.熟悉 AOSP 编译体系与 Repo / Gerrit 多仓协作流程，具备阅读和修改 AOSP 源码的能力；\n5.AI Coding 能力（核心要求）：熟练使用至少一种 AI Coding Agent 工具（Claude Code、Cursor、Code等），具备成体系的人机协作方法—\n6.具备复杂系统问题的拆解与定位能力、良好的沟通协作与技术文档能力，责任心强，有良好的团队合作意识。\n三、加分项\n●手机 ROM、智能座舱、智能手表 / IoT 终端等智能硬件系统深度定制经验；\n●IM 即时通讯或者推送类服务开发经验优先\n●高通 / MTK /展讯等主流平台量产项目优先\n●AI语音助手或相关Agent应用开发经验优先",
       "dup_of": null,
       "period_status": null
@@ -878,7 +878,7 @@
       "period_status": null
     },
     {
-      "job_key": "b2081e84af9d",
+      "job_key": "124a8a1bf855",
       "primary_tab": "android",
       "tabs": [
         "android",
@@ -886,7 +886,7 @@
       ],
       "url": "/job_detail/55ea6dc72bfe336a03F_3t--FVpV.html",
       "title": "鸿蒙开发【鸿蒙1年+】",
-      "company": "BOSS直聘",
+      "company": "harmonyOS",
       "salary": "20-40K",
       "location": "北京",
       "exp": "5-10年",
@@ -1486,9 +1486,9 @@
         "通信相关专业",
         "Android客户端产品研发"
       ],
-      "company_stage": null,
-      "company_size": null,
-      "company_industry": null,
+      "company_stage": "已上市",
+      "company_size": "1000-9999人",
+      "company_industry": "人力资源服务",
       "desc": "岗位职责：\n1.负责核心业务app的业务功能研发。\n2.负责app架构模块优化改进，新技术研究。\n3.验证和修正测试中发现的问题。\n4.承担安卓技术中心内部的部分基建工作。\n任职要求：\n1.有强烈的求知欲和进取心、自驱性强、沟通能力好。\n2.具有扎实的编程功底，良好的代码设计能力和编程习惯。\n3.1-3年Android客户端开发经验。\n4.对Android的架构、性能优化、内存优化、动画有深刻理解。\n5.有大型app项目开发经验者优先。",
       "dup_of": null,
       "period_status": null
@@ -1684,14 +1684,14 @@
       "period_status": null
     },
     {
-      "job_key": "2c4f6adce783",
+      "job_key": "758710cb866b",
       "primary_tab": "android",
       "tabs": [
         "android"
       ],
       "url": "/job_detail/d70f84f53da599310nV80tq7GVNR.html",
       "title": "Android客户端（可无ai经验-AI应用/agent）",
-      "company": "BOSS直聘",
+      "company": "某大型人工智能公司",
       "salary": "50-80K·16薪",
       "location": "北京",
       "exp": "经验不限",
@@ -2091,7 +2091,7 @@
       "period_status": null
     },
     {
-      "job_key": "b0f768976f1e",
+      "job_key": "fc3ee9673bd0",
       "primary_tab": "android",
       "tabs": [
         "android",
@@ -2099,7 +2099,7 @@
       ],
       "url": "/job_detail/ef38fa7378f632d70nx80tW8F1JX.html",
       "title": "全栈开发-ai独角兽-欢迎前端和客户端跨端",
-      "company": "BOSS直聘",
+      "company": "-K·薪",
       "salary": "40-70K·16薪",
       "location": "北京",
       "exp": "经验不限",
@@ -2573,9 +2573,9 @@
         "Android开发经验",
         "Android客户端产品研发"
       ],
-      "company_stage": null,
-      "company_size": null,
-      "company_industry": null,
+      "company_stage": "已上市",
+      "company_size": "1000-9999人",
+      "company_industry": "人力资源服务",
       "desc": "岗位职责:\n1.负责核心业务app的业务功能研发。\n2.负责app架构模块优化改进,新技术研究。\n3.验证和修正测试中发现的问题。\n4.承担安卓技术中心内部的部分基建工作。\n任职要求:\n1.有强烈的求知欲和进取心、自驱性强、沟通能力好。\n2.具有扎实的编程功底，良好的代码设计能力和编程习惯。\n3.2-4年Android客户端开发经脸。\n4.对Android的架构、性能优化、内存优化、动画有深刻理解。\n5.有大型app项目开发经验者优先。",
       "dup_of": null,
       "period_status": null
@@ -3674,9 +3674,9 @@
         "-K·薪",
         "在校/应届"
       ],
-      "company_stage": null,
-      "company_size": null,
-      "company_industry": null,
+      "company_stage": "已上市",
+      "company_size": "1000-9999人",
+      "company_industry": "人力资源服务",
       "desc": "职位名称：Android/鸿蒙开发工程师（校招）\n岗位职责：\n1. 负责公司招聘相关产品的迭代及新产品开发；\n2. 参与App性能与体验优化，以及质量监控体系建设；\n3. 参与客户端基础组件、AI研发工具及效能平台建设，持续提升团队研发效率。\n任职要求：\n1. 2027届计算机、软件工程等相关专业本科及以上学历；\n2. 热爱编程，基础扎实，掌握算法与数据结构相关知识；\n3. 具备好奇心和良好的分析、解决问题能⼒；\n4. ⾄少掌握⼀门编程语言，有C/C++、Java、Kotlin或ArkTS编程经验者优先；\n5. 了解Android或鸿蒙相关技术，有应用开发或安全相关经验者优先；\n6. 具备AI应⽤能力，有使用AI优化研发流程、开发Agent或相关工具经验者优先。",
       "dup_of": null,
       "period_status": null

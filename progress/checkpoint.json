@@ -133,6 +133,17 @@
     "high": 57,
     "file": "curriculum/skill_map.json"
   },
+  "stage_company_backfill": {
+    "status": "done",
+    "date": "2026-11-15",
+    "note": "纠正早期把雇主名 BOSS直聘 误判为站点名；以 sider gongsi 主页链接为准重采三字段，匿名岗回退 list_text 称谓",
+    "raw_with_company": 839,
+    "raw_anonymous": 224,
+    "processed_anonymous_title": 153,
+    "processed_employer_boss": 10,
+    "stage_fill": "59.9%",
+    "size_industry_fill": "63.5%"
+  },
   "stage7_git": {
     "status": "local_committed",
     "commit": "31220a2",

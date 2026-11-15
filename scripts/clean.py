@@ -37,6 +37,10 @@ LOC_RE = re.compile(r"北京|上海|广州|深圳|杭州|成都|武汉|南京|�
 SALARY_RE = re.compile(r"[Kk]·?\d*薪|元/月|\d+-\d+K")
 
 
+# 纯站点标识/占位符（不能作为公司名；注意“BOSS直聘”本身是合法雇主名，不在此列）
+INVALID_COMPANY = {"kanzhun", "BOSS直聘招聘"}
+
+
 def parse_list_text(text):
     parts = [p.strip() for p in (text or "").split("|") if p.strip()]
     title = parts[0] if parts else ""
@@ -80,7 +84,8 @@ def clean():
     for r in detail:
         parsed = parse_list_text(r.get("list_text", ""))
         title = r.get("title") or parsed["title"]
-        company = r.get("company") or parsed["company"]
+        raw_co = (r.get("company") or "").strip()
+        company = parsed["company"] if (not raw_co or raw_co in INVALID_COMPANY) else raw_co
         location = parsed["location"]
         exp = parsed["exp"]
         job_key = make_job_key(title, company, location, exp)
