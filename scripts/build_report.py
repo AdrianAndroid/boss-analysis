@@ -124,7 +124,7 @@ def render_markdown(jobs, dictionary, result):
     lines.append(f"- 采集日期：{DATE}　|　城市口径：北京　|　样本：去重后 **{n}** 个岗位")
     lines.append(f"- tab 命中（多对多）：" + "，".join(f"{k} {v}" for k, v in tab_n.items()))
     lines.append("- 说明：本期为第一期基线，尚无历史期可比，环比/上升衰退列保留待第二期回填；薪资受字体反爬影响未纳入统计。")
-    lines.append("- 采集状态：1003 个岗位已解析；另有 48 条触发安全验证待人工完成后补齐，本报告数字在补齐后做一次刷新。")
+    lines.append("- 采集状态：三 tab 列表去重 1063 条全部采集完成，清洗后 1051 个唯一岗位。")
     lines.append("- 口径：关键词区分「岗位覆盖数」（命中岗位数）与「词频」（出现次数）；纯英文短词按词边界匹配。\n")
 
     # 总体分组覆盖表
@@ -159,7 +159,7 @@ def render_markdown(jobs, dictionary, result):
     lines.append("本期样本中覆盖度靠前的方向：" + "、".join(f"{k['keyword']}" for k in top) + "。")
     lines.append("- Android/鸿蒙客户端主线扎实：Java、Kotlin、ArkTS、Jetpack、Framework、性能与稳定性仍是硬门槛；跨端（Flutter、React Native、跨平台）与 AI/大模型（Agent、大模型、LLM、Prompt）渗透明显。")
     lines.append("- 推荐页偏综合与协作：团队协作、解决方案、团队管理、成本与跨部门沟通出现频次高，反映该 tab 混入资深/管理与复合岗。")
-    lines.append("\n> 注：趋势判断需结合第二期数据做环比；48 条待补岗位补齐后本报告将刷新一次。\n")
+    lines.append("\n> 注：趋势判断需结合第二期数据做环比；本期为首期全量基线。\n")
     return "\n".join(lines)
 
 

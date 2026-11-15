@@ -108,25 +108,24 @@
     "unique_url": 1063
   },
   "stage2_detail": {
-    "status": "blocked_verify",
-    "done": 1015,
-    "pending": 48,
-    "blocked_url": "https://www.zhipin.com/web/passport/zp/verify.html",
-    "note": "安全验证阻断；人工完成验证后续采剩余48条，已采自动跳过"
+    "status": "done",
+    "done": 1063,
+    "pending": 0,
+    "note": "三tab去重1063全部采集完成"
   },
   "stage3_clean": {
     "status": "done",
-    "raw": 1015,
-    "unique": 1003,
+    "raw": 1063,
+    "unique": 1051,
     "duplicates": 12,
     "empty_desc": 0,
-    "company_complete": "1003/1003"
+    "company_complete": "1051/1051"
   },
   "stage4_5_report": {
     "status": "done",
-    "sample": 1003,
+    "sample": 1051,
     "report": "reports/2026-11-15/岗位技能分析报告.md",
-    "note": "1003样本基线；48条补齐后刷新"
+    "note": "首期全量基线"
   },
   "stage6_curriculum": {
     "status": "done",

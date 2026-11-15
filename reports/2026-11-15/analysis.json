@@ -1,31 +1,31 @@
 {
   "date": "2026-11-15",
-  "sample": 1003,
+  "sample": 1051,
   "result": {
     "overall": {
       "编程语言": {
-        "hit_jobs": 652,
-        "cover_rate": 0.65,
+        "hit_jobs": 666,
+        "cover_rate": 0.634,
         "keywords": [
           {
             "keyword": "java",
-            "cover": 441,
-            "freq": 655
+            "cover": 453,
+            "freq": 676
           },
           {
             "keyword": "kotlin",
-            "cover": 345,
-            "freq": 471
+            "cover": 346,
+            "freq": 474
           },
           {
             "keyword": "c++",
-            "cover": 168,
-            "freq": 225
+            "cover": 170,
+            "freq": 227
           },
           {
             "keyword": "python",
-            "cover": 108,
-            "freq": 132
+            "cover": 116,
+            "freq": 142
           },
           {
             "keyword": "typescript",
@@ -49,8 +49,8 @@
           },
           {
             "keyword": "go",
-            "cover": 60,
-            "freq": 84
+            "cover": 61,
+            "freq": 85
           },
           {
             "keyword": "objective-c",
@@ -69,8 +69,8 @@
           },
           {
             "keyword": "golang",
-            "cover": 25,
-            "freq": 34
+            "cover": 26,
+            "freq": 36
           },
           {
             "keyword": "rust",
@@ -80,18 +80,18 @@
         ]
       },
       "Android体系": {
-        "hit_jobs": 577,
-        "cover_rate": 0.575,
+        "hit_jobs": 579,
+        "cover_rate": 0.551,
         "keywords": [
           {
             "keyword": "android",
-            "cover": 553,
-            "freq": 2329
+            "cover": 554,
+            "freq": 2333
           },
           {
             "keyword": "sdk",
-            "cover": 186,
-            "freq": 464
+            "cover": 187,
+            "freq": 465
           },
           {
             "keyword": "framework",
@@ -146,13 +146,13 @@
         ]
       },
       "音视频/通信": {
-        "hit_jobs": 216,
-        "cover_rate": 0.215,
+        "hit_jobs": 219,
+        "cover_rate": 0.208,
         "keywords": [
           {
             "keyword": "视频",
-            "cover": 128,
-            "freq": 316
+            "cover": 130,
+            "freq": 322
           },
           {
             "keyword": "音视频",
@@ -216,8 +216,8 @@
           },
           {
             "keyword": "wifi",
-            "cover": 4,
-            "freq": 5
+            "cover": 5,
+            "freq": 6
           },
           {
             "keyword": "h.264",
@@ -248,7 +248,7 @@
       },
       "鸿蒙/跨端": {
         "hit_jobs": 365,
-        "cover_rate": 0.364,
+        "cover_rate": 0.347,
         "keywords": [
           {
             "keyword": "跨端",
@@ -288,23 +288,23 @@
         ]
       },
       "AI/大模型": {
-        "hit_jobs": 495,
-        "cover_rate": 0.494,
+        "hit_jobs": 517,
+        "cover_rate": 0.492,
         "keywords": [
           {
             "keyword": "ai",
-            "cover": 466,
-            "freq": 2233
+            "cover": 485,
+            "freq": 2329
           },
           {
             "keyword": "agent",
-            "cover": 240,
-            "freq": 888
+            "cover": 249,
+            "freq": 918
           },
           {
             "keyword": "大模型",
-            "cover": 162,
-            "freq": 301
+            "cover": 169,
+            "freq": 317
           },
           {
             "keyword": "ai coding",
@@ -313,43 +313,43 @@
           },
           {
             "keyword": "prompt",
-            "cover": 68,
-            "freq": 102
+            "cover": 71,
+            "freq": 105
           },
           {
             "keyword": "智能体",
-            "cover": 66,
-            "freq": 155
+            "cover": 70,
+            "freq": 162
           },
           {
             "keyword": "llm",
-            "cover": 66,
-            "freq": 97
+            "cover": 69,
+            "freq": 100
           },
           {
             "keyword": "codex",
-            "cover": 45,
-            "freq": 56
+            "cover": 46,
+            "freq": 57
           },
           {
             "keyword": "mcp",
-            "cover": 42,
-            "freq": 54
+            "cover": 44,
+            "freq": 56
           },
           {
             "keyword": "vibe coding",
-            "cover": 23,
-            "freq": 28
+            "cover": 25,
+            "freq": 31
           },
           {
             "keyword": "机器学习",
-            "cover": 12,
-            "freq": 19
+            "cover": 13,
+            "freq": 20
           },
           {
             "keyword": "深度学习",
-            "cover": 7,
-            "freq": 9
+            "cover": 8,
+            "freq": 10
           },
           {
             "keyword": "智能体研发",
@@ -364,38 +364,38 @@
         ]
       },
       "架构/性能/质量": {
-        "hit_jobs": 875,
-        "cover_rate": 0.872,
+        "hit_jobs": 911,
+        "cover_rate": 0.867,
         "keywords": [
           {
             "keyword": "优化",
-            "cover": 733,
-            "freq": 1911
+            "cover": 757,
+            "freq": 1953
           },
           {
             "keyword": "架构",
-            "cover": 623,
-            "freq": 1512
+            "cover": 645,
+            "freq": 1587
           },
           {
             "keyword": "性能",
-            "cover": 607,
-            "freq": 1440
+            "cover": 617,
+            "freq": 1457
           },
           {
             "keyword": "稳定性",
-            "cover": 356,
-            "freq": 576
+            "cover": 360,
+            "freq": 582
           },
           {
             "keyword": "性能优化",
-            "cover": 341,
-            "freq": 497
+            "cover": 342,
+            "freq": 498
           },
           {
             "keyword": "监控",
-            "cover": 169,
-            "freq": 229
+            "cover": 173,
+            "freq": 233
           },
           {
             "keyword": "卡顿",
@@ -409,8 +409,8 @@
           },
           {
             "keyword": "设计模式",
-            "cover": 116,
-            "freq": 120
+            "cover": 117,
+            "freq": 121
           },
           {
             "keyword": "anr",
@@ -419,13 +419,13 @@
           },
           {
             "keyword": "ci/cd",
-            "cover": 79,
-            "freq": 92
+            "cover": 80,
+            "freq": 93
           },
           {
             "keyword": "自动化测试",
-            "cover": 72,
-            "freq": 87
+            "cover": 73,
+            "freq": 88
           },
           {
             "keyword": "crash",
@@ -449,8 +449,8 @@
           },
           {
             "keyword": "jvm",
-            "cover": 13,
-            "freq": 14
+            "cover": 15,
+            "freq": 17
           },
           {
             "keyword": "集成测试",
@@ -470,23 +470,23 @@
         ]
       },
       "后端/大数据/云": {
-        "hit_jobs": 282,
-        "cover_rate": 0.281,
+        "hit_jobs": 296,
+        "cover_rate": 0.282,
         "keywords": [
           {
             "keyword": "全栈",
-            "cover": 104,
-            "freq": 219
+            "cover": 105,
+            "freq": 220
           },
           {
             "keyword": "数据库",
-            "cover": 101,
-            "freq": 148
+            "cover": 105,
+            "freq": 155
           },
           {
             "keyword": "分布式",
-            "cover": 72,
-            "freq": 111
+            "cover": 76,
+            "freq": 117
           },
           {
             "keyword": "服务端",
@@ -494,14 +494,24 @@
             "freq": 87
           },
           {
-            "keyword": "微服务",
-            "cover": 31,
-            "freq": 38
+            "keyword": "大数据",
+            "cover": 36,
+            "freq": 74
           },
           {
-            "keyword": "大数据",
-            "cover": 28,
-            "freq": 52
+            "keyword": "微服务",
+            "cover": 35,
+            "freq": 42
+          },
+          {
+            "keyword": "数仓",
+            "cover": 10,
+            "freq": 19
+          },
+          {
+            "keyword": "spark",
+            "cover": 10,
+            "freq": 15
           },
           {
             "keyword": "aws",
@@ -509,75 +519,65 @@
             "freq": 11
           },
           {
-            "keyword": "数仓",
-            "cover": 7,
-            "freq": 11
-          },
-          {
-            "keyword": "spark",
-            "cover": 6,
-            "freq": 9
-          },
-          {
             "keyword": "flink",
-            "cover": 5,
-            "freq": 6
+            "cover": 8,
+            "freq": 10
           },
           {
             "keyword": "hadoop",
+            "cover": 8,
+            "freq": 9
+          },
+          {
+            "keyword": "hbase",
+            "cover": 4,
+            "freq": 5
+          },
+          {
+            "keyword": "实时计算",
             "cover": 4,
             "freq": 4
           },
           {
-            "keyword": "实时计算",
-            "cover": 3,
-            "freq": 3
-          },
-          {
-            "keyword": "hbase",
-            "cover": 3,
-            "freq": 3
-          },
-          {
             "keyword": "湖仓",
-            "cover": 1,
-            "freq": 1
+            "cover": 3,
+            "freq": 12
           }
         ]
       },
       "汽车/座舱/嵌入式": {
-        "hit_jobs": 150,
-        "cover_rate": 0.15,
+        "hit_jobs": 154,
+        "cover_rate": 0.147,
         "keywords": [
           {
             "keyword": "linux",
-            "cover": 79,
-            "freq": 123
+            "cover": 80,
+            "freq": 124
           },
           {
             "keyword": "车载",
-            "cover": 40,
-            "freq": 116
+            "cover": 41,
+            "freq": 121
           },
           {
             "keyword": "座舱",
-            "cover": 33,
-            "freq": 94
+            "cover": 34,
+            "freq": 95
           },
           {
             "keyword": "智能座舱",
-            "cover": 25,
-            "freq": 40
+            "cover": 26,
+            "freq": 41
           },
           {
             "keyword": "嵌入式",
-            "cover": 22,
-            "freq": 32
+            "cover": 23,
+            "freq": 34
           },
           {
             "keyword": "传感器",
-            "cover": 19,
-            "freq": 21
+            "cover": 20,
+            "freq": 22
           },
           {
             "keyword": "qnx",
@@ -612,88 +612,88 @@
         ]
       },
       "业务/管理/行业": {
-        "hit_jobs": 815,
-        "cover_rate": 0.813,
+        "hit_jobs": 858,
+        "cover_rate": 0.816,
         "keywords": [
           {
             "keyword": "团队",
-            "cover": 695,
-            "freq": 1699
+            "cover": 730,
+            "freq": 1769
           },
           {
             "keyword": "协作",
-            "cover": 425,
-            "freq": 653
+            "cover": 438,
+            "freq": 670
           },
           {
             "keyword": "解决方案",
-            "cover": 115,
-            "freq": 219
+            "cover": 127,
+            "freq": 250
           },
           {
             "keyword": "成本",
-            "cover": 111,
-            "freq": 174
+            "cover": 120,
+            "freq": 186
           },
           {
             "keyword": "团队管理",
-            "cover": 101,
-            "freq": 131
+            "cover": 108,
+            "freq": 140
           },
           {
             "keyword": "跨部门",
-            "cover": 81,
-            "freq": 97
+            "cover": 90,
+            "freq": 107
           },
           {
             "keyword": "战略",
-            "cover": 73,
-            "freq": 152
+            "cover": 85,
+            "freq": 178
           },
           {
             "keyword": "金融",
-            "cover": 49,
-            "freq": 131
+            "cover": 53,
+            "freq": 151
           },
           {
             "keyword": "售前",
-            "cover": 36,
-            "freq": 74
+            "cover": 43,
+            "freq": 90
           },
           {
             "keyword": "供应链",
-            "cover": 31,
-            "freq": 95
+            "cover": 36,
+            "freq": 102
           },
           {
             "keyword": "商务谈判",
-            "cover": 31,
-            "freq": 46
+            "cover": 33,
+            "freq": 48
           },
           {
             "keyword": "采购",
-            "cover": 28,
-            "freq": 96
-          },
-          {
-            "keyword": "能源",
-            "cover": 28,
-            "freq": 42
+            "cover": 32,
+            "freq": 135
           },
           {
             "keyword": "供应商",
-            "cover": 26,
-            "freq": 53
+            "cover": 31,
+            "freq": 73
+          },
+          {
+            "keyword": "能源",
+            "cover": 31,
+            "freq": 47
           },
           {
             "keyword": "erp",
-            "cover": 25,
-            "freq": 56
+            "cover": 29,
+            "freq": 63
           },
           {
             "keyword": "物流",
-            "cover": 15,
-            "freq": 75
+            "cover": 16,
+            "freq": 76
           }
         ]
       }
@@ -1835,172 +1835,182 @@
         ]
       },
       "recommend": {
-        "n": 333,
+        "n": 381,
         "top": [
           {
             "keyword": "团队",
-            "cover": 252,
-            "freq": 793
+            "cover": 287,
+            "freq": 863
           },
           {
             "keyword": "优化",
-            "cover": 202,
-            "freq": 468
+            "cover": 226,
+            "freq": 510
           },
           {
             "keyword": "架构",
-            "cover": 149,
-            "freq": 440
+            "cover": 171,
+            "freq": 515
           },
           {
             "keyword": "ai",
-            "cover": 123,
-            "freq": 479
+            "cover": 142,
+            "freq": 575
           },
           {
             "keyword": "协作",
-            "cover": 120,
-            "freq": 171
+            "cover": 133,
+            "freq": 188
           },
           {
             "keyword": "性能",
-            "cover": 111,
-            "freq": 230
+            "cover": 121,
+            "freq": 247
           },
           {
             "keyword": "团队管理",
-            "cover": 81,
-            "freq": 107
+            "cover": 88,
+            "freq": 116
           },
           {
             "keyword": "android",
-            "cover": 80,
-            "freq": 344
+            "cover": 81,
+            "freq": 348
           },
           {
             "keyword": "解决方案",
-            "cover": 69,
-            "freq": 171
-          },
-          {
-            "keyword": "跨部门",
-            "cover": 68,
-            "freq": 84
-          },
-          {
-            "keyword": "稳定性",
-            "cover": 67,
-            "freq": 124
+            "cover": 81,
+            "freq": 202
           },
           {
             "keyword": "战略",
-            "cover": 66,
-            "freq": 144
+            "cover": 78,
+            "freq": 170
+          },
+          {
+            "keyword": "跨部门",
+            "cover": 77,
+            "freq": 94
           },
           {
             "keyword": "java",
-            "cover": 64,
-            "freq": 98
+            "cover": 76,
+            "freq": 119
           },
           {
             "keyword": "成本",
-            "cover": 63,
-            "freq": 104
+            "cover": 72,
+            "freq": 116
           },
           {
-            "keyword": "性能优化",
-            "cover": 51,
-            "freq": 68
+            "keyword": "稳定性",
+            "cover": 71,
+            "freq": 130
           },
           {
             "keyword": "大模型",
-            "cover": 45,
-            "freq": 101
+            "cover": 52,
+            "freq": 117
           },
           {
-            "keyword": "kotlin",
-            "cover": 41,
-            "freq": 54
+            "keyword": "性能优化",
+            "cover": 52,
+            "freq": 69
           },
           {
             "keyword": "agent",
-            "cover": 38,
-            "freq": 139
-          },
-          {
-            "keyword": "监控",
-            "cover": 38,
-            "freq": 54
-          },
-          {
-            "keyword": "数据库",
-            "cover": 36,
-            "freq": 68
+            "cover": 47,
+            "freq": 169
           },
           {
             "keyword": "售前",
-            "cover": 35,
-            "freq": 73
+            "cover": 42,
+            "freq": 89
           },
           {
-            "keyword": "分布式",
-            "cover": 33,
+            "keyword": "监控",
+            "cover": 42,
             "freq": 58
           },
           {
+            "keyword": "kotlin",
+            "cover": 42,
+            "freq": 57
+          },
+          {
+            "keyword": "数据库",
+            "cover": 40,
+            "freq": 75
+          },
+          {
+            "keyword": "分布式",
+            "cover": 37,
+            "freq": 64
+          },
+          {
             "keyword": "金融",
-            "cover": 31,
-            "freq": 106
-          },
-          {
-            "keyword": "商务谈判",
-            "cover": 31,
-            "freq": 46
-          },
-          {
-            "keyword": "c++",
-            "cover": 31,
-            "freq": 42
-          },
-          {
-            "keyword": "sdk",
-            "cover": 30,
-            "freq": 71
-          },
-          {
-            "keyword": "linux",
-            "cover": 28,
-            "freq": 37
-          },
-          {
-            "keyword": "采购",
-            "cover": 27,
-            "freq": 95
-          },
-          {
-            "keyword": "供应链",
-            "cover": 25,
-            "freq": 79
+            "cover": 35,
+            "freq": 126
           },
           {
             "keyword": "大数据",
-            "cover": 25,
-            "freq": 47
+            "cover": 33,
+            "freq": 69
+          },
+          {
+            "keyword": "商务谈判",
+            "cover": 33,
+            "freq": 48
+          },
+          {
+            "keyword": "c++",
+            "cover": 33,
+            "freq": 44
+          },
+          {
+            "keyword": "采购",
+            "cover": 31,
+            "freq": 134
+          },
+          {
+            "keyword": "sdk",
+            "cover": 31,
+            "freq": 72
+          },
+          {
+            "keyword": "供应链",
+            "cover": 30,
+            "freq": 86
+          },
+          {
+            "keyword": "linux",
+            "cover": 29,
+            "freq": 38
+          },
+          {
+            "keyword": "python",
+            "cover": 29,
+            "freq": 36
           },
           {
             "keyword": "erp",
-            "cover": 23,
-            "freq": 53
+            "cover": 27,
+            "freq": 60
           },
           {
             "keyword": "能源",
-            "cover": 23,
-            "freq": 37
+            "cover": 26,
+            "freq": 42
           },
           {
             "keyword": "视频",
+            "cover": 24,
+            "freq": 60
+          },
+          {
+            "keyword": "智能体",
             "cover": 22,
-            "freq": 54
+            "freq": 50
           },
           {
             "keyword": "兼容性",
@@ -2008,9 +2018,14 @@
             "freq": 27
           },
           {
-            "keyword": "python",
+            "keyword": "供应商",
             "cover": 21,
-            "freq": 26
+            "freq": 62
+          },
+          {
+            "keyword": "微服务",
+            "cover": 21,
+            "freq": 23
           },
           {
             "keyword": "c/c++",
@@ -2018,24 +2033,9 @@
             "freq": 21
           },
           {
-            "keyword": "智能体",
-            "cover": 18,
-            "freq": 43
-          },
-          {
             "keyword": "卡顿",
             "cover": 18,
             "freq": 20
-          },
-          {
-            "keyword": "微服务",
-            "cover": 17,
-            "freq": 19
-          },
-          {
-            "keyword": "供应商",
-            "cover": 16,
-            "freq": 42
           },
           {
             "keyword": "flutter",
@@ -2048,14 +2048,24 @@
             "freq": 37
           },
           {
+            "keyword": "llm",
+            "cover": 16,
+            "freq": 26
+          },
+          {
+            "keyword": "自动化测试",
+            "cover": 16,
+            "freq": 24
+          },
+          {
             "keyword": "anr",
             "cover": 16,
             "freq": 20
           },
           {
-            "keyword": "自动化测试",
+            "keyword": "物流",
             "cover": 15,
-            "freq": 23
+            "freq": 75
           },
           {
             "keyword": "跨端",
@@ -2063,14 +2073,14 @@
             "freq": 22
           },
           {
-            "keyword": "物流",
-            "cover": 14,
-            "freq": 74
-          },
-          {
             "keyword": "鸿蒙",
             "cover": 14,
             "freq": 43
+          },
+          {
+            "keyword": "prompt",
+            "cover": 14,
+            "freq": 20
           },
           {
             "keyword": "tcp",
@@ -2083,44 +2093,34 @@
             "freq": 16
           },
           {
+            "keyword": "设计模式",
+            "cover": 14,
+            "freq": 15
+          },
+          {
             "keyword": "逆向",
             "cover": 13,
             "freq": 29
           },
           {
-            "keyword": "llm",
-            "cover": 13,
-            "freq": 23
-          },
-          {
-            "keyword": "设计模式",
-            "cover": 13,
-            "freq": 14
-          },
-          {
             "keyword": "全栈",
-            "cover": 12,
-            "freq": 18
+            "cover": 13,
+            "freq": 19
           },
           {
             "keyword": "go",
-            "cover": 12,
-            "freq": 15
+            "cover": 13,
+            "freq": 16
           },
           {
             "keyword": "ci/cd",
-            "cover": 12,
-            "freq": 13
+            "cover": 13,
+            "freq": 14
           },
           {
             "keyword": "音视频",
             "cover": 11,
             "freq": 24
-          },
-          {
-            "keyword": "prompt",
-            "cover": 11,
-            "freq": 17
           },
           {
             "keyword": "跨平台",
@@ -2138,6 +2138,11 @@
             "freq": 18
           },
           {
+            "keyword": "机器学习",
+            "cover": 10,
+            "freq": 15
+          },
+          {
             "keyword": "crash",
             "cover": 10,
             "freq": 14
@@ -2148,9 +2153,14 @@
             "freq": 13
           },
           {
-            "keyword": "机器学习",
+            "keyword": "spark",
             "cover": 9,
             "freq": 14
+          },
+          {
+            "keyword": "jvm",
+            "cover": 9,
+            "freq": 11
           },
           {
             "keyword": "binder",
@@ -2168,6 +2178,26 @@
             "freq": 10
           },
           {
+            "keyword": "flink",
+            "cover": 8,
+            "freq": 10
+          },
+          {
+            "keyword": "hadoop",
+            "cover": 8,
+            "freq": 9
+          },
+          {
+            "keyword": "车载",
+            "cover": 7,
+            "freq": 22
+          },
+          {
+            "keyword": "数仓",
+            "cover": 7,
+            "freq": 16
+          },
+          {
             "keyword": "aws",
             "cover": 7,
             "freq": 10
@@ -2183,14 +2213,14 @@
             "freq": 9
           },
           {
-            "keyword": "jvm",
+            "keyword": "服务端",
             "cover": 7,
             "freq": 8
           },
           {
-            "keyword": "服务端",
+            "keyword": "传感器",
             "cover": 7,
-            "freq": 8
+            "freq": 7
           },
           {
             "keyword": "音频",
@@ -2198,9 +2228,9 @@
             "freq": 21
           },
           {
-            "keyword": "车载",
+            "keyword": "座舱",
             "cover": 6,
-            "freq": 17
+            "freq": 13
           },
           {
             "keyword": "蓝牙",
@@ -2211,6 +2241,16 @@
             "keyword": "wi-fi",
             "cover": 6,
             "freq": 11
+          },
+          {
+            "keyword": "深度学习",
+            "cover": 6,
+            "freq": 8
+          },
+          {
+            "keyword": "vibe coding",
+            "cover": 6,
+            "freq": 7
           },
           {
             "keyword": "typescript",
@@ -2228,22 +2268,12 @@
             "freq": 6
           },
           {
-            "keyword": "传感器",
-            "cover": 6,
-            "freq": 6
-          },
-          {
-            "keyword": "座舱",
-            "cover": 5,
-            "freq": 12
-          },
-          {
             "keyword": "集成测试",
             "cover": 5,
             "freq": 8
           },
           {
-            "keyword": "spark",
+            "keyword": "嵌入式",
             "cover": 5,
             "freq": 8
           },
@@ -2253,17 +2283,7 @@
             "freq": 7
           },
           {
-            "keyword": "深度学习",
-            "cover": 5,
-            "freq": 7
-          },
-          {
             "keyword": "udp",
-            "cover": 5,
-            "freq": 6
-          },
-          {
-            "keyword": "flink",
             "cover": 5,
             "freq": 6
           },
@@ -2278,14 +2298,24 @@
             "freq": 5
           },
           {
+            "keyword": "codex",
+            "cover": 5,
+            "freq": 5
+          },
+          {
+            "keyword": "mcp",
+            "cover": 5,
+            "freq": 5
+          },
+          {
             "keyword": "编解码",
             "cover": 4,
             "freq": 13
           },
           {
-            "keyword": "数仓",
+            "keyword": "golang",
             "cover": 4,
-            "freq": 8
+            "freq": 11
           },
           {
             "keyword": "hal",
@@ -2298,29 +2328,14 @@
             "freq": 6
           },
           {
-            "keyword": "嵌入式",
+            "keyword": "wifi",
             "cover": 4,
-            "freq": 6
+            "freq": 5
           },
           {
-            "keyword": "vibe coding",
-            "cover": 4,
-            "freq": 4
-          },
-          {
-            "keyword": "codex",
-            "cover": 4,
-            "freq": 4
-          },
-          {
-            "keyword": "hadoop",
-            "cover": 4,
-            "freq": 4
-          },
-          {
-            "keyword": "golang",
+            "keyword": "湖仓",
             "cover": 3,
-            "freq": 9
+            "freq": 12
           },
           {
             "keyword": "mcu",
@@ -2333,12 +2348,17 @@
             "freq": 4
           },
           {
-            "keyword": "wifi",
+            "keyword": "hbase",
             "cover": 3,
             "freq": 4
           },
           {
-            "keyword": "mcp",
+            "keyword": "智能座舱",
+            "cover": 3,
+            "freq": 3
+          },
+          {
+            "keyword": "实时计算",
             "cover": 3,
             "freq": 3
           },
@@ -2363,11 +2383,6 @@
             "freq": 3
           },
           {
-            "keyword": "智能座舱",
-            "cover": 2,
-            "freq": 2
-          },
-          {
             "keyword": "智能体研发",
             "cover": 2,
             "freq": 2
@@ -2378,17 +2393,7 @@
             "freq": 2
           },
           {
-            "keyword": "实时计算",
-            "cover": 2,
-            "freq": 2
-          },
-          {
             "keyword": "objective-c",
-            "cover": 2,
-            "freq": 2
-          },
-          {
-            "keyword": "hbase",
             "cover": 2,
             "freq": 2
           },
@@ -2456,11 +2461,6 @@
             "keyword": "音频算法",
             "cover": 1,
             "freq": 1
-          },
-          {
-            "keyword": "湖仓",
-            "cover": 1,
-            "freq": 1
           }
         ]
       }
@@ -2468,83 +2468,83 @@
     "overall_top": [
       {
         "keyword": "优化",
-        "cover": 733,
-        "freq": 1911
+        "cover": 757,
+        "freq": 1953
       },
       {
         "keyword": "团队",
-        "cover": 695,
-        "freq": 1699
+        "cover": 730,
+        "freq": 1769
       },
       {
         "keyword": "架构",
-        "cover": 623,
-        "freq": 1512
+        "cover": 645,
+        "freq": 1587
       },
       {
         "keyword": "性能",
-        "cover": 607,
-        "freq": 1440
+        "cover": 617,
+        "freq": 1457
       },
       {
         "keyword": "android",
-        "cover": 553,
-        "freq": 2329
+        "cover": 554,
+        "freq": 2333
       },
       {
         "keyword": "ai",
-        "cover": 466,
-        "freq": 2233
+        "cover": 485,
+        "freq": 2329
       },
       {
         "keyword": "java",
-        "cover": 441,
-        "freq": 655
+        "cover": 453,
+        "freq": 676
       },
       {
         "keyword": "协作",
-        "cover": 425,
-        "freq": 653
+        "cover": 438,
+        "freq": 670
       },
       {
         "keyword": "稳定性",
-        "cover": 356,
-        "freq": 576
+        "cover": 360,
+        "freq": 582
       },
       {
         "keyword": "kotlin",
-        "cover": 345,
-        "freq": 471
+        "cover": 346,
+        "freq": 474
       },
       {
         "keyword": "性能优化",
-        "cover": 341,
-        "freq": 497
+        "cover": 342,
+        "freq": 498
       },
       {
         "keyword": "agent",
-        "cover": 240,
-        "freq": 888
+        "cover": 249,
+        "freq": 918
       },
       {
         "keyword": "sdk",
-        "cover": 186,
-        "freq": 464
+        "cover": 187,
+        "freq": 465
       },
       {
         "keyword": "监控",
-        "cover": 169,
-        "freq": 229
+        "cover": 173,
+        "freq": 233
       },
       {
         "keyword": "c++",
-        "cover": 168,
-        "freq": 225
+        "cover": 170,
+        "freq": 227
       },
       {
         "keyword": "大模型",
-        "cover": 162,
-        "freq": 301
+        "cover": 169,
+        "freq": 317
       },
       {
         "keyword": "跨端",
@@ -2578,28 +2578,33 @@
       },
       {
         "keyword": "视频",
-        "cover": 128,
-        "freq": 316
-      },
-      {
-        "keyword": "设计模式",
-        "cover": 116,
-        "freq": 120
+        "cover": 130,
+        "freq": 322
       },
       {
         "keyword": "解决方案",
-        "cover": 115,
-        "freq": 219
+        "cover": 127,
+        "freq": 250
       },
       {
         "keyword": "成本",
-        "cover": 111,
-        "freq": 174
+        "cover": 120,
+        "freq": 186
+      },
+      {
+        "keyword": "设计模式",
+        "cover": 117,
+        "freq": 121
       },
       {
         "keyword": "python",
+        "cover": 116,
+        "freq": 142
+      },
+      {
+        "keyword": "团队管理",
         "cover": 108,
-        "freq": 132
+        "freq": 140
       },
       {
         "keyword": "react native",
@@ -2608,8 +2613,13 @@
       },
       {
         "keyword": "全栈",
-        "cover": 104,
-        "freq": 219
+        "cover": 105,
+        "freq": 220
+      },
+      {
+        "keyword": "数据库",
+        "cover": 105,
+        "freq": 155
       },
       {
         "keyword": "跨平台",
@@ -2617,14 +2627,9 @@
         "freq": 158
       },
       {
-        "keyword": "数据库",
-        "cover": 101,
-        "freq": 148
-      },
-      {
-        "keyword": "团队管理",
-        "cover": 101,
-        "freq": 131
+        "keyword": "跨部门",
+        "cover": 90,
+        "freq": 107
       },
       {
         "keyword": "anr",
@@ -2642,6 +2647,11 @@
         "freq": 97
       },
       {
+        "keyword": "战略",
+        "cover": 85,
+        "freq": 178
+      },
+      {
         "keyword": "jetpack",
         "cover": 84,
         "freq": 107
@@ -2652,24 +2662,24 @@
         "freq": 101
       },
       {
-        "keyword": "跨部门",
-        "cover": 81,
-        "freq": 97
-      },
-      {
         "keyword": "linux",
-        "cover": 79,
-        "freq": 123
+        "cover": 80,
+        "freq": 124
       },
       {
         "keyword": "ci/cd",
-        "cover": 79,
-        "freq": 92
+        "cover": 80,
+        "freq": 93
       },
       {
         "keyword": "音视频",
         "cover": 77,
         "freq": 155
+      },
+      {
+        "keyword": "分布式",
+        "cover": 76,
+        "freq": 117
       },
       {
         "keyword": "c/c++",
@@ -2682,9 +2692,9 @@
         "freq": 151
       },
       {
-        "keyword": "战略",
+        "keyword": "自动化测试",
         "cover": 73,
-        "freq": 152
+        "freq": 88
       },
       {
         "keyword": "ai coding",
@@ -2692,29 +2702,19 @@
         "freq": 152
       },
       {
-        "keyword": "分布式",
-        "cover": 72,
-        "freq": 111
-      },
-      {
-        "keyword": "自动化测试",
-        "cover": 72,
-        "freq": 87
-      },
-      {
         "keyword": "prompt",
-        "cover": 68,
-        "freq": 102
+        "cover": 71,
+        "freq": 105
       },
       {
         "keyword": "智能体",
-        "cover": 66,
-        "freq": 155
+        "cover": 70,
+        "freq": 162
       },
       {
         "keyword": "llm",
-        "cover": 66,
-        "freq": 97
+        "cover": 69,
+        "freq": 100
       },
       {
         "keyword": "服务端",
@@ -2728,8 +2728,8 @@
       },
       {
         "keyword": "go",
-        "cover": 60,
-        "freq": 84
+        "cover": 61,
+        "freq": 85
       },
       {
         "keyword": "objective-c",
@@ -2737,24 +2737,29 @@
         "freq": 60
       },
       {
+        "keyword": "金融",
+        "cover": 53,
+        "freq": 151
+      },
+      {
         "keyword": "javascript",
         "cover": 53,
         "freq": 59
       },
       {
-        "keyword": "金融",
-        "cover": 49,
-        "freq": 131
-      },
-      {
         "keyword": "codex",
-        "cover": 45,
-        "freq": 56
+        "cover": 46,
+        "freq": 57
       },
       {
         "keyword": "mcp",
-        "cover": 42,
-        "freq": 54
+        "cover": 44,
+        "freq": 56
+      },
+      {
+        "keyword": "售前",
+        "cover": 43,
+        "freq": 90
       },
       {
         "keyword": "单元测试",
@@ -2767,6 +2772,11 @@
         "freq": 45
       },
       {
+        "keyword": "车载",
+        "cover": 41,
+        "freq": 121
+      },
+      {
         "keyword": "tcp",
         "cover": 41,
         "freq": 49
@@ -2775,11 +2785,6 @@
         "keyword": "内存优化",
         "cover": 41,
         "freq": 45
-      },
-      {
-        "keyword": "车载",
-        "cover": 40,
-        "freq": 116
       },
       {
         "keyword": "蓝牙",
@@ -2797,14 +2802,24 @@
         "freq": 43
       },
       {
-        "keyword": "售前",
+        "keyword": "供应链",
+        "cover": 36,
+        "freq": 102
+      },
+      {
+        "keyword": "大数据",
         "cover": 36,
         "freq": 74
       },
       {
+        "keyword": "微服务",
+        "cover": 35,
+        "freq": 42
+      },
+      {
         "keyword": "座舱",
-        "cover": 33,
-        "freq": 94
+        "cover": 34,
+        "freq": 95
       },
       {
         "keyword": "音频",
@@ -2812,34 +2827,29 @@
         "freq": 86
       },
       {
-        "keyword": "供应链",
-        "cover": 31,
-        "freq": 95
-      },
-      {
         "keyword": "商务谈判",
-        "cover": 31,
-        "freq": 46
-      },
-      {
-        "keyword": "微服务",
-        "cover": 31,
-        "freq": 38
+        "cover": 33,
+        "freq": 48
       },
       {
         "keyword": "采购",
-        "cover": 28,
-        "freq": 96
+        "cover": 32,
+        "freq": 135
       },
       {
-        "keyword": "大数据",
-        "cover": 28,
-        "freq": 52
+        "keyword": "供应商",
+        "cover": 31,
+        "freq": 73
       },
       {
         "keyword": "能源",
-        "cover": 28,
-        "freq": 42
+        "cover": 31,
+        "freq": 47
+      },
+      {
+        "keyword": "erp",
+        "cover": 29,
+        "freq": 63
       },
       {
         "keyword": "逆向",
@@ -2852,24 +2862,19 @@
         "freq": 35
       },
       {
-        "keyword": "供应商",
-        "cover": 26,
-        "freq": 53
-      },
-      {
-        "keyword": "erp",
-        "cover": 25,
-        "freq": 56
-      },
-      {
         "keyword": "智能座舱",
-        "cover": 25,
-        "freq": 40
+        "cover": 26,
+        "freq": 41
       },
       {
         "keyword": "golang",
+        "cover": 26,
+        "freq": 36
+      },
+      {
+        "keyword": "vibe coding",
         "cover": 25,
-        "freq": 34
+        "freq": 31
       },
       {
         "keyword": "hal",
@@ -2877,14 +2882,9 @@
         "freq": 42
       },
       {
-        "keyword": "vibe coding",
-        "cover": 23,
-        "freq": 28
-      },
-      {
         "keyword": "嵌入式",
-        "cover": 22,
-        "freq": 32
+        "cover": 23,
+        "freq": 34
       },
       {
         "keyword": "编解码",
@@ -2897,14 +2897,19 @@
         "freq": 30
       },
       {
+        "keyword": "传感器",
+        "cover": 20,
+        "freq": 22
+      },
+      {
         "keyword": "rust",
         "cover": 20,
         "freq": 22
       },
       {
-        "keyword": "传感器",
-        "cover": 19,
-        "freq": 21
+        "keyword": "物流",
+        "cover": 16,
+        "freq": 76
       },
       {
         "keyword": "ble",
@@ -2912,12 +2917,12 @@
         "freq": 32
       },
       {
-        "keyword": "物流",
+        "keyword": "udp",
         "cover": 15,
-        "freq": 75
+        "freq": 17
       },
       {
-        "keyword": "udp",
+        "keyword": "jvm",
         "cover": 15,
         "freq": 17
       },
@@ -2927,9 +2932,9 @@
         "freq": 21
       },
       {
-        "keyword": "jvm",
+        "keyword": "机器学习",
         "cover": 13,
-        "freq": 14
+        "freq": 20
       },
       {
         "keyword": "qnx",
@@ -2943,11 +2948,6 @@
       },
       {
         "keyword": "systemui",
-        "cover": 12,
-        "freq": 19
-      },
-      {
-        "keyword": "机器学习",
         "cover": 12,
         "freq": 19
       },
@@ -2972,9 +2972,19 @@
         "freq": 14
       },
       {
+        "keyword": "数仓",
+        "cover": 10,
+        "freq": 19
+      },
+      {
         "keyword": "wi-fi",
         "cover": 10,
         "freq": 17
+      },
+      {
+        "keyword": "spark",
+        "cover": 10,
+        "freq": 15
       },
       {
         "keyword": "frida",
@@ -2987,13 +2997,18 @@
         "freq": 11
       },
       {
-        "keyword": "数仓",
-        "cover": 7,
-        "freq": 11
+        "keyword": "深度学习",
+        "cover": 8,
+        "freq": 10
       },
       {
-        "keyword": "深度学习",
-        "cover": 7,
+        "keyword": "flink",
+        "cover": 8,
+        "freq": 10
+      },
+      {
+        "keyword": "hadoop",
+        "cover": 8,
         "freq": 9
       },
       {
@@ -3002,24 +3017,14 @@
         "freq": 20
       },
       {
-        "keyword": "spark",
-        "cover": 6,
-        "freq": 9
+        "keyword": "wifi",
+        "cover": 5,
+        "freq": 6
       },
       {
         "keyword": "selinux",
         "cover": 5,
         "freq": 6
-      },
-      {
-        "keyword": "flink",
-        "cover": 5,
-        "freq": 6
-      },
-      {
-        "keyword": "wifi",
-        "cover": 4,
-        "freq": 5
       },
       {
         "keyword": "h.264",
@@ -3032,14 +3037,24 @@
         "freq": 5
       },
       {
+        "keyword": "hbase",
+        "cover": 4,
+        "freq": 5
+      },
+      {
         "keyword": "智能体研发",
         "cover": 4,
         "freq": 4
       },
       {
-        "keyword": "hadoop",
+        "keyword": "实时计算",
         "cover": 4,
         "freq": 4
+      },
+      {
+        "keyword": "湖仓",
+        "cover": 3,
+        "freq": 12
       },
       {
         "keyword": "opus",
@@ -3060,16 +3075,6 @@
         "keyword": "数据标注",
         "cover": 3,
         "freq": 4
-      },
-      {
-        "keyword": "实时计算",
-        "cover": 3,
-        "freq": 3
-      },
-      {
-        "keyword": "hbase",
-        "cover": 3,
-        "freq": 3
       },
       {
         "keyword": "pcm",
@@ -3093,11 +3098,6 @@
       },
       {
         "keyword": "音频算法",
-        "cover": 1,
-        "freq": 1
-      },
-      {
-        "keyword": "湖仓",
         "cover": 1,
         "freq": 1
       }
