@@ -52,6 +52,9 @@ python3 scripts/make_charts.py
 
 # 4) 生成技能→教程映射清单（不写教程正文）
 python3 scripts/build_curriculum.py
+
+# 5) 生成本地可打开的岗位技能可视化看板（单文件 HTML，数据内联）
+python3 scripts/build_dashboard.py
 ```
 
 > 本期采集走内置浏览器（已登录、免扫码、断点续采）；`collect.mjs` 为后续脱离内置浏览器的周期复采骨架，首次运行需人工扫码，其登录态目录 `auth/` 已被 gitignore。
