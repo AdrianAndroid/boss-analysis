@@ -8,6 +8,7 @@
 """
 import json
 import os
+import sys
 
 import matplotlib
 matplotlib.use("Agg")
@@ -17,7 +18,9 @@ plt.rcParams["font.sans-serif"] = ["Hiragino Sans GB", "STHeiti", "Arial Unicode
 plt.rcParams["axes.unicode_minus"] = False
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-REPORT_DIR = os.path.join(ROOT, "reports", "2026-11-15")
+sys.path.append(os.path.join(ROOT, "scripts"))
+from snapshot import DATE, REPORT  # noqa: E402
+REPORT_DIR = str(REPORT)
 ANALYSIS = os.path.join(REPORT_DIR, "analysis.json")
 GROWTH_CFG = os.path.join(ROOT, "config", "trend_growth.json")
 
@@ -62,6 +65,7 @@ def chart_growth():
 def chart_structure():
     data = json.load(open(ANALYSIS, encoding="utf-8"))
     overall = data["result"]["overall"]
+    sample = data.get("sample", len(overall))
     rows = sorted(overall.items(), key=lambda kv: kv[1]["cover_rate"])
     labels = [k for k, _ in rows]
     vals = [v["cover_rate"] * 100 for _, v in rows]
@@ -75,7 +79,7 @@ def chart_structure():
                 f"{v:.1f}%", va="center", ha="left", fontsize=10, fontweight="bold")
 
     ax.set_xlabel("岗位覆盖占比（%，样本内出现该技能组的岗位比例）")
-    ax.set_title("本地样本技能大类覆盖结构（北京 1051 岗 · 2026-11-15）", fontsize=13, fontweight="bold")
+    ax.set_title(f"本地样本技能大类覆盖结构（北京 {sample} 岗 · {DATE}）", fontsize=13, fontweight="bold")
     ax.set_xlim(0, 100)
     ax.grid(axis="x", linestyle="--", alpha=0.3)
     ax.spines[["top", "right"]].set_visible(False)

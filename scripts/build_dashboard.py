@@ -6,13 +6,15 @@
 """
 import json
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATE = "2026-11-15"
-REPORT_DIR = ROOT / "reports" / DATE
-DATA_RAW = ROOT / "data" / "raw" / DATE
-DATA_PROC = ROOT / "data" / "processed" / DATE
+sys.path.append(str(ROOT / "scripts"))
+from snapshot import DATE, REPORT, RAW, PROC  # noqa: E402
+REPORT_DIR = REPORT
+DATA_RAW = RAW
+DATA_PROC = PROC
 
 SALARY_NOISE = re.compile(r"薪|元/月|^\s*[-–—\dKk·\.\s]+$|\d+\s*-\s*\d+\s*K")
 # 去除私有区字体字符/符号/数字/K 后为空，视为薪资或占位噪音标签

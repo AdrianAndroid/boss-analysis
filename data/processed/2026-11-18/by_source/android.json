@@ -1,0 +1,1837 @@
+{
+  "date": "2026-11-18",
+  "source": "android",
+  "count": 72,
+  "records": [
+    {
+      "job_key": "5d6e286cdb7d",
+      "primary_tab": "ai_agent",
+      "tabs": [
+        "ai_agent",
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/119844f92f10fcdb0ndz3dW0FlJQ.html",
+      "title": "上市公司- Android开发（要Agent作品）",
+      "company": "车来了",
+      "salary": "20-40K·15薪",
+      "location": "北京·东城区·交道口",
+      "exp": "1-3年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "AI 作品需求（必备项）\n投递简历需同步提供 AI 相关个人作品；\n作品形式不限，包含 AI Agent、自定义 AI 工作流程、AI Skill 技能定制等均可；\n可提交项目 Demo、设计⽅案⽂档、GitHub 开源仓库，任意形式均可\n岗位职责：\n1.负责公司核⼼业务“车来了app” Android 客户端的架构设计与核心功能开发；\n2.优化客户端性能，包括启动速度、内存、网络、稳定性等指标；\n3.参与客户端整体架构演进，推动模块化、组件化、插件化等技术⽅案落地；\n4.负责复杂业务需求的技术方案设计和落地，实现高质量代码交付；\n5.跟进行业新技术（如 Compose、Kotlin 协程、AI 编程工具等），并评估其在业务中的应用价值。\n任职要求：\n1.本科及以上学历，计算机相关专业，1-3 年Android 开发经验；\n2.熟悉 Android SDK，掌握常用框架原理及 Android 系统机制（进程、线程、Binder、View、触摸事件分发、消息机制等）；\n3.熟练掌握 Java / Kotlin，具备扎实的编程功底与良好的代码习惯；\n4.有较丰富的 架构设计与重构经验，熟悉常见设计模式，理解高内聚低耦合原则；\n5.熟悉常见性能优化手段（启动优化、内存优化、布局优化、网络优化等）；\n6.有多端适配经验（不同机型、屏幕、折叠屏、HarmonyOS 等优先）；\n7.熟悉 Gradle 构建、持续集成、自动化测试，具备较强的问题定位和解决能力；\n8.具备较强的学习能力和责任心，有良好的沟通能力和团队合作精神；\n9.有广告 SDK、地图、跨平台框架（Flutter/React Native）、AI 应用经验者优先。\n加分项：\n1.有 大型 App 或 SDK 的架构设计与长期维护经验；\n2.在 GitHub、掘金、知乎等平台有技术输出或开源项目；\n3.有Owner意识，能推动工程规范落地。",
+      "dup_of": null,
+      "group_role": "ai",
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "220e75d901d8",
+      "primary_tab": "ai_agent",
+      "tabs": [
+        "ai_agent",
+        "android"
+      ],
+      "url": "/job_detail/bfcc163b8f33b9bc0nx73ti0FlZS.html",
+      "title": "android开发工程师",
+      "company": "灵犀智慧",
+      "salary": "25-40K·15薪",
+      "location": "北京·朝阳区·望京",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n1. 负责 AI RPG类游戏平台Android 客户端的整体架构设计、核心模块开发与持续迭代，支撑产品从 0 到 1 及规模化增长。\n2. 负责 AI 角色交互链路建设，包括文字聊天、流式回复、语⾳消息、实时语⾳通话、视频通话、数字⼈互动等场景。\n3. 与算法、后端、产品团队协作，集成 LLM、ASR、TTS、VAD、情感识别、长期记忆、RAG、内容安全等能力。\n4. 设计并实现客户端侧角色状态、情感系统、亲密度、长期记忆、主动触达、消息推送等机制。\n5. 优化实时交互体验，包括⾸字延迟、端到端延迟、打断响应、弱网表现、丢包恢复、卡顿、功耗与发热。\n6. 负责 Android 性能与稳定性优化，包括启动速度、内存、包体积、流畅度、崩溃率、ANR、网络与电量。\n7. 推进架构演进，落地模块化、组件化、Jetpack Compose、协程/Flow、MVVM/MVI、依赖注入等最佳实践。\n8. 制定技术规范，进行代码审查与技术攻关，指导初中级工程师成长。\n9. 与设计、QA、运营紧密协作，快速迭代，数据驱动优化产品体验。\n10. 关注隐私合规、数据安全、未成年人保护及出海相关合规要求。\n任职要求：\n1. 本科及以上学历，计算机相关专业，3 年以上 Android 开发经验，有大型商业项目完整经历。\n2. 精通 Kotlin/Java，熟悉 Android SDK、Jetpack Compose、Coroutines/Flow、Room、Hilt/Koin 等现代 Android 技术栈。\n3. 深入理解 Android 架构设计，熟悉 MVVM/MVI/Clean Architecture、模块化、组件化与常用设计模式。\n4. 熟悉网络编程，掌握 OkHttp/Retrofit、WebSocket、SSE、gRPC、HTTP/2 及流式传输机制。\n5. 具备音视频开发经验，熟悉 Media3/ExoPlayer、WebRTC/RTC、音频采集与播放、编解码、AEC/NS/AGC、弱网优化。\n6. 了解 AI 能力集成，包括 LLM API、流式输出、上下文与记忆管理、Prompt 工程、RAG、向量检索、ASR/TTS 等。\n7. 熟练使用性能优化工具，如 Profiler、Systrace、Perfetto、MAT、LeakCanary、Baseline Profiles 等。\n8. 熟悉工程化体系，包括 Git、Gradle、CI/CD、自动化测试、线上监控与灰度发布。\n9. 具备良好的沟通协作能力、技术推动力和业务理解力，对 AI 陪伴与情感交互方向有热情。\n10. 有技术负责人、架构设计或跨端协作经验者优先。\n加分项：\n· 有 AI 陪伴、社交、语聊、直播、虚拟人、游戏或元宇宙相关产品经验。\n· 有端侧 AI 经验，熟悉 TFLite、ONNX、NCNN、MNN 等推理框架及模型量化/加速。\n· 有数字人、3D 渲染、OpenGL/Shader、Unity/Unreal、Live2D/Spine 等经验。\n· 熟悉语音信号处理、VAD、唤醒词、声纹识别、情感计算。\n· 有 Kotlin Multiplatform、Flutter、React Native、Compose Multiplatform 经验。\n· 有出海产品、多语言、GDPR/COPPA 等合规经验。\n· 有从 0 到 1 搭建团队或主导技术选型经验。",
+      "dup_of": null,
+      "group_role": "ai",
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "227b962eed01",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/e82bfcddb73e7c2e0nx82NS6GFRR.html",
+      "title": "Android开发工程师/鸿蒙开发工程师",
+      "company": "BOSS直聘",
+      "salary": "23-30K·16薪",
+      "location": "北京",
+      "exp": "",
+      "edu": "本科",
+      "tags": [
+        "-K·薪",
+        "在校/应届"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "职位名称：Android/鸿蒙开发工程师（校招）\n岗位职责：\n1. 负责公司招聘相关产品的迭代及新产品开发；\n2. 参与App性能与体验优化，以及质量监控体系建设；\n3. 参与客户端基础组件、AI研发工具及效能平台建设，持续提升团队研发效率。\n任职要求：\n1. 2027届计算机、软件工程等相关专业本科及以上学历；\n2. 热爱编程，基础扎实，掌握算法与数据结构相关知识；\n3. 具备好奇心和良好的分析、解决问题能⼒；\n4. ⾄少掌握⼀门编程语言，有C/C++、Java、Kotlin或ArkTS编程经验者优先；\n5. 了解Android或鸿蒙相关技术，有应用开发或安全相关经验者优先；\n6. 具备AI应⽤能力，有使用AI优化研发流程、开发Agent或相关工具经验者优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "c20c627c6eb4",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/95f3ad96852a49480nV709u5GVNX.html",
+      "title": "安卓开发",
+      "company": "时代力通",
+      "salary": "20-40K·14薪",
+      "location": "北京·朝阳区·望京",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "薪资：20-40k，14薪 试用期不打折，公司工作时间 9:30-21:00，双休\n福利：足额五险一⾦，平时餐补补贴是660元/⽉，房补1000元/⽉或交通补贴500元/月（交补和房补是二选⼀），下班晚的话，超过20：30下班是额外20元餐补/次，超过22：00用企业滴滴打车，每个月1000元的额度\n岗位职责：\n1、负责Android客户端软件负责需求的评估与研发工作。\n2、负责持续优化代码的架构与设计。\n3、负责持续提升产品用户体验、性能等指标。\n任职要求：\n1、本科及以上学历，计算机相关专业。\n2、具有5年以上android开发经验，熟悉android体系结构。\n3、kotlin/Java编程基础，具备基本的算法能力，熟练掌握常用的设计模式，熟练掌握多线程编程等计算机基础知识，具有良好的编程习惯与编程风格。\n4、熟练掌握Android Jetpack组件，Lifecycles、LiveData等。\n5、具备良好的分析问题及解决问题能力、良好的思维方式，工作认真，编码严谨，具有钻研精神。\n6、具备积极的工作态度，对产品质量有较高的要求，具备良好的沟通表达能力及团队合作精神，抗压能力强。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "4fc0c848842c",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/3ab46a482712d9b30nd-3dS6FlZU.html",
+      "title": "鸿蒙开发（安卓方向）",
+      "company": "易宝软件",
+      "salary": "20-25K",
+      "location": "北京·海淀区·上地",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "职位要求：\n1. 熟悉鸿蒙开发、Android开发，熟悉Kotlin，有大型项目开发经验最佳\n2.本科及以上学历，计算机专业；\n3. 熟悉鸿蒙原生平台开发\n4. 有 音视频经验优先",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "82263cf656f1",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/97e0c072b04ecbbe03183NS9E1ZS.html",
+      "title": "android开发-线上面试",
+      "company": "独创时代",
+      "salary": "18-22K",
+      "location": "北京·昌平区·回龙观",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "简历亮点要求：大厂经验或者金融大型项⽬经验\n职位描述\n1. 负责Fintech&关键模块设计、开发⼯作，保障交付产品的质量\n2. 和产品同学配合，参与产品需求讨论及技术⽅案制定和实现\n3. 以用户为中心、关注产品体验，持续进⾏体验升级和技术优化\n任职要求\n1. 本科及以上学历，5年以上Android开发经验，深入理解Java语言、Android Framework原理，具有扎实的编码基础\n2. 精通Java多线程开发、Android UI开发、动画开发，有良好的代码习惯和面向对象编程思想\n3. 熟悉 Android系统原理，具备丰富的Android开发调试经验及性能调优能力\n4. 熟悉移动端常用的MVP、MVVM架构、组件化思想，有大型App开发经验以及Flutter开发经验优先\n5. 具有较强的学习能力，关注新技术，有跨平台开发经验的优先\n6. 积极主动，有良好的团队合作精神和强烈的责任感，对产品体验有极致的追求",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "2a44736b29ec",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/d8a9be9fff9f14460nxz2tu6E1JU.html",
+      "title": "Android -SDK开发",
+      "company": "法本",
+      "salary": "18-20K",
+      "location": "北京·朝阳区·太阳宫",
+      "exp": "3-5年",
+      "edu": "大专",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "澄清点：有物流行业或者有相关数字化项目的经验\n物流 SDK 研发\n负责物流业务系统相关功能开发与迭代优化，落地核心后台模块业务逻辑，保障业务数据处理准确稳定；\n技术栈：Android 移动端 SDK 开发，优先有物流数字化项目实施经验。\n配合甲⽅项⽬管理流程，参与需求评审、开发编码、联调测试、问题闭环及阶段汇报；保障服务连续性、响应时效，严格遵守甲⽅现场管理、信息安全及保密规范。\n【工作职责】\n负责物流业务系统定制功能开发、性能优化，参与核心后台模块业务逻辑实现，保障数据处理准确可靠。\n【任职要求】\n1. 具备匹配岗位的专业能⼒、项目实施经验；\n2. 熟练 Android 移动端 SDK 开发，有物流行业数字化项目经验优先；\n3. 能够配合项目节奏，参与需求沟通、开发实施、联调测试、故障处理、阶段汇报；",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "cf3df63ed62d",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/20f6db8b7a1bf30a0nxz09y6GFNT.html",
+      "title": "客户端开发工程师（Android / iOS ）",
+      "company": "洋葱学园",
+      "salary": "25-40K·13薪",
+      "location": "北京",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位描述\n洋葱学园 APP 组负责学生版、教师版、家长版、校园版等全平台客户端的研发与体验，覆盖 iOS、Android、鸿蒙三端。产品矩阵持续扩张，我们需要一名能同时承接 Android 与 iOS 业务开发的客户端工程师，鸿蒙原生开发经验是加分项。\n你将与产品、设计、测试、服务端紧密协作，独⽴负责从技术⽅案到灰度上线的完整链路，并参与客户端性能、稳定性与组件化的长期建设。\n岗位职责\n1. 负责公司App（学⽣版、教师版等）Android 与 iOS 双端的业务需求开发，保证功能质量与上线节奏；\n2. 负责客户端性能与稳定性治理，持续优化启动速度、Web 页面加载、内存占用、崩溃率与卡顿等核⼼指标；\n3. 参与组件化与跨端能力建设，包括 H5 容器与 JSBridge、公共模块复用、三端能力对齐；\n4. 参与技术方案评审与 Code Review，沉淀可复用的技术资产；跟进 AI 编程工具在研发流程中的落地，提升交付效率；\n5. 与产品、设计、测试、服务端协同推进需求，独立负责从方案设计到上线复盘的完整链路。\n任职要求\n硬性要求\n1. 3 年以上移动端开发经验，具备 Android 与 iOS 双端开发能力，能独立承接双端业务需求；\n2. Android 端熟悉 Kotlin / Java、Jetpack / Compose 等常用技术栈；iOS 端熟悉 Swift / Objective-C、UIKit / SwiftUI；\n3. 理解移动端底层机制（内存管理、线程模型、渲染原理），有实际的性能优化与稳定性治理经验；\n4. 熟悉 Android Studio / Xcode 及配套工具链（Git、构建打包、崩溃监控），有组件化或模块化开发经验；\n5. 编程功底扎实，具备良好的设计能力与编码习惯，能写清技术方案并参与 Code Review；\n6. 有 AI 编程经验：使用过 Cursor、Claude Code 等工具，能对 AI 生成代码做审查、测试与重构，具备安全意识。\n加分项\n1. 有鸿蒙原生开发经验（ArkTS / ArkUI / Stage 模型），参与过鸿蒙应用上线；\n2. 有跨端方案实践，如 Flutter、Rust 底层模块复用、三端统一 JSBridge；\n3. 有音视频或播放器相关经验（AVPlayer / ExoPlayer / HLS，以及解码与卡顿治理）；\n4. 有端侧 AI 落地经验，做过模型部署、压缩或推理框架集成；\n5. 有开源作品或个人技术沉淀（GitHub 项目、技术博客），爱折腾、爱分享。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "2ae3bb1cd18e",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/5acf35b5bd1fb0380nZ_3tu9E1JV.html",
+      "title": "Android",
+      "company": "halomobi",
+      "salary": "20-40K",
+      "location": "北京·朝阳区·亚运村",
+      "exp": "3-5年",
+      "edu": "大专",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "工作内容\n1、负责Android客户端产品的研发工作，确保代码质量和项目进度。\n2、负责Android客户端广告SDK研发、优化任务。\n3、处理不同 Android 系统版本、设备⼚商、屏幕规格及复杂宿主 App 环境下的兼容性问题。\n4、持续优化 SDK 的性能与稳定性，降低包体积、内存占⽤、耗电量及启动耗时，治理 Crash、ANR、卡顿和内存泄漏。\n5、设计稳定、兼容且易于接⼊的 SDK API，完善 Demo、接入文档、变更说明及协助媒体/开发者接⼊。\n6、研究 Android 新版本、广告技术及行业规范，推动 SDK 架构和工程效率持续改进。\n任职要求\n1、具备良好的 API 设计能力，能够兼顾兼容性、可扩展性和接入方使用体验。\n2、熟悉个人信息保护、权限合规和 Android 隐私政策要求。\n3、具有大规模应用开发和维护的经验，能够高效定位并解决技术问题。\n4、有独立研发APP经验，有广告 SDK 从业经验优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "848bf8fee96d",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/5b0ee741455c22160nFy09i8GFBS.html",
+      "title": "安卓鸿蒙开发",
+      "company": "信华信",
+      "salary": "11-17K",
+      "location": "北京·朝阳区·西坝河",
+      "exp": "3-5年",
+      "edu": "大专",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位要求：整体经验3年以上\n 1）、有2年以上鸿蒙（HarmonyOS）开发经验\n 2）、有1年以上Android与鸿蒙跨平台适配实操经验，能高效完成功能兼容落地者优先\n 3）、具有AI辅助编程经验\n鸿蒙+安卓、会点AI编程",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "c819e9e0e01c",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/88df1346d32fcc2d0nxz3Nu1EltW.html",
+      "title": "座舱Android系统开发工程师",
+      "company": "青岛宝亿煌科技",
+      "salary": "13-21K",
+      "location": "北京·大兴区·亦庄",
+      "exp": "5-10年",
+      "edu": "大专",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责:\n1. 负责智能座舱Android系统底层架构的设计、开发与优化\n2. 完成车载应用框架及系统服务的功能实现与性能调优\n3. 参与系统稳定性测试及关键模块的调试与维护\n任职要求：\n1. 精通Android系统源码，具备扎实的Java/Kotlin编程基础\n2. 熟悉Linux内核机制及驱动开发流程\n3. 具备良好的代码规范意识及独立解决技术难题的能力",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "b3b40f44395a",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/bc92e35318967bcc0nx50t-6EFFQ.html",
+      "title": "Android手表",
+      "company": "北京三六零数智科技",
+      "salary": "20-30K·15薪",
+      "location": "北京·朝阳区·酒仙桥",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "方向一Android 系统高级工程师\n⼀、岗位职责\n1.负责 Android 系统设置，桌⾯,SystemUI, 相机等模块的定制开发、维护与重构；\n2.负责 智能⼿表 CTA 入网及信息安全相关认证适配；\n3.负责⼿表定位或者推送服务等核心模块开发\n4.以 AI 辅助研发为默认工作方式，深度使用 Claude Code / Cursor / Copilot 等 Agent 工具完成编码、调试、测试与文档撰写，并沉淀可复用的 AI 工程化实践，提升个人与团队研发效率。\n二、任职要求\n1.本科及以上学历，计算机 / 通信 / 电子信息等相关专业，3 年及以上 Android 系统开发经验（Framework / 系统应用及服务方向）；\n2.精通 Java / Kotlin，具备扎实的 C / C++ 功底，熟悉 JNI 与 Native 开发；\n3.深入理解 Android 系统架构与启动流程，精通至少一个核心系统服务（AMS / WMS / PMS / Input 等）的机制原理与 AOSP 源码实现；\n4.熟悉 AOSP 编译体系与 Repo / Gerrit 多仓协作流程，具备阅读和修改 AOSP 源码的能力；\n5.AI Coding 能力（核心要求）：熟练使用至少一种 AI Coding Agent 工具（Claude Code、Cursor、Code等），具备成体系的人机协作方法—\n6.具备复杂系统问题的拆解与定位能力、良好的沟通协作与技术文档能力，责任心强，有良好的团队合作意识。\n三、加分项\n●手机 ROM、智能座舱、智能手表 / IoT 终端等智能硬件系统深度定制经验；\n●定位模块或者推送类服务开发经验优先\n●高通 / MTK /展讯等主流平台量产项目优先\n●端侧 AI 落地经验，或用 AI 做日志异常检测、问题自动归因、性能瓶颈预测等优先\n方向二、Android 应用高级工程师\n一、岗位职责\n1.负责 Android 手表微聊，视频通话等通信应用开发\n2.负责 智能手表 AI 类应用研发\n3.负责手表定位或者推送服务等核心模块开发\n4.以 AI 辅助研发为默认工作方式，深度使用 Claude Code / Cursor / Copilot 等 Agent 工具完成编码、调试、测试与文档撰写，并沉淀可复用的 AI 工程化实践，提升个人与团队研发效率。\n二、任职要求\n1.本科及以上学历，计算机 / 通信 / 电子信息等相关专业，3 年及以上 Android 开发经验\n2.精通 Java / Kotlin，具备扎实的 C / C++ 功底，熟悉 JNI 与 Native 开发；\n3.熟悉 菊风，声网，即构等即时通讯SDK, 极光推送类 push 服务\n4.熟悉 AOSP 编译体系与 Repo / Gerrit 多仓协作流程，具备阅读和修改 AOSP 源码的能力；\n5.AI Coding 能力（核心要求）：熟练使用至少一种 AI Coding Agent 工具（Claude Code、Cursor、Code等），具备成体系的人机协作方法—\n6.具备复杂系统问题的拆解与定位能力、良好的沟通协作与技术文档能力，责任心强，有良好的团队合作意识。\n三、加分项\n●手机 ROM、智能座舱、智能手表 / IoT 终端等智能硬件系统深度定制经验；\n●IM 即时通讯或者推送类服务开发经验优先\n●高通 / MTK /展讯等主流平台量产项目优先\n●AI语音助手或相关Agent应用开发经验优先\n方向三、Android 应用高级工程师-定位方向\n一、岗位职责\n1.手表端定位栈的架构设计与落地，覆盖 GNSS / Wi-Fi 扫描 / 基站 / 蓝牙信标 / PDR 多源融合\n2.室内外场景识别与平滑切换（GNSS 质量评估、航位推算接管、重捕获策略）\n3.楼层定位方案落地：气压计标定、基准气压获取、差分气压、电梯/楼梯事件识别\n4.定位链路功耗优化：采样率调度、传感器 batching、唤醒合并、HAL 层协同\n5.与芯片/传感器/算法供应商对接，把器件规格书翻译成可验证的验收指标\n6.定位数据回传、轨迹压缩、端云协同（云端纠偏与建图）\n二、任职要求\n1.本科及以上学历，计算机 / 通信 / 电子信息等相关专业，3 年及以上 Android 开发经验\n2.GNSS 基础扎实：TTFF、C/N0、DOP、多径、A-GNSS/SUPL 流程、双频 L1+L5 的意义。知道手表 GNSS 天线尺寸和佩戴姿态对定位的实际影响。\n3.惯性导航经验：PDR 步态检测、步长估计、航向漂移抑制、零速修正。知道手腕佩戴的摆臂运动为什么让传统手机 PDR 算法失效。\n4.功耗敏感的开发习惯：会用 Battery Historian / systrace / perfetto 定位唤醒源，能算清一次定位请求的真实电流代价。\n5.熟悉Framework, SensorManager 的 batching 与 maxReportingDelay 真实行为、懂 LocationManager 与 FusedLocationProvider 各自的取舍\n6.具备复杂系统问题的拆解与定位能力、良好的沟通协作与技术文档能力，责任心强，有良好的团队合作意识。\n三、加分项\n●手机 ROM、智能座舱、智能手表 / IoT 终端等智能硬件系统深度定制经验；\n●做过气压计楼层定位量产方案，处理过基准气压漂移、跨楼栋、地下车库这类边界。\n●做过 GNSS 原始观测值（伪距/载波相位）处理，而不只是吃 NMEA。\n●高通 / MTK /展讯等主流平台量产项目优先\n●有端侧模型部署经验（场景分类、步态识别跑在 MCU 或低功耗核上）\n方向四、Android Framework高级工程师\n一、岗位职责\n1.负责 Android 系统设置，桌面,SystemUI, 设置，蓝牙等模块的定制开发、维护与重构；\n2.负责 Android 手表 Telephony, Dailer, InCall UI 等电话类场景\n3.负责 Android 手表 系统 Framework定制（包括不限于 AMS,PMS,WMS）\n4.以 AI 辅助研发为默认工作方式，深度使用 Claude Code / Cursor / Copilot 等 Agent 工具完成编码、调试、测试与文档撰写，并沉淀可复用的 AI 工程化实践，提升个人与团队研发效率。\n5.Android系统应用，Telephony, Framework 任选其一即可\n二、任职要求\n1.本科及以上学历，计算机 / 通信 / 电子信息等相关专业，3 年及以上 Android 系统开发经验（Framework / 系统应用及服务方向）；\n2.精通 Java / Kotlin，具备扎实的 C / C++ 功底，熟悉 JNI 与 Native 开发；\n3.深入理解 Android 系统架构与启动流程，精通至少一个核心系统服务（AMS / WMS / PMS / Input 等）的机制原理与 AOSP 源码实现；\n4.熟悉 AOSP 编译体系与 Repo / Gerrit 多仓协作流程，具备阅读和修改 AOSP 源码的能力；\n5.AI Coding 能力（核心要求）：熟练使用至少一种 AI Coding Agent 工具（Claude Code、Cursor、Code等），具备成体系的人机协作方法—\n6.具备复杂系统问题的拆解与定位能力、良好的沟通协作与技术文档能力，责任心强，有良好的团队合作意识。\n三、加分项\n●手机 ROM、智能座舱、智能手表 / IoT 终端等智能硬件系统深度定制经验；\n●高通 / MTK /展讯等主流平台量产项目优先\n●端侧 AI 落地经验，或用 AI 做日志异常检测、问题自动归因、性能瓶颈预测等优先",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "97ccbee4ec44",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/29558ed92d6d7a9f0nx809W1E1pV.html",
+      "title": "安卓开发工程师",
+      "company": "康比特",
+      "salary": "12-16K",
+      "location": "北京·朝阳区·亚运村",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "方向：智能终端与企业级应用，部队项目及鸿蒙开发经验优先\n岗位职责\n1. 负责安卓应用及智能终端软件的设计、开发、迭代和维护，完成需求分析、技术⽅案、接口联调和问题修复。\n2. 负责设备 SDK、业务接口及通信协议对接，处理数据⾤集、本地存储、弱⽹运行、断网补传和设备兼容等问题。\n3. 使⽤ Codex 或同类 AI 编程工具辅助开发、排障、测试及文档编写，审查生成代码，对实现质量和交付结果负责。\n4. 按团队规范，将需求拆解为范围明确、可执行、可验收的开发任务，通过云效、Git 和 Codeup 完成计划管理、代码提交、评审及结果回写。\n5. 完成构建、自测、真机和设备联调，配合独立测试及接口自动化回归，推动缺陷修复、复验和项目验收。\n6. 根据产品规划参与鸿蒙原生应用开发与迁移适配，沉淀可复用组件、技术文档、排障脚本和 AI 协作经验。\n任职要求\n1. 本科及以上学历，计算机、软件工程等相关专业，3 年及以上安卓开发经验，有完整项目开发及交付经历。\n2. 熟练掌握 Java/Kotlin、Android SDK，理解应用生命周期、多线程及常见架构模式，能够独立完成模块设计与开发。\n3. 熟悉网络通信、本地数据库、权限管理及性能优化，具备崩溃、卡顿、内存和兼容性问题的定位能力。\n4. 具备 AI 辅助研发实战经验，能够向 AI 提供需求、代码、接口、日志和验收标准，合理拆解任务、迭代指令，并验证执行结果。\n5. 能够独立理解和解释关键代码，识别并纠正 AI 生成内容中的错误、遗漏及不合理依赖，具备代码审查和测试意识。\n6. 熟练使用 Git，具备任务跟踪、代码评审、测试交接及文档协作能力；愿意学习并遵循团队云效、Codeup、Apifox 和知识共享规范。\n7. 责任心强，沟通清晰，能够配合项目现场联调和交付；遵守代码、客户资料和敏感数据的使用边界。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "96aa5155ebe0",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/22a59f8be7e889c30nx-39W8FFBV.html",
+      "title": "Android工程师SystemUI/Launcher(大厂OD)",
+      "company": "中科创达",
+      "salary": "20-35K",
+      "location": "北京·海淀区·苏州桥",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "职位描述\n1、负责 Android OS 系统应用的深度定制和开发，保证产品迭代顺利推进；\n2、参与项目技术架构设计、开发、性能优化等工作，保证软件的开发进度和质量。\n职位要求\n1、本科及以上学历，计算机相关专业，2年以上 Android App 开发经验；\n2、具备良好的Java/C++/Kotlin语言基础，熟悉常⽤数据结构和算法，熟悉设计模式；\n3、熟悉Android应⽤及系统框架，深⼊参与Android OS组件的定制开发及相关性能优化；\n4、具备良好的团队合作意识，责任心强，工作认真细致；\n5、加分项：熟悉Android Framework架构、SystemUI或Launcher模块，熟悉Android显⽰渲染模块如View、HWUI、SurfaceFlinger架构，熟悉Jetpack Compose。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "d7722327138a",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/10d44ff9018de8e80nF-3d69FVNY.html",
+      "title": "安卓开发（合肥长期））",
+      "company": "北京经创聚源",
+      "salary": "20-35K",
+      "location": "北京·朝阳区·望京",
+      "exp": "3-5年",
+      "edu": "大专",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "车机智能座舱方向\n多个项目组招聘 都可以投递简历哈\n合肥工作",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "9a4390abb584",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/437f5c3c367c589a0nx40926GVJS.html",
+      "title": "安卓开发工程师+双休",
+      "company": "云融天下",
+      "salary": "12-13K",
+      "location": "北京·朝阳区·朝阳门",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位要求：有音视频、直播或视频会议类 App 开发经验，了解 WebRTC 基本原理（采集、编解码、传输），熟悉摄像头 / 音频采集 API 及运⾏时权限处理经验。有 Cordova 实际项⽬经验：熟悉 Cordova ⼯程结构、config.xml 配置、平台与插件管理；能独立开发 / 修改 Cordova 原生插件，实现 JS 与原⽣的双向调用；能独立完成 Cordova Android 工程的 Gradle 配置、签名打包与发布，并能处理 cordova-android 版本升级、插件冲突等常见问题，\n1. 统招本科及以上学历，计算机相关专业优先；\n2. 3 年以上 Android 开发经验，熟练使用 Java / Kotlin，熟悉 Android SDK、四大组件、多线程及性能优化；\n3. 熟悉混合开发架构：WebView 与原生交互（JSBridge）、H5 容器、离线包机制；能独立完成混合 App 的 Gradle 工程配置、签名打包与发布；\n4. 有音视频、直播或视频会议类 App 开发经验，了解 WebRTC 基本原理（采集、编解码、传输），熟悉摄像头 / 音频采集 API 及运行时权限处理；\n5. 有 IM 即时通讯集成经验；\n6. 能独立分析 logcat、崩溃日志，定位线上问题；熟练使用 Git；\n7. 沟通表达良好，能直接对接客户。\n8.有鸿蒙（HarmonyOS / ArkTS）开发或适配经验加分\n早九晚六 双休 五险一金，",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "962814c89698",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/dabeedaf85a66c4b0nx83t66FFZT.html",
+      "title": "Android",
+      "company": "新奥集团",
+      "salary": "25-40K·14薪",
+      "location": "北京·朝阳区·望京",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "Android/IOS开发工程师（SDK）\n岗位职责：\n1. 负责 Android /ios端技术选型、架构设计、编码开发、性能分析和优化工作；\n2. 持续进行相关技术研究，承担重点、难点技术攻坚；\n3. 能对架构进行改进，完成功能迭代同时不断提升产品体验和稳定性。\n职位要求：\n1. 计算机相关专业本科及以上学历，3年以上⼯作经验，具备扎实的计算机理论基础；\n2. 熟悉常⽤的第三⽅开源库，能根据实际场景进行改造；\n3. 有丰富的针对 Android 系统碎片化兼容的经验/ iOS 系统框架及 UI开发机制；\n4. 对⽹络通信有良好认知；\n5. 有良好的沟通能力和团队合作精神，对技术有热情，具备较强的逻辑分析与问题解决能力；\n6. 有 SDK 开发或移动广告行业经验，且具备大模型工具使用经验者优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "33340f515f52",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/8ac8e203e15e97400nV92N-7F1NY.html",
+      "title": "客户端开发工程师(智能座舱—安卓）",
+      "company": "亘秀旅游",
+      "salary": "15-28K",
+      "location": "北京",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "职位描述：\n1. 负责车载端的Android 应用开发，解决客户项目交付中遇到的各种难点、痛点问题；\n2. 负责与各方沟通合作，参与车载端产品需求讨论，功能定义，产品体验优化等。\n职位要求：\n1. 本科及以上学历，计算机及其相关专业，Android三年以上工作经验，有车载端相关经验者优先；\n2. 熟练掌握 Java 和 Kotlin 语⾔，⾄少⼀年以上使用经验；\n3. 熟悉 Android Jetpack组件，MVVM架构，一年以上 Android UI 开发经验；\n4. 良好的设计和编码风格，热爱写代码能产出⾼质量的设计和代码；\n有良好的产品意识，积极乐观，认真负责，思路清晰，具备独立解决技术问题的能力；",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "MJ001911",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/d6455186e22601510nx909q5GVBQ.html",
+      "title": "Android开发（客户端背景） (MJ001911)",
+      "company": "学大教育",
+      "salary": "20-25K",
+      "location": "北京·朝阳区·朝外",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责\n1. 负责面向教育场景用户的客户端及跨端产品开发，基于 Flutter 、H5等技术栈交付高质量应用。\n2. 深⼊理解业务⽬标和⽤户场景，将需求拆解为清晰、可执行的技术方案与开发任务，推动项⽬落地。\n3. 熟练运用各类 AI Agent 辅助需求分析、方案设计、编码、测试及问题排查，提升研发效率与交付质量。\n4. 关注产品交互和用户体验，持续优化应用性能、稳定性及跨平台体验。\n5. 与产品、设计及后端团队紧密协作，参与技术选型、架构设计和工程规范建设。\n任职要求\n1. 本科及以上学历，计算机或相关专业优先。\n2. 具备客户端开发背景，熟悉 Android 、iOS、鸿蒙 开发，对客户端架构、性能优化和常见问题有实际处理经验。\n3. 具备 Flutter 实际项目经验，熟悉 Dart、常用状态管理方案、平台通信及应用发布流程，能够独立完成核心模块开发。\n4. 熟练使用各类 AI Agent 和 AI 编程工具，能够根据任务特点选择工具、组织上下文、拆解任务，并审查和验证生成结果。\n5. 具备良好的需求理解与拆解能力，能够识别需求中的模糊点、边界条件和实现优先级，形成合理的交付计划。\n6. 对用户体验敏感，关注交互细节、视觉还原、响应速度及异常场景，能主动发现问题并推动改进。\n7. 具备良好的工程习惯、沟通能力和责任心，能够独立推进任务并协同解决问题。\n加分项\n- 具备多种跨端技术栈的实际项目经验，如 Flutter、React Native、React / Vue、Electron、Tauri、小程序等。\n- 有 教育场景App或 AI 应用的开发经验。\n- 有从 0 到 1 搭建产品、跨端架构设计或复杂性能优化经验。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "69846a423280",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/dccd10c295fdaa270nJ539W4EVdV.html",
+      "title": "高级Android开发工程师(SDK)",
+      "company": "新义互联",
+      "salary": "20-40K",
+      "location": "北京·朝阳区·西坝河",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n1、负责Android客户端 SDK 的研发，负责高质量的设计和编码； \n2、参与应用架构设计、开发、性能优化等工作；\n3、理解广告业务，持续不断的改进⽤户体验，优化⼴告变现效率；\n4、进⾏技术预研和技术难点攻关，保障系统性能、系统可用性、系统稳定性和系统可扩展性。\n任职要求： \n1、本科及以上学历，计算机相关专业，5年以上Android开发经验； \n2、对Android/平台的运行机制有深刻的理解；熟练使⽤Android常用API，理解系统体系结构及UI绘制原理； \n3、精通Java/Obj-C多线程开发；\n4、掌握良好的计算机基础知识，了解常用的数据结构和算法；\n5、熟练使用Git，Android Studio/XCode及性能调优工具； \n6、积极乐观，责任心强，具有良好的学习能力、团队沟通能力、协作能力。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "a0c86a8fb1ac",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/6b3ae600b59ed1760nxz3NW_GVVU.html",
+      "title": "安卓开发工程师",
+      "company": "卓智创软",
+      "salary": "20-24K",
+      "location": "北京·海淀区·西北旺",
+      "exp": "5-10年",
+      "edu": "大专",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责（基础车载开发）:\n1、负责车载基础应用的架构设计与开发，如：SystemUI、Launcher、车控车设、多媒体\n2、应用架构的持续优化、需求迭代开发、业务重构、性能优化及Bug修复等\n3、不断提升应用的用户使⽤体验，包括但不限于提升稳定性、降低崩溃率、优化动效及UIUE细节等\n4、模块的技术⽅案⽂档编写、更新、维护及总结\n任职要求:\n1、计算机相关专业专科及以上学历，5年以上Android车机应用开发经验\n2、熟悉Android开发平台框架及各种特性，熟练掌握自定义View多线程、IPC机制、内存管理机制等\n3、有⼀定的架构能力，对设计模式、数据结构、MVI 等有自己的理解\n4、精通 Kotlin 编程，熟练掌握 Jetpack框架，有compose使用经验者优先\n5、接触过framework、系统应用开发、车载项目开发者优先\n6、注重程序设计和编码规范\n7、强烈的责任心和团队意识，执行力强",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "58bfffafb73d",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/4139529bea533f1c0nB40tq-FFVT.html",
+      "title": "android系统工程师",
+      "company": "北汽研究总院",
+      "salary": "20-40K·15薪",
+      "location": "北京·大兴区·亦庄",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "## 一、岗位职责\n### 1. Android 显示系统核心模块开发与维护\n- 负责 SurfaceFlinger、WindowManagerService（WMS）、DisplayManagerService 等核心服务的定制与优化\n- 深⼊理解 BufferQueue、HWComposer (HWC)、Vsync、Choreographer 等底层机制\n- 解决合成性能、显⽰延迟、画⾯撕裂、掉帧、ANR 等系统级问题\n### 2. 车机多屏 / 多用户显示架构设计\n- 主驾、副驾、后排多屏异显⽅案设计与实现\n- 多 Display 管理、跨屏窗口迁移、分屏 / 自由窗口模式适配\n- 与 SoC 平台（高通 / 芯擎 / 地平线等）合作完成 HWC、Display HAL 适配\n### 3. 车载场景特殊需求实现\n- 车机投屏（CarPlay / HiCar / 鸿蒙互联）、镜像、画中画显示能力\n- 视频游戏类应用低延迟显示通路优化（Hardware Overlay、低延迟模式）\n- 安全水印、防偷窥、隐私窗口等系统级显示能力\n### 4. 性能与稳定性优化\n- 启动速度、合成耗时、内存占用、功耗指标优化\n- 通过 Systrace、Perfetto、GPU Profiler 等工具进行系统性能分析\n- 主导显示子系统疑难 Bug 的定位与修复\n### 5. 技术规划与协作\n- 参与 Android 大版本升级（如 14 → 16）显示模块迁移\n- 与 HMI、应用、平台、芯片厂等多方协作推进项目落地\n- 输出技术文档、专利、设计方案",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "d8173aa3d5b5",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/ba9e6637c45a477b0nx909-0FlBX.html",
+      "title": "安卓开发工程师",
+      "company": "诸云科技",
+      "salary": "15-22K",
+      "location": "北京·朝阳区·太阳宫",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n1. 负责短剧App安卓客户端功能开发与迭代维护；\n2. 负责短剧播放、信息流、搜索、充值付费、⼴告等核⼼模块开发；\n3. 优化App性能、播放流畅度、启动速度、内存与耗电表现；\n4. 配合产品、设计、后端完成需求评审、联调、测试与上线；\n5. 持续跟进安卓新技术，提升开发效率和⽤户体验。\n任职要求：\n1. 本科及以上学历，5年以上Android开发经验；\n2. 熟悉Kotlin/Java，熟悉Android常用组件和Jetpack；\n3. 熟悉网络请求、数据存储、UI适配、权限管理等常⽤开发能力；\n4. 有视频播放、短剧、短视频、直播类App经验优先；\n5. 有良好的代码规范、沟通能力和团队协作意识。\n加分项：\n● 熟悉ExoPlayer/ijkplayer等播放器；\n● 有付费解锁、广告变现、缓存下载相关经验；\n● 有性能优化、Crash治理、组件化经验。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "e1b828b5fc98",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/50ea565725fb6ce70nx-09i9GFNQ.html",
+      "title": "Android开发工程师（新车电商方向）",
+      "company": "北京懂车帝科技",
+      "salary": "20-40K·15薪",
+      "location": "北京·朝阳区·亚运村",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "职位描述\n1、负责公司移动产品的研发, 编写高质量的代码；\n2、和产品经理配合, 深度参与手机产品需求讨论, 功能定义等；\n3、设计良好的代码结构, 不断迭代重构。\n职位要求\n1、3年及以上Android客户端实际开发经验，有大型客户端App架构经验；\n2、有足够的软件安全意识，掌握数据加密、代码混淆、防破解等技术；\n3、熟悉 Android系统架构，对framework有⼀定了解；\n4、对技术有热情和好奇⼼，愿意主动投⼊精力了解新技术的结合应用，以及推动技术Topic的落地；\n5、具备优秀的沟通和表达能⼒，对基础技术兴趣浓厚；\n6、有业务意识，突出对业务的理解，并基于想法助力业务发展。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "d857d07b27fc",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/405154ca7df4ded80nx70tW9ElJW.html",
+      "title": "android工程师",
+      "company": "啄木鸟云健康",
+      "salary": "11-20K",
+      "location": "北京·朝阳区·朝外",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "【岗位职责】\n1. 负责公司移动端 Android App 的需求开发、版本迭代与线上维护，输出技术方案；\n2. 负责 App 性能优化：启动优化、内存泄漏、卡顿、包体积、网络优化，以及线上异常监控治理；\n3. 负责工程化建设：Gradle 脚本、多渠道打包、Jenkins CI 构建流水线、组件化／模块化改造；\n4. 参与跨端⽅案调研，与鸿蒙、iOS 开发协同，对齐多端能⼒；\n5. 负责技术沉淀：基础组件与通⽤ SDK 封装，沉淀开发规范，并对新人进行技术指导。\n【任职要求】\n1. 3 年及以上 Android 原⽣开发经验，具备扎实的 Java、Kotlin 基础，熟悉 Android Framework 基础、生命周期与权限机制；\n2. 熟悉 Gradle，熟练完成 keystore 签名打包，有 App 加固、渠道发布全流程经验；\n3. 熟悉蓝牙开发：掌握 BLE 扫描、连接、特征值读写与通知订阅，具备真实设备联调经验；\n4. 熟练使用性能工具：Android Studio Profiler、LeakCanary、Bugly；熟悉 OkHttp、协程、Jetpack 组件；\n5. 具备良好的沟通能力，能独立完成技术选型与风险评估，具备复杂问题排查能力；\n6. 加分项：有 RN、前端等跨端开发经验，或有鸿蒙应用协同开发经验。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "90db662f519f",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/a21cde713c88829f0nF53d69F1dW.html",
+      "title": "Android开发（base 北京 ）",
+      "company": "广州与搏科技有限公司",
+      "salary": "25-35K·15薪",
+      "location": "北京·朝阳区·望京",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "【岗位职责】非外包/派遣\n1、负责公司核心 Android 客户端的架构设计与研发工作，支撑流畅、稳定体验；\n2、主导海外业务的商业化变现模块开发，深度参与⼴告策略与内购订阅链路的建设，持续优化变现逻辑与营收指标；\n3、负责移动端技术难点攻坚，系统性排查与解决复杂场景下的性能瓶颈（如 Crash、ANR、内存溢出等），保障 App 极致的性能体验；\n4、推动移动端基础设施建设，主导底层⽹络协议的定制与优化、⽼旧业务的代码重构，以及跨平台等前沿技术的调研与落地；\n5、深入理解业务与数据，与产品经理、后端、QA 深度协作，以数据驱动研发演进，保障高质量的业务交付。\n【岗位要求】\n1、本科及以上学历，计算机或相关专业；6年及以上 Android 客户端开发经验，具备扎实的 Java/Kotlin 编程功底；\n2、熟悉 Android 原⽣开发和适配（UI、各系统版本、各类厂商设备等），能够提供高质量、高兼容性的跨设备一致性体验；\n3、网络基础扎实，熟悉网络底层原理和操作（TCP/UDP、HTTP/HTTPS、QUIC等），有弱网环境优化或自定义网络协议栈开发实战经验；\n4、具有丰富的海外应用开发与出海广告平台（如 AdMob, AppLovin, 穿山甲等）接入经验，深入理解竞价（Bidding）与瀑布流机制，拥有成熟的变现逻辑优化实战经验；\n5、熟悉 Google Play Billing 完整体系，精通海外应用的内购（IAP）与自动续期订阅等全链路开发流程及各类边缘场景的防范策略；\n6、具备较强的复杂性能问题（Crash、ANR、卡顿、耗电等）分析与排查能力；具备良好的数据分析能力以及代码架构重构落地能力（如 MVVM/MVI 架构演进）；\n7、熟悉跨平台技术（如 Kotlin Multiplatform、Flutter 等），对其底层渲染或通信机制有一定了解，有实际项目落地经验者佳；\n8、具备良好的代码习惯和工程素养，熟悉 Git 高阶使用和较强的代码分支管理能力（如 GitFlow），有完善的 CI/CD 实践经验。\n【加分项】\n1、具备良好的英语读写能力，能够无障碍阅读英文技术文档；\n2、拥抱 AI 技术，熟练使用 Cursor、GitHub Copilot 等 AI 辅助编程工具，能够利用 AI 有效提升日常研发效率者优先；\n3、有 JNI/NDK 底层 C/C++ 开发经验；\n4、在 GitHub 等开源社区有高质量开源项目或贡献者优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "6e18b114a13d",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos",
+        "recommend"
+      ],
+      "url": "/job_detail/37507d2e2242e98f0nxz0tu7E1NX.html",
+      "title": "高级开发工程师（iOS/Android/鸿蒙）",
+      "company": "臻郅",
+      "salary": "20-30K",
+      "location": "北京·朝阳区·三元桥",
+      "exp": "10年以上",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责描述： （工作地点 北京 ）\n1、1.负责身份认证客户端 SDK 的研发与维护，覆盖 HarmonyOS（鸿蒙）、Android、iOS 三端，统一认证能力。\n2、2.主导三端认证核⼼链路开发，涵盖⼈脸 / 指纹 / 声纹等⽣物识别认证、多因子认证（MFA）、设备认证等场景。\n3、3.负责密码学相关能力在客户端的落地，包括国密算法（SM2/SM3/SM4）、数字签名、密钥存储（Keystore/Keychain/ 鸿蒙安全组件）、安全容器封装。\n4、4.对接 OAuth2/OIDC、FIDO2/WebAuthn 等认证协议，负责令牌、会话、凭证在移动端的安全管理。\n5、5.深⼊三端系统安全能力（Android 系统安全、iOS 安全隔离、鸿蒙安全机制），设计防逆向、防篡改、防重放的客户端安全方案。\n6.与后端认证平台、产品、安全团队协作，推动认证能力在多端的统一与持续优化，保障性能与安全性。\n二、任职要求\n1)1.从业经验：10 年以上软件开发经验，其中至少 3 年以上身份认证或密码学相关领域研发经验。\n2)2.三端技术栈：精通 HarmonyOS（ArkTS/ArkUI，鸿蒙应用安全机制）、Android（Kotlin/Java）、iOS（Swift/Objective-C） 中至少两端，其余一端可快速上手，具备跨端统一架构设计能力。\n3)3.认证协议：深入理解 OAuth2.0、OIDC、SAML、JWT、TLS，熟悉 SSO、MFA、FIDO2/WebAuthn 体系在移动端的实现。\n4)4.密码学能力：熟悉国密算法（SM2/SM3/SM4）、数字证书、签名验签、密钥管理等密码技术，具备客户端密钥安全存储与加密落地经验。\n5)5.工程能力：具备大型客户端 / 多端 SDK 架构设计与性能调优经验，有高并发、海量用户规模认证体系建设经验者优先。\n6)6.安全意识：对越权、会话劫持、防重放、客户端逆向等安全风险有深刻理解，能独立完成客户端安全方案设计与评审。\n三、加分项\n1)•\t有金融、支付、政务等高安全等级行业的身份认证 SDK 开发经验。\n2)•\t有国密改造、等保 / 密评合规落地经验。\n•\t熟悉鸿蒙生态适配与上架规范，或有三端统一认证框架设计经验。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "427f58e58936",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/735223ab61512b880nx82NW9EltR.html",
+      "title": "Android开发工程师",
+      "company": "立达智胜",
+      "salary": "15-30K·13薪",
+      "location": "北京·海淀区·西二旗",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "一、岗位职责：\n负责 Android 应用的架构设计与核心功能开发。\n负责资讯、短视频类 APP 客户端研发，支撑⽤户、内容、任务激励等业务。\n参与需求评审与技术⽅案制定，协同产品、设计、测试推动项⽬高质量交付。\n保障代码质量与系统稳定性，持续优化性能与兼容性。\n参与工程规范建设与代码评审，提升团队研发效率。\n⼆、任职要求：\n本科及以上学历，计算机相关专业，3–5 年 Android 开发经验。\n精通 Java/Kotlin，熟悉 Android 框架原理与组件生命周期。\n熟悉多线程、进程通信与任务调度机制，具备性能优化与问题排查能力（内存、ANR、卡顿）。\n熟悉常见架构模式（MVP/MVVM），具备良好的代码设计与工程抽象能力。\n熟悉网络编程基础，了解 TCP/HTTP、WebView 与 H5 交互机制。\n具备独立模块设计与开发能力，有中大型项目经验优先。\n具备良好的沟通能力与团队协作意识，工作积极主动，能够主动推动问题解决。\n优先条件：\n有插件化、模块化或组件化架构实践经验。\n有 Vibe Coding 实践经验，能够运用 AI 编程工具提升研发效率，并保障代码质量。\n有商业化广告或 SDK 开发经验。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "82e12137b17a",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/86bafb00297c2e580nJ809q0EVZX.html",
+      "title": "Android开发工程师",
+      "company": "北清视通",
+      "salary": "20-35K",
+      "location": "北京",
+      "exp": "5-10年",
+      "edu": "大专",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n1. 负责安卓平台应用开发和测试。\n2. 参与 APP 音视频项目的需求分析、系统设计、性能优化、项目维护。\n3. 编码设计和代码实现。\n4. 设计⽤户交互端口、检查功能完成度、联调。\n任职要求：\n1. 计算机相关专业，本科以上学历；\n2. 5年左右从事android开发⼯作经验，良好的java、kotlin编程能⼒，熟练掌握android 平台上app性能优化的工具和方法；\n3. 熟悉各类⽹络协议，熟悉无线网络特性；\n4. 从事过webrtc推流和拉流、音视频编解码技术等方面工作经验；\n5. 对android体系架构有深入的了解，尤其对framework有了解，有相关的移植、优化经验者优先；\n6. 从事过C/C++开发，有JNI开发经验者优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "f4bb9014a04b",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/d2ebc16ea7a13ec30nx83dm4GFdQ.html",
+      "title": "安卓开发工程师",
+      "company": "信必优",
+      "salary": "15-18K",
+      "location": "北京·海淀区·知春路",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "Android \n岗位职责：\n1、负责研发和持续改进Android App产品，维护产品的正常运营，不断提高产品的性能、体验；\n2、根据产品、设计、后端工程师团队密切配合，制定技术方案，独立完成APP的开发⼯作；\n3、参与客户端需求评审、技术⽅案设计，持续优化⽤户体验，保证系统稳定性和兼容性；\n4、配合测试完成对APP的测试，解决测试中的问题。\n工作要求：\n1、计算机相关专业本科及以上学历，能熟练阅读英文技术⽂档；\n2、精通java和Kotlin，基础扎实，数据结构等基础知识掌握牢固；\n3、熟悉Android SDK，熟悉Android的UI/网络/数据库框架；\n4、了解鸿蒙开发的优先;\n5、有良好的沟通能力和较强的逻辑思维，能独立解决技术难题，善于分析、归纳、总结。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "dd824eec634d",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/43b1410b1b7a71fa0nN539q4EFRY.html",
+      "title": "Android 专家工程师",
+      "company": "滴滴",
+      "salary": "30-60K·15薪",
+      "location": "北京·昌平区·回龙观",
+      "exp": "10年以上",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责\n1. 负责滴滴国际化外卖用户端子方向业务领域的业务迭代、技术演进与团队管理工作。\n2. 承接业务⽬标与产品需求，参与产品需求讨论及技术⽅案制定和实现，保障交付效率，对项⽬交付质量及最终结果负责。\n3. 主导技术规划与架构演进，负责核心技术方案设计、技术选型及重⼤技术决策，持续提升移动端的稳定性、性能体验和研发效率。\n4. 推动AI Coding与专项Agent在团队内的规模化落地，提升研发效率、质量及复杂问题处理能力。\n5. 承担团队建设与日常管理职责，包括目标制定、工作规划、人员培养、绩效管理及人才梯队建设，持续提升团队整体能力和人才密度。\n任职资格\n1. 计算机、软件相关专业本科及以上学历，5年及以上移动端研发经验，2年及以上技术团队管理经验。\n2. 具备扎实的计算机基础和移动端技术功底，对移动端技术体系有深入理解，拥有完整商业级应用的设计、研发及上线经验。\n3. 精通 Android（Java/Kotlin）技术栈，熟悉 Flutter、React Native 等主流跨端技术方案，具备多技术栈的技术判断和选型能力。\n4. 具备大型移动端应用的架构设计与演进经验，对工程架构、性能优化、稳定性建设、研发效能等领域有系统性认知和实践经验。\n5. 具备优秀的复杂问题分析与技术攻坚能力，能够主导大型项目的技术方案设计及核心技术问题解决。\n6. 具备良好的业务理解和全局视角，能够基于业务目标进行技术判断，并与产品、运营、数据等团队高效协作，推动复杂项目落地。\n7. 具备AI Coding工作流或Agent开发实践经验，熟悉主流大模型及智能体研发工具，能够推动其在实际研发场景中的落地。\n8. 具备成熟的团队管理能力，能够承担团队目标制定、工作规划、人员培养、绩效管理及人才梯队建设等工作。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "84f3761cf836",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/4a1d90fc2d6fcc91031-0tm_GFNT.html",
+      "title": "Android架构师（深圳）",
+      "company": "跨越速运",
+      "salary": "35-45K·15薪",
+      "location": "北京·朝阳区·东坝",
+      "exp": "5-10年",
+      "edu": "大专",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "1、负责Android客户端的应用架构设计和承担核心功能代码编写;\n2、负责设计模块与模块间及与第三方模块代码之间高效解耦⽅案;\n3、负责参与产品需求分析并参与技术实施⽅案设计；\n4、负责参与制定设计及实现规范；\n5、软件性能优化，攻关技术难题；\n6、研究新的互联⽹技术提升产品质量。\n任职要求：\n1、计算机及相关专业本科以上学历，有良好的Java技术功底，熟悉移动客户端开发，三年以上软件研发经验；\n2、有丰富的软件架构设计经验，能快速搭建、调试或重构大规模软件代码;\n3、有良好的编码习惯,要求结构清晰,命名规范,逻辑性强,代码冗余率低;\n4、熟悉Android下网络通信机制，对Socket通信、TCP/IP和http、https有⼀定理解和经验，熟悉Android平台下的多线程；\n5、熟悉现有Android设备，有适配经验，熟悉移动设备的开发特点，性能调优；\n6、具有良好的沟通能力，有较强的独立工作能力和解决问题的能力。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "70a81cd9002b",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/b94f3b2b61cfb3350nx739u0GVdU.html",
+      "title": "android/鸿蒙/IOS/java开发专家",
+      "company": "BOSS直聘",
+      "salary": "40-60K·15薪",
+      "location": "北京",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "鸿蒙\n岗位职责：1.负责鸿蒙操作系统下的应用开发与维护；\n任职资格：1．计算机相关专业学历，2年以上鸿蒙开发经验，有成功上线项目经验者优先；\n2．精通ArkTS编程语言，对MVVM有深入了解，掌握C＋＋的优先；\n3．熟练掌握H5相关技术栈知识，包括WebView、JavaScriptInterface、与原⽣交互、问题分析等；\n4．对移动端性能优化、内存管理、⽹络优化等有深⼊理解和实践经验；\n5．具备良好的架构设计能力，能够设计出可扩展、可维护的系统架构；\n6．有良好的团队合作精神和抗压能力，能够适应⾼强度的工作压力。\nandroid\n岗位职责：\n1. 负责公司的app开发、维护、升级代码的编写\n2. 协同后台开发工程师，完成接口联调\n3. 日常工具组件开发，提升团队的开发效率以及用户体验；\n4. 参与产品需求的分析，与设计师、后端工程师一起完成产品功能的开发，优化用户体验；\n5. 完成上级安排的其他工作任务；\n招聘要求：\n1.全日制统招本科及以上学历，3年以上互联网研发工作经验；\n2.深入了解Android运行机制，须具有flutter或React Native 技术框架开发经验；\n3.熟悉至少一门语言包括但不限于java或者kotlin，深入理解面向对象的设计思想，常用的设计模式;\n4.善于交流，有良好的团队合作精神和协调沟通能力，有与产品、业务等多方密切配合的经验和意识；\niOS\n岗位职责：\n1. 负责公司的app开发、维护、升级代码的编写\n2. 协同后台开发工程师，完成接口联调\n3. 日常工具组件开发，提升团队的开发效率以及用户体验；\n4.参与产品需求的分析，与设计师、后端工程师一起完成产品功能的开发，优化用户体验；\n5. 完成上级安排的其他工作任务； \n招聘要求：\n1.全日制统招本科及以上学历，3年以上互联网研发工作经验；\n2.深入了解IOS运行机制，须具有flutter或React Native 技术框架开发经验；\n3.熟悉至少一门语言包括但不限于OC或者swift，深入理解面向对象的设计思想，常用的设计模式;\n4.善于交流，有良好的团队合作精神和协调沟通能力，有与产品、业务等多方密切配合的经验和意识；\njava开发\n岗位职责：\n1.负责重点项目结果保证：深入理解业务痛点，通过技术手段满足并促进业务快速发展需要；\n2.负责长期技术规划制定：根据业务目标，规划技术长期研究课题与阶段目标；\n3.负责团队规范氛围建设：指导和培养工程师，保证流程规范制度的科学建立与落地，提升工程师的业务能力与技术能力。\n招聘要求：\n1.全日制统招本科及以上学历，5年以上互联网研发工作经验；\n2.精通Java及Springcloud生态；\n3.具备优秀的架构能力，有宏观视角以及较强的抽象思维；\n4.具备优秀的业务分析能力、方案整合能力和解决问题能力，能够将复杂的业务问题转变为清晰的系统需求；\n5.善于交流，有良好的团队合作精神和协调沟通能力，有与产品、业务等多方密切配合的经验和意识；\n6.热爱互联网和新技术，具有极强的快速学习能力；掌握面向对象软件分析、设计方法，有较强的抽象设计能力并有心得者优先。\n产品专家\n岗位职责：\n1.参与业务平台整体产品的策划，根据市场及用户反馈，制定产品线路、落实项目方案；\n2.负责产品的生命周期管理，包括需求搜集、版本规划、设计研发、客户落地、持续运营、迭代改进产品等，达成业务目标；\n3.同开发团队、销售团队、运营团队紧密合作，协调不同岗位人员的工作， \n招聘要求：\n1.统招本科以上学历，统计学、数学等专业优先；\n2.5年以上相关工作经验；\n3.有通过数据分析解决问题的思路与实践经验；\n4.有优秀的交互设计能力和数据可视化设计能力；",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "17a388412ae6",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/998f5d33de9ba4ac03R-0tq4ElRT.html",
+      "title": "android开发工程师",
+      "company": "智享蓝通",
+      "salary": "15-30K",
+      "location": "北京·顺义区·南法信",
+      "exp": "1-3年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "职位描述\n参与手车互联产品（CarPlay/AndroidAuto/HiCar/CarLink 等）的模块设计、开发与联调，负责所辖模块的架构落地与性能优化；\n根据开发规范与流程，独立完成模块的设计、编码与自测；\n定位并修复互联相关系统级问题：Crash / ANR / 连接异常，通过日志与 trace 分析定位根因，必要时深入 Android framework 层排查；\n持续迭代新功能，保障模块的稳定、健壮与安全；\n负责蓝牙、Wi-Fi、音频焦点等系统模块的对接联调，输出相关技术文档；\n与产品、测试等团队协作，理解和实现产品需求。\n职位要求\n本科及以上，计算机、电子、通信等相关专业；\n1~3 年 Android 开发经验，有完整上线或量产项目经历；\n扎实的 Java/Kotlin 编码能力，数据结构与算法基础良好；熟悉四大组件、多线程、Handler 机制，理解 Binder/AIDL 跨进程通信，能独立完成模块开发；\n加分项：熟悉 Android 互联子系统（Wi-Fi、Bluetooth），有系统应用 / Framework 开发经验，或有 Automotive 经验；\n加分项：了解手车互联投屏协议之一（CarPlay、Android Auto、HiCar、CarLink、CarLife）；\n加分项：熟悉 C/C++ 或 JNI，能读懂底层日志；\n自我驱动力强，关注行业发展趋势，对手车互联方向有兴趣。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "2d41fa46a183",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/8bec25f7d04aaa3b0nx-3tW7EFdT.html",
+      "title": "android研发工程师",
+      "company": "深圳灵动",
+      "salary": "30-45K",
+      "location": "北京·海淀区·苏州桥",
+      "exp": "5-10年",
+      "edu": "大专",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责:\n1. 负责移动端团队管理、梯队建设，关注团队成员成长，优化团队结构\n2. 深入业务一线，参与关键项目方案设计与落地，解决复杂技术问题\n3. 合理分配任务，明确优先级与交付标准，把控⼯作进度与质量\n4. 建⽴并优化业务流程、规范与⼯具，提升团队效率与专业度\n5. 作为对外接口，与产品、测试、运营等部门高效协作，推进需求落地，协调资源冲突，确保信息对称和目标⼀致\n任职要求:\n1.参与过中大型复杂项目的架构设计或者独立负责过多个复杂构模块的架构升级\n2.能独立负责交易子模块的设计及未来规划,能独当一面与pm,ui等团队配合提升该模块的产品力\n3.深入掌握android业务开发,精通java/kotlin技术开发,掌握android底层原理知识\n4.熟练掌握android ui渲染绘制原理,掌握多线程机制,对常见的网络库,图片库等机制有深入的研究\n5.推动项目技术升级,新技术调研及落地等\n6.有owner意识,良好的沟通及团队协作能力,优秀的学习能力\n7.有一定的管理经验,能培养、指导新人\n8.有性能优化及基建优先\n9.有AI Coding经验,能有效的通过AI提升编程效率;至少熟练使用一种主流的AI Coding工具:Claude、Code、Codex等\n10.有金融/证券交易相关模块主力开发经验者优先",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "ff08b40d6b1d",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/884a67da182373860nx82tS_GVJT.html",
+      "title": "android开发工程师",
+      "company": "石头科技",
+      "salary": "20-40K·16薪",
+      "location": "北京·昌平区·回龙观",
+      "exp": "1-3年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "工作职责\n1、负责石头App的技术方案设计、功能开发与持续维护，保障版本按计划高质量交付。\n2、持续优化现有应⽤，解决开发过程中的技术难题，提升应⽤的稳定性、响应速度和⽤户体验。\n3、参与移动端跨平台架构的研究与建设，推进React Native的适配及二次开发，提升 Android、iOS、鸿蒙多端的代码复用率。\n4、根据项⽬需求快速学习并掌握相关技术，持续关注和研究移动互联网领域的新技术、新框架，推动其在项目中的应用和落地。\n任职资格\n1、精通Java/Kotlin；\n2、具备扎实的算法、数据结构和软件设计能力；\n3、具备良好的分析解决问题能力、团队协作精神和技术自驱力；\n4、熟悉MVVM等现代开发架构，能够编写高可测试性和可维护性的代码。\n加分项：\n有鸿蒙APP或者iOS APP开发经验；\n拥有ReactNative开发经验，有鸿蒙平台RN适配经验；\n具备ReactNative代码的二次开发经验",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "86d95ce7ae9d",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/c2a6d033aed05bce0nF409u8F1ZQ.html",
+      "title": "android framework工程师",
+      "company": "天地智云",
+      "salary": "20-35K",
+      "location": "北京·朝阳区·望京",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责\n 1. 负责 AOSP Native 系统服务和守护进程的设计、开发、维护及性能优化，包括进程模型、服务生命周期、Binder/AIDL、Socket 通信、线程模型、资源管理、异常恢复和 Watchdog 机制等。\n 2. 负责系统服务的启动、权限和安全策略配置，包括 init 启动流程、*.rc 文件、SELinux 策略、系统权限管理，以及特定场景下的应用 Root 权限授权和管控。\n 3. 负责 SystemUI、Launcher、Settings 等系统应用的功能开发、定制和系统服务集成，解决系统应⽤与 Native 服务、Framework 之间的协同问题。\n 4. 参与 Android Framework 核⼼模块开发和问题定位，熟悉并能够分析 AMS、WMS、PMS、IPackageManager 等系统服务的⼯作机制，以及 Activity、Window、Package、权限和进程管理流程。\n 5. 负责 Camera、Audio、Sensor、Wi-Fi、Radio、RIL 等系统模块的集成、适配和问题排查，参与 HAL 层、Vendor 层以及硬件设备适配工作。\n 6. 负责实时音视频链路的开发与优化，包括 WebRTC 信令交互、PeerConnection、DataChannel、ICE、STUN/TURN、DTLS/SRTP、RTP/RTCP 以及连接⽣命周期管理。\n 7. 负责 H.264/H.265 视频和 Opus/PCM 音频链路的开发维护，覆盖采集、编解码、转码、码率与帧率控制、关键帧处理、软硬件编码适配，以及 YUV、NALU、SPS/PPS/VPS 等数据处理。\n 8. 负责 UDP、KCP 等低延迟传输链路和弱网策略优化，处理丢包、乱序、抖动、重传、FEC、RTT、拥塞控制、码率自适应、卡顿、延迟、花屏和音视频不同步等问题。\n 9. 负责 AOSP 编译、增量编译、系统裁剪和产品定制，熟悉 Soong/Blueprint、Android.bp、Make/Android.mk、CMake、Android NDK 及交叉编译流程。\n 10. 建立并完善核心模块的单元测试、集成测试、回归测试、日志和监控指标，持续提升服务的可测试性、稳定性和可维护性。\n 11. 负责线上 Crash、ANR、卡顿、死锁、内存泄漏、CPU/内存异常、启动失败和设备兼容性问题的定位与解决，并推动问题从发现、分析到修复、验证和发布闭环。\n 12. 与 AOSP、Framework、HAL、编解码、客户端、算法、测试及运维团队协作，完成系统集成、设备适配、版本发布和技术文档建设。\n 任职资格\n 1. 本科及以上学历，计算机、通信、电子或相关专业，3 年以上 C/C++ 开发经验，有 Android Native、AOSP 系统开发或实时音视频项目经验。\n 2. 熟练掌握 C++11/14/17，熟悉 STL、智能指针、多线程同步、异步任务、锁与无锁编程、内存管理和资源生命周期设计。\n 3. 熟悉 Linux/Android Native 开发环境，能够阅读和分析大型 C++ 工程，掌握常用 POSIX 接口、进程/线程、Socket、文件系统和 IPC 机制。\n 4. 具备 AOSP 源码阅读、编译和定制经验，熟悉 Native Service、Binder/AIDL、Framework 调用链、init、SELinux、系统权限和系统应用开发。\n 5. 熟悉 SystemUI、Launcher、Settings 等系统应用开发流程，具备 Java/Kotlin 与 C++ 跨层协同开发能力。\n 6. 熟悉 AMS、WMS、PMS、IPackageManager 等核心系统服务，能够定位应用启动、窗口管理、权限校验、进程管理和系统服务交互问题。\n 7. 熟悉 HAL 或 Android 硬件抽象层开发，了解 Camera、Audio、Sensor、Wi-Fi、Radio、RIL、MediaCodec、Surface 等模块中的一个或多个。\n 8. 熟悉 WebRTC 基本原理和主要流程，了解 SDP、ICE、STUN/TURN、DTLS/SRTP、RTP/RTCP、DataChannel；具备 WebRTC、libdatachannel 或其他 RTC 项目经验。\n 9. 熟悉 H.264/H.265、Opus、PCM、YUV 等音视频基础知识，了解 NALU、SPS/PPS/VPS、GOP、I/P 帧、Profile、码率控制和关键帧机制。\n 10. 熟悉 TCP/UDP Socket 编程和常见网络问题，理解丢包、乱序、抖动、RTT、重传、FEC、拥塞控制和码率自适应等实时传输机制。\n 11. 熟悉 AOSP 构建系统及相关配置，掌握 Android.bp、Android.mk、CMake、NDK、交叉编译、增量编译和系统裁剪。\n 12. 熟悉 GDB/LLDB、logcat、dumpsys、tombstone、ASan、TSan、UBSan、Perfetto、systrace、simpleperf/perf、Wireshark、tcpdump 等问题定位和性能分析工具。\n 13. 具备较强的问题分析、沟通协作和推进能力，能够独立完成负责模块的需求分析、方案设计、开发、自测、发布及线上问题闭环。\n 加分项\n 1. 有云手机、云游戏、远程桌面、RTC、直播连麦或其他低延迟音视频项目经验。\n 2. 有 WebRTC/libdatachannel 源码阅读、定制、性能优化或协议栈改造经验。\n 3. 熟悉 KCP、FEC、NACK、GCC、QoS 或其他弱网传输与拥塞控制机制。\n 4. 熟悉 OpenH264、FFmpeg、libyuv、libde265、Opus 等音视频开源库。\n 5. 有 Android MediaCodec、Media NDK、Surface，以及 Hantro、AMD 或其他 VPU/GPU 硬件编解码适配经验。\n 6. 有 AOSP 系统裁剪、Vendor 适配、设备 Bring-up、CTS/VTS 问题处理或系统性能优化经验。\n 7. 具备应用逆向和兼容性分析能力，能够在合法授权范围内使用 JADX、APKTool、Smali、Frida 等工具分析应用行为、崩溃和兼容性问题，并通过 Framework、系统服务、权限策略或兼容层改造解决问题。\n 8. 有自动化测试、性能压测、线上监控、稳定性治理或大型 C++ 遗留项目重构经验。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "8a37c2b52912",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/536c672830a5afa10nx52tS8E1BR.html",
+      "title": "Android开发工程师（SDK）",
+      "company": "欢乐扬帆",
+      "salary": "20-30K·13薪",
+      "location": "北京·朝阳区·朝阳大悦城",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "任职需求\n1、负责现有AnSDK 的版本维护和优化升级相关工作；\n2、撰写和维护SDK 接入文档；\n3、提供合理的接入⽅式和接⼊demo\n4、接⼊苹果平台的SDK，比如登陆支付订阅等功能。\n5、接⼊第三方SDK 及打包(包括广告、内购、埋点、监测链接等)；保证数据准确性。\n6、配合完成游戏打包以及SDK 更新维护；\n7、熟悉上架苹果商店平台流程；\n8、有自动出包经验者优先\n岗位要求：\n1、统招计算机、软件工程相关专业学历，专业基础扎实；\n2、3年及以上Android 开发经验，熟练使用Object-C语言熟练使用Xcode进行ios开发\n3、熟悉苹果渠道商的SDK 对流流程。\n4、对Android 机型和Android 系统版本的适配有一定的经验；\n5、具有较强的解决问题的能力及自主学习能力，良好的逻辑思维能力。\n6、熟悉游戏相关SDK，有游戏接入经验者,有成功线上产品者优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "908c93e550f6",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/fb3a86b518c91a300nN90t-5FVVQ.html",
+      "title": "实习生-安卓开发实习生-北京",
+      "company": "亚信科技",
+      "salary": "面议",
+      "location": "北京",
+      "exp": "",
+      "edu": "本科",
+      "tags": [
+        "面议",
+        "在校/应届"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n1.结合AI工具，进行Android功能开发、迭代优化，参与新功能模块的编码实现与调试工作。\n2.配合产品、测试团队完成需求对接、功能自测、bug修复，跟进版本迭代全流程，保障客户端功能稳定运⾏。\n3.协助优化Android端性能问题，包括启动速度、页⾯卡顿、内存泄漏、耗电、兼容性等，提升⽤户使用体验。\n4.跟进安卓前沿技术，协助团队完成技术调研、Demo开发，落地轻量化技术优化方案。\n5.完成上级交办的其他客户端开发相关辅助⼯作。\n任职要求：\n1.本科及以上学历，计算机、软件工程、电子信息等相关专业，实习6个月以上。\n2.具备扎实的Java/Kotlin基础语法，熟悉Android主流开发框架及常用组件（Activity、Fragment、Service、自定义View等）。\n3.熟悉Android网络请求、数据解析、本地存储、多线程开发等常用技术，了解Retrofit、OkHttp、Glide等主流开源库。\n4.掌握基础的Android调试能力，能独立排查简单bug，具备良好的代码编写习惯，规范整洁。\n5.了解MVVM、MVP等主流开发架构，有完整的Android项目开发经验（课程项目、个人项目、校园项目均可）优先。\n6.熟悉Git版本控制工具，能够熟练进行代码提交、分支管理、合并冲突处理。\n7.具备良好的逻辑思维、学习能力和团队协作能力，积极主动，抗压能力强，对移动端开发有浓厚兴趣。\n8.有跨平台开发、组件化、模块化开发经验，或上线App项目者优先。\n9.熟悉Jetpack、Flutter、鸿蒙开发等相关技术优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "358f0437a7fa",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/85b92d458d15a7cb0nxy2N28GVRQ.html",
+      "title": "高级开发工程师（IOS\\安卓\\鸿蒙）",
+      "company": "聘思千",
+      "salary": "15-20K",
+      "location": "北京·朝阳区·朝外",
+      "exp": "10年以上",
+      "edu": "大专",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n1 负责身份认证客户端SDK的研发与维护，覆盖HarmonyOS(鸿蒙）、安卓、IOS三端，统一认证能力；\n2 主导三端认证核心链路开发，涵盖⼈脸/指纹/声纹等⽣物识别认证，多因⼦认证（MFA）、设备认证等场景;\n3负责密码学相关能力在客户端的落地，包括国密算法（SM2/SM3/SM4）、数字签名，密钥存储（Keystore/Keychain/鸿蒙安全组件），安全容器封装;\n4 对接OAuth2/OIDC,FIDO2/WebAuthn等认证协议，负责令牌、会话、凭证在移动端的安全管理;\n5 深入三端系统安全能⼒（Android系统安全\\IOS 安全隔离、鸿蒙安全机制），设计防逆向，防篡改，防重放的客户端安全方案;\n6 与后端认证平台\\产品\\安全团队协作，推动认证能力在多端的统一与持续优化，保障性能与安全性。\n任职要求：\n1 从业经验10年以上软件开发经验，其中至少三年以上身份认证或密码学相关领域研发经验;\n2 三端技术栈，精通HarmonyOS(ArkTS/ArkUI，鸿蒙应用安全机制)、安卓（Kotlin/Java)、IOS（Swift/Objective-C）中至少两端，其余一端可快速上手，具备跨端统一架构设计能力;\n3 认证协议，深入理解OAuth2.0\\OIDC\\SAML\\JWT\\TLS,熟悉SSO\\MFA\\FIDO2\\Webauthn体系在移动端的实现;\n4 密码学能力，熟悉国密算法，(SM2/SM3/SM4）、数字证书，签名验签，密钥管理等密码技术，具备客户端密钥安全存储与加密落地经验;\n5 工程能力，具备大型客户端/多端，SDK架构设计与性能调优经验，有高并发，海量用户规模认证体系建设经验者优先;\n6 安全意识，对越权\\会话劫持、防重放、客户端逆向等安全风险有深刻理解能独立完成客户端安全方案设计与评审。\n加分项：\n1有金融，支付 政务等高安全等级行业的身份认证，SDK开发经验人\n2 有国密改造、等保/密评合规落地经验\n3 熟悉鸿蒙生态适配与上架规范，或有三端统一认证框架设计经验。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "a137d2992922",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/2fe0068997fd294a0nxz3ti0FVdV.html",
+      "title": "安卓中高级开发工程师",
+      "company": "美萱视界",
+      "salary": "20-26K·13薪",
+      "location": "北京·丰台区·丽泽",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n1. 负责公司核心 Android 客户端的架构设计、核心模块开发及代码重构，保障应用的高性能与⾼稳定性。\n2. 深⼊参与客户端性能调优（如启动速度、内存管理、卡顿治理、包体积优化等），解决复杂的线上疑难杂症。\n3. 负责客户端安全防护体系建设，针对核⼼业务模块进行代码混淆、加固及防逆向分析，提升应用安全⽔位。\n4. 调研业界前沿技术与竞争对手的技术实现方案，通过技术分析为产品迭代与技术选型提供决策支持。\n5. 制定团队开发规范，参与 Code Review，指导初中级工程师解决技术难题并推动团队整体技术能力提升。\n任职要求：\n1. 基础扎实：统招本科及以上学历，计算机相关专业，3-5年以上 Android 独立开发经验；精通 Java/Kotlin 语言，深入理解 JVM 虚拟机原理（内存模型、垃圾回收、类加载机制等）。\n2. 熟悉原理：深入理解 Android 系统底层架构与运行机制，熟悉 Binder、Handler、AMS、WMS、View 绘制流程及事件分发等核心源码原理。\n3. 架构与优化：具备扎实的软件工程能力，熟练掌握常见设计模式与主流开源框架（如 Jetpack、OkHttp、Retrofit 等）底层实现，拥有丰富的 App 性能优化与线上监控排查经验。\n4. 逆向经验：具备一定的 Android 逆向工程经验，了解 APK 打包与签名机制、Smali 语法，能够熟练使用 JADX、Frida、Xposed、IDA Pro 等至少一种逆向分析工具。\n5. 加分项：\n\t• 熟悉 C/C++ 及 JNI/NDK 开发，具备 Native 层（SO库）开发、调试或逆向分析能力。\n\t• 有大型商业 App 架构演进、插件化/热修复、或移动端安全攻防（风控、反作弊、代码加固）实战经验。\n\t• 具备良好的沟通能力与团队协作精神，对技术有热情，抗压能力强。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "d9eb881a3d58",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/7c0a69235542b5b10nR40t6-EldR.html",
+      "title": "Android高级开发工程师（鸿蒙）",
+      "company": "北京孔网文化科技",
+      "salary": "30-50K",
+      "location": "北京·朝阳区·马泉营",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "工作职责\n1、负责鸿蒙客户端开发工作，深度参与需求评审和功能定制，共同保证产品迭代顺利推进；\n2、参与客户端品质优化、架构设计，推动团队技术体系建设；\n3、探索鸿蒙生态新技术，推动产品创新，跨团队协作，保障产品迭代上线，分享技术经验。\n任职要求\n1、统招本科及以上学历，计算机相关专业，具备至少5年 Andriod移动端开发经验5，⾄少有1年鸿蒙开发经验；\n2、掌握ArkTS/TypeScript/JavaScript，熟悉HarmonyOS SDK及ArkUI框架；\n3、掌握MVVM等设计模式，熟悉数据结构与算法；\n4、熟练使⽤DevEco Studio，具备调试与优化能⼒；熟悉Git、Gradle等工具；精通Kotlin，有Andriod项目经验优先；\n5、对技术有热情，有较强的学习能⼒，有良好的沟通表达能力和团队合作精神，自驱力强。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "b75feeb262ae",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/68c1b46683e712740nN62tW4FlVR.html",
+      "title": "高级android工程师",
+      "company": "多邻国Duolingo",
+      "salary": "45-75K",
+      "location": "北京·朝阳区·朝外",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "About the role...\nThe Monetization Pillar focuses on Duolingo’s key business drivers—subscriptions, ads, and in-app purchases. Our goal is to build the best premium experiences for our learners while ensuring the sustainability and success of our business model. As a senior Android Engineer, you will play an instrumental role in the strategic direction of Duolingo by developing and refining the methods that make our monetization efforts more effective and efficient. You'll work cross functionally with product, design, data science, machine learning, and ad operations.\nYou will...\nCollaborate on software projects with product design and backend aspects\nDevelop, release, and maintain native Android application features in Kotlin\nMentor and set technical direction for junior engineers on the team\nYou have...\nA Bachelor’s degree in Computer Science or a related technical field\nProgramming experience in Kotlin on Android\nThe ability to communicate technical issues effectively to technical and non-technical stakeholders\n Exceptional candidates will have...\nStrong programming experience building reactive Android apps\nDemonstrated self-direction, with a desire both to learn new techniques and mentor others\nExperience designing clean and maintainable APIs\nExperience writing unit tests and testable code",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "20254653f2be",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/ecde9ef8393001bf0nF539-6F1ZT.html",
+      "title": "Android 研发工程师（SDK 方向）",
+      "company": "COCOS",
+      "salary": "23-45K·14薪",
+      "location": "北京·朝阳区·来广营",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "可base：厦门、深圳、北京\n中级、高级 都招！\n中级 Android 研发工程师（SDK 方向）\n【岗位职责】\n1. 负责公司核心跨平台 Runtime SDK 在 Android 端的业务功能开发与⽇常迭代，保障 SDK 在各⼤主流⼚商机型及各 Android 版本上的兼容性与稳定性；\n2. 负责 SDK 在 Android 端的宿主接入层开发，处理 SDK 的初始化流程配置. 上下文环境注⼊及生命周期管理，对外提供规范. 易用的 Java/Kotlin 业务接口；\n3. 负责开发并持续维护基于本 SDK 的多场景 Demo 工程与最佳实践示例应用，验证 SDK 接口的易用性与业务闭环，并配合输出高质量的开发者接入文档；\n4. 参与 Android 端视窗容器的接入与生命周期管理，配合引擎侧完成渲染画面的正确挂载与显示；\n5. 协助处理 SDK 日常接入过程中的技术支持工作，排查并修复常规的崩溃. 内存泄漏及 UI 适配问题。\n【任职要求】\n1. 本科及以上学历，计算机等相关专业，3-5 年 Android 实际开发经验，有完整商业化 App 或 SDK 落地经验；\n2. 【核心基础】 扎实的 Java / Kotlin 编程功底，熟悉 Android 体系结构. UI 绘制原理及组件生命周期；熟悉 Android 多线程并发及消息机制；\n3. 【JNI 基础】了解 JNI 基础编程，能熟练完成 Java 与 C/C++ 的基础接口对接，了解 JNI 局部引用等基础内存管理概念；\n4. 【综合素质】具备极强的自我驱动与快速学习能力，能快速查阅官方文档并掌握未接触过的 Android 新特性或跨平台技术，具备良好的代码规范与文档编写习惯；\n5. 【专项加分】具备以下任意一项经验者优先考量：\nFlutter 扩展：了解 Flutter 架构，有 Flutter Plugin 开发经验，能协助封装 Flutter 版 SDK；\n视窗与渲染：熟悉 SurfaceView / TextureView 机制，有相关的实际项目开发经验；\n工程化：熟悉 Gradle 构建打包，了解 AAR 产物的基础优化；\n稳定性排查：熟悉 Android 常用性能监控与内存分析工具，有处理疑难 Crash 的经验。\n高级 Android 研发工程师（SDK 方向）\n【岗位职责】\n1. 主导跨平台 Runtime SDK Android 端的整体架构设计. 技术选型与重构优化，制定高内聚. 低耦合. 易接入的 SDK 接口规范；\n2. 主导设计并开发面向复杂业务场景的高级 Demo 矩阵或开源参考应用，为外部接入方提供高质量的架构级最佳实践参考方案。\n3. 负责 Android 端核心渲染容器的架构把控，深度管理 SurfaceView / TextureView 的复杂生命周期与多线程渲染管线，解决由于引擎退后台. 锁屏等带来的渲染环境丢失/重建等底层疑难问题；\n4. 主导SDK 的极致工程化建设，开发定制化 Gradle 插件，制定极限 AAR 产物体积瘦身方案与严格的代码/符号防冲突隔离机制；\n5. 承担模块 Owner 角色，主导 Flutter 版 SDK 的架构设计与底层桥接开发；或作为稳定性专家，攻克跨 Java/Native 边界的疑难杂症与极端性能瓶颈。\n【任职要求】\n1. 本科及以上学历，计算机相关专业，5-7 年及以上 Android 开发经验，包含 3 年以上中大型 SDK. 基础架构库或跨平台引擎包装层的开发实战经验；\n2. 【核心基础】精通 Java / Kotlin，对 Android Framework 层有深入理解，能从源码层面排查各类厂商碎片化兼容问题；\n3. 【JNI 与通信】熟练掌握 JNI 与 NDK 开发，深刻理解 JNI 底层机制，能独立排查因 JNI 导致的 Native 内存泄漏与 Crash；\n4. 【综合素质】具备顶级的技术嗅觉与全局架构思维，面对全新的业务诉求（如适配新平台语言. 新渲染框架），能够快速进行技术预研. 破局并输出高可用架构方案；\n5. 【专项能力】需在以下 至少一项（精通多项者重点考量） 领域具备深厚的架构经验与实战沉淀：\nFlutter 与跨平台：精通 Dart 与 Flutter 引擎通信机制，具备 FFI 深度集成经验，能独立主导 Flutter 平台底层插件的架构设计；\n渲染深度集成：精通 Android 视窗系统，对 SurfaceFlinger / 图形缓冲队列有深刻理解，能完美解决 C++ 引擎多线程渲染与 Android UI 线程的同步协作问题；\n极致工程化：精通 Gradle 构建系统原理，能熟练编写复杂的 Gradle Plugin，具备基于 ASM 等字节码插桩技术的 SDK 自动化治理与极致瘦身经验；\nAPM 与稳定性攻坚：精通 Perfetto / Systrace 等性能分析工具，具备极强的 Native Crash堆栈反汇编分析能力，能定位并解决跨越 Java 与 C++ 边界的极其隐蔽的竞态死锁与内存踩踏问题。\n6. 具备优秀的跨团队沟通协作能力，能主导推进跨端（与 C++ 团队. 业务线接入侧）的技术方案落地。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "b4219d96f7b8",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/7a427f016815352a0nV62961E1pQ.html",
+      "title": "android",
+      "company": "带得科技",
+      "salary": "15-20K",
+      "location": "北京·朝阳区·朝外",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n参与“移动门户APP功能优化”项目，完成移动端相关开发工作。\n任职要求：\n1.本科及以上学历，计算机相关专业。\n2.具有5年以上Android开发经验，有完整的android项目经验，同时有备鸿蒙开发经验优先。\n3.熟悉Android架构以及各种组件和机制，了解Android系统原理及底层设计，具有独立完成产品设计和开发的能⼒。\n4.熟练掌握Kotlin语⾔，对Android应⽤性能优化有深入了解。\n5.熟练掌握移动端主流的开发模式和相关技术，如MVC、MVVM等设计模式，熟悉网络编程、数据存储等。\n6.对技术有强烈的兴趣，喜欢钻研和探索新技术，具备良好的分析问题和解决问题的能⼒。\n7.有强烈的责任心、良好的沟通能力和团队合作精神。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "7b58bf7689c9",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/c17e094bdac8592f0nF73tq6FFNS.html",
+      "title": "Android开发工程师",
+      "company": "北京世哆睿安科技",
+      "salary": "28-45K",
+      "location": "北京·朝阳区·高碑店",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责\n1、负责海外 AI 短剧内容平台 Android 客户端的架构设计与开发，支撑百万级 DAU 与全球多地域用户\n2、主导核心播放链路的开发与优化，保障短剧的秒开、流畅切换与低延迟播放体验\n3、负责订阅付费、内购、投放归因（事件采集与转化上报）等关键业务模块的落地\n4、持续优化 App 性能，排查内存、卡顿、崩溃、ANR 等疑难问题，提升稳定性与⽤户体验\n5、沉淀通⽤组件与技术规范，把控代码质量\n任职要求\n1、本科及以上学历，5 年以上 Android 开发经验，扎实的计算机基础与⼯程能力，良好的沟通协作与技术钻研精神\n2、精通 Java / Kotlin，深入理解 JVM 内存管理、多线程与并发、Handler / 消息机制\n3、熟练掌握 Android 基础组件与⾃定义 View，具备复杂界面与列表（RecyclerView）性能优化经验\n4、熟悉主流架构模式（MVC / MVP / MVVM），能设计清晰、可维护的模块划分\n5、熟悉组件化 / 模块化开发，具备通用组件库的设计与维护经验\n6、具备大型 App 或高 DAU 产品经验，有真实海量用户场景的实战沉淀\n7、精通 App 性能优化（启动速度、卡顿、内存、崩溃、ANR、包体积）与线上问题排查\n8、深入理解 Android 系统机制（生命周期、进程/线程、四大组件、系统适配与版本兼容）\n8、有出海 / 海外业务经验，熟悉多语言、多地域、跨时区场景，熟悉海外机型与碎片化适配\n10、熟悉短视频 / 短剧 / 内容平台的播放器（ExoPlayer / 自研播放器）、预加载、CDN 分发与转码链路\n加分项\n熟悉 Flutter 等跨端开发框架，具备实际项目落地经验，了解 Flutter 与 iOS/Android 原生混合开发及性能优化者优先。\n熟悉投放归因：事件采集、深度链接（Deep Link）、AppsFlyer / Adjust 等归因 SDK 对接\n熟悉订阅计费、Google Play Billing、内购与海外支付链路\n具备音视频（MediaCodec / ExoPlayer 扩展 / 自研播放器内核）相关经验",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "6fc099499e73",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/ca9db72fbfdeb62f03N909-5GVtV.html",
+      "title": "Android开发工程师+反馈快",
+      "company": "中软国际",
+      "salary": "20-24K",
+      "location": "北京·海淀区·苏州桥",
+      "exp": "3-5年",
+      "edu": "大专",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "1.精通Java 和 kotlin，熟悉gradle、git、Gerrit；\n2.有扎实的编程功底和编程经验，掌握基本的数据结构和算法，熟悉设计模式者优先；\n3.熟悉移动网络通信机制，对Socket通信、TCP/IP和HTTP通信有较深刻理解；\n4.精通Android四大组件与消息队列使用，熟悉多线程编程；\n5.精通UI、动效和自定义控件；\n6.有知名Android客户端项⽬研发经验者优先；\n7.良好的团队合作精神；\n8.熟练的⽂档撰写 和 归档能⼒；\n9.有较强的责任心、上进心以及良好的表达和沟通能⼒。\n10.有车机开发经验，有成熟车型项目研发交付经验者优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "679fe8bf10d3",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/de912a4c544a6d020nRy2ty1FVFR.html",
+      "title": "安卓工程师",
+      "company": "新浪安徽",
+      "salary": "15-27K",
+      "location": "北京",
+      "exp": "经验不限",
+      "edu": "本科",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "工作内容：\n1.负责壹生平台级产品 APP 的架构设计、开发及维护工作；\n2.和产品经理、运营人员配合，深度参与需求讨论和分析、架构设计、代码编写，功能定义，推动项⽬⾼质量交付，并持续对负责模块代码进⾏优化；\n3.负责Android应用性能优化（如应用的稳定性、启动时间、运⾏流畅度、包大小等）；解决Android客户端中的技术难题；\n4.负责对新技术的研究和尝试，推动公司Android客户端技术的发展。\n5.负责APP鸿蒙化的开发工作，包括页面设计、前端逻辑实现等。\n任职要求：\n1.计算机相关专业，有Android Framework经验者优先；\n2.熟悉Android系统工作原理，具备较强的开发、调试、性能优化能力；\n3.熟悉Android框架及各种特性，熟悉面向对象编程，理解设计模式等；\n4.熟悉网络编程、Android UI框架及相关开发工具；注重代码的简洁性，扩展性，维护性，追求极致和高效；\n【加分项】\n1.关注AI前沿，会用AI大模型工具者及AI应用项目开发经验更佳。\n2. HarmonyOS应用开发者高级认证，至少1年开发经验优先。\n3.个人化推荐开发经验优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "aa91cfc7e0c8",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/b2fe838d7ece022a0nJ609i1E1VT.html",
+      "title": "Android逆向工程师",
+      "company": "百度",
+      "salary": "20-40K·16薪",
+      "location": "北京",
+      "exp": "1-3年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "工作职责\n1、负责对国内外头部App的逆向分析工作\n2、负责ARM云手机应用兼容性问题排查及解决⼯作\n3、负责部分云⼿机仿真能⼒设计及开发工作\n4、负责云手机风控态势感知系统的建设⼯作\n任职资格\n1、计算机或相关专业毕业，有移动安全相关经验者加分。\n2、有Android逆向经验，能够独立对java、so中的业务流程开展分析等工作。\n3、熟悉移动安全对抗，了解打包、反编译、破解流程，熟悉dex、so等脱壳、还原、混淆对抗。熟悉Android设备指纹、环境分析对抗；熟悉Android的Hook技术，能够完成逆向分析、HOOK、模拟执行等工作。\n4、了解静态分析工具 IDA 等逆向分析工具，熟悉 smali 、 ARM 或x86指令集和汇编语言，可以逆向分析 Java , C / C ++代码。\n5、熟悉各种常用加密解密算法，对软件安全和逆向领域有强烈爱好和耐心。有主流app风控对抗经验者优先。\n6、有云手机领域相关工作经验者优先",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "6d1b7d9ef49d",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/f5b77cb87153c0800nxz09q-GFpQ.html",
+      "title": "Android工程师-北京",
+      "company": "人瑞网络科技",
+      "salary": "16-17K",
+      "location": "北京·昌平区·回龙观",
+      "exp": "5-10年",
+      "edu": "大专",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "Android JD，短期半年左右，有续约可能\n工作职责：\n负责公司 Android 平台应用的设计、开发、测试与优化。\n根据产品需求，独立完成应用功能模块的编码与调试。\n优化 APP 性能和⽤户体验，解决兼容性及适配问题。\n参与项⽬的需求分析、技术评审及技术⽅案设计。\n与产品、UI、测试团队紧密协作，保证项目高质量按时交付。\n任职要求：\n熟练使⽤ Android Studio、Gradle 等开发工具，熟练使用 Android 各种控件、动画、多线程、网络通信等操作。\n精通熟悉 Java 和 Kotlin 开发语言，对 Kotlin 编程语言及其特性有了解和实际应用能力。\n具有丰富的 Android 开发经验和调试经验，有软件架构、模块设计能力，能独立分析复杂代码。\n有一定源码阅读经验、了解 Framework 以及底层的原理和关键细节。\n有良好的代码习惯，要求结构清晰、命名规范、逻辑性强、冗余度低。\n具备良好的沟通能力，能与产品经理、UI、测试等不同角色的同事顺畅合作，共同推动项目进展。\n具备责任心和主动推进意识，能够承担一定业务压力。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "472be83c24eb",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/994698c491dbfa3903V93du_EFRU.html",
+      "title": "资深安卓开发工程师",
+      "company": "歌尔丹拿科技有限公司",
+      "salary": "20-40K",
+      "location": "北京·海淀区·学院路",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n1. 负责公司移动端App的开发与维护\n2. 和产运、UI/UX团队配合、深度参与手机端产品的需求讨论、功能定义\n3. 承担重点、难点的技术调研和攻关\n岗位要求：\n五年以上开发经验\n1. 优秀的架构设计能力，编写可维护、可扩展、可重用、高性能、高安全性的代码\n2. 熟练掌握 Java/Kotlin 语言，熟悉 Android SDK 和常用开发工具\n3. 熟悉 Android 系统架构、组件原理和生命周期，具备扎实的编程基础和良好的代码风格\n4. 能够独立完成复杂界面开发和交互逻辑实现\n5. 熟悉网络编程、多线程等技术，具备性能优化/内存优化经验\n6. 熟悉常用开发架构，如 MVC、MVP、MVVM 等\n7. 具备良好的沟通能力、团队协作能力和问题解决能力\n8. 关注 Android 新兴技术和行业动态，思维能力强，思路清晰，逻辑缜密，善于思考\n加分项：\n1）有独立开发app经验、音乐播放器经验、有蓝牙/WiFi协议开发经验\n2）有 Flutter / 鸿蒙开发经验",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "791b15dfb316",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/d6eaba9f0d989e0f0nx_0tu_F1JZ.html",
+      "title": "android开发工程师",
+      "company": "奇妙王国",
+      "salary": "18-30K·13薪",
+      "location": "北京·朝阳区·望京",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "1. 负责公司Android端产品的设计、开发与维护，当前阶段重点参与SDK的架构设计与核心开发；\n2. 负责SDK对外API设计与多端接入支持，覆盖Android原生应⽤及游戏引擎(如Unity)等宿主场景，编写接⼊⽂档并提供技术支持；\n3. 负责客户端核心功能模块的开发与迭代，独⽴完成需求拆解、方案设计与编码落地，保障代码质量和可维护性；\n4. 负责应用性能优化，主导启动速度、内存、包体积等专项，持续提升用户体验；\n5. 负责线上疑难问题的分析、定位与修复(如ANR、OOM、Crash)，建立长效技术保障机制；\n6. 参与技术方案评审、代码复审，编写技术文档，推动团队研发效率与质量提升；\n职位要求\n1. 计算机相关专业本科及以上学历；\n2. 熟练掌握Java，深入理解Android系统机制，对性能优化、内存管理、多线程有系统性实践经验；\n3. 熟悉Android四大组件、UI/View体系、网络、存储及权限机制，能独立完成复杂页面开发与适配；\n4. 熟悉Gradle构建、AAR打包、ProGuard/R8混淆规则，有SDK开发经验者优先；\n5. 有广告SDK、广告聚合或移动归因相关项目经验者优先；\n6. 有游戏引擎(如Unity)与Android原生交互开发经验者优先；\n7. 具备良好的问题排查能力，能独立分析ANR、崩溃、内存泄漏等线上问题；\n8. 具备强烈的责任心、出色的沟通协作能力及主动推进项目落地的精神；\n海外项目开发经历优先",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "5f3f4f62239b",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/55ce3861a397d75a0nxy3N27FlZZ.html",
+      "title": "安卓Android（大厂+全额社保+六险一金）",
+      "company": "外企德科数字",
+      "salary": "15-30K",
+      "location": "北京·丰台区·六里桥",
+      "exp": "经验不限",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "职位描述 \n1. 负责Android系统的深度定制和开发，框图问题分析和优化 \n2. 主导和参与项目技术架构设计、开发、性能优化等工作，保证软件的开发 \n进度和质量 \n职位要求 \n1. 本科及以上学历，计算机相关专业，2年以上framework开发经验 \n2. 具备良好的Java/C++语言基础，熟悉常用数据结构和算法，熟悉设计模式 \n3. 熟悉Android系统框架，熟悉下列⼀个或多个模块的机制原理： \nAMS(Activity管理)、WMS(窗口管理)、View、PMS(包管理)、Input(输⼊系 \n统)、SurfaceFlinger(图形合成等核⼼服务 \n4. 有包管理，权限管理、分屏、小窗、平行窗口等模块开发经验者优先 \n5. 具备良好的团队合作意识，责任⼼强，工作认真细致，有良好的抗压能力",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "e9ea9d2ccf78",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/eab00967bd8e3bc30nJ909q-GFRZ.html",
+      "title": "Android/鸿蒙开发工程师",
+      "company": "申万宏源",
+      "salary": "15-30K",
+      "location": "北京",
+      "exp": "1-3年",
+      "edu": "硕士",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "工作职责：\n1、负责零售客户类相关业务系统、自研版本APP（移动端）及投资交易终端（桌面端）的需求分析、系统设计与开发；\n2、参与系统核心架构和框架设计，负责把控项⽬进度并制定持续迭代计划；\n3、负责制定技术⽅案，协助解决技术难题；参与基础框架选型，持续提升研发效能；\n4、持续优化系统性能，保证系统的安全、稳定和效率，解决软件缺陷。\n任职资格：\n1、硕⼠研究生及以上学历，计算机、电子、信息、数学等相关专业；\n2、2年及以上移动端（Android/鸿蒙）或桌⾯端（C#/WPF）开发经验；有证券行业相关开发设计经验或证券期货类系统大数量场景下性能调优开发经验者优先；\n3、移动端：熟练掌握Android/鸿蒙中至少一种原生移动平台开发技术；熟悉常用设计模式、数据结构和算法；有大规模月活APP开发及性能优化经验者优先；有鸿蒙开发经验者优先；\n4、桌面端：精通C#语言，熟练使用WPF框架；熟悉Windows系统进程、线程、消息调度机制；熟悉常用数据库及性能诊断优化技术；熟练运用调试工具定位问题；以上有具备其中一项技能。\n5、具有良好的软件架构设计能力和编码风格，拥有良好的技术方案文档编写能力；熟悉主流中间件、开发框架；\n6、工作积极主动，责任心强，具备较强的逻辑思维与创新能力；\n7、自主学习能力强，关注前沿技术发展，具备跨团队技术影响力；\n8、有较强的组织计划执行能力，良好的沟通协调和项目管理能力；\n9、抗压能力强，能独立解决问题。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "83502ad87f48",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/edcb5d0339d4edff0nx43N64GVZY.html",
+      "title": "广告SDK开发工程师（android）",
+      "company": "倍孜网络",
+      "salary": "20-35K·14薪",
+      "location": "北京·朝阳区·大望路",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责\n1、负责广告SDK技术的前沿追踪、技术攻坚和落地，推动广告SDK技术团队成长；\n2、负责移动端信息流广告，联盟广告SDK品牌⼴告SDK；\n3、负责⼴告移动端相关营销⼯具的设计和研发；\n4、从广告SDK需求出发，持续提升广告效果和优化⽤户体验。\n任职要求\n1、本科及以上学历，5年及以上Android开发工作经验，具有扎实的Java语言基础、精通Android四大组件，熟悉Framework层；\n2、熟悉Android系统的内存管理，进程管理机制；\n3、熟悉Android SDK及相关开发、调试、优化工具；\n4、熟悉TCP、HTTP等网络协议，并能对各种网络情况进行抓包分析；\n5、熟悉Android客户端的安全攻防设计;\n6、具备良好的沟通和分析解决问题能力，能独立承担任务、负责SDK项目，能系统性把握项目进展；\n7、具有移动互联网广告行业背景者优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "751382fbebb3",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/cdd067017c4ac4790nx82NS9FlZY.html",
+      "title": "安卓开发工程师（自研项目）",
+      "company": "掌玩科技",
+      "salary": "18-23K",
+      "location": "北京·东城区·和平里",
+      "exp": "3-5年",
+      "edu": "大专",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责\n1、负责Android客户端的产品需求分析、功能开发和产品维护的编码工作。\n2、参与项目相关部分需求分析，负责客户端具体编码工作。\n3、能按照项目计划，按时提交⾼质量的代码，完成开发任务。\n4、跟进最新的Android版本和新技术。\n任职要求\n1.有独⽴完成App 项⽬框架搭建的能力和作品。\n2.拥有扎实的技术功底，熟练掌握Java/Kotlin/Flutter等编程语言。\n3.熟悉Android框架原理，熟练使⽤UI组件、多线程、Sqlite等编程技术。\n4.熟悉Android各版本的区别，并熟悉UI，网络，性能和内存等方面的优化。\n5.熟悉Google应用商店上架的流程，具有海外APP开发、上架经验者优先。\n6.在APP稳定性、运行性能有优化经验者优先。\n7，能够熟悉使用AI Agent工具进行AI开发",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "82a9439f341c",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/de2378ff26a3798a0nN53d26F1VR.html",
+      "title": "安卓开发（鸿蒙）",
+      "company": "新晨科技",
+      "salary": "15-16K",
+      "location": "北京·海淀区·甘家口",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "Android开发工程师（含HarmonyOS开发）\n职位描述\n央视影音是面向用户的视频类客户端产品。主要负责Android端App的开发与迭代，并参与HarmonyOS（鸿蒙）应⽤的开发与适配，通过KMP等技术⼿段提升多端研发效率。\n岗位职责\n（1）负责Android端App的需求分析、功能开发与版本迭代，保障稳定性与流畅性；\n（2）参与HarmonyOS（ArkTS/ArkUI）应⽤的开发与维护，保障Android/鸿蒙双端体验一致；\n（3）基于KMP（Kotlin Multiplatform）搭建跨端公共能力，实现播放控制、⽤户体系、业务逻辑等模块的多端复用；\n4.负责HTTP网络层的设计与封装（如Retrofit/OkHttp/Ktor等），保障视频类业务在高并发、弱网环境下的请求质量与异常处理；\n5.合理使用主流开发框架，编写高质量、可维护、可测试的代码，参与技术方案评审；\n6.关注播放性能、启动速度、内存占用、崩溃率等关键指标，持续进行稳定性与性能优化；\n7.跟进视频行业技术动态（如新系统适配、新播放形态），推动工程化与研发效率提升。\n任职要求\n1.3年以上Android开发经验，熟悉Kotlin/Java，具备扎实的编程基础；\n（2）熟悉KMP（Kotlin Multiplatform）技术栈，了解其跨端架构与多端复用实践，有实际落地经验者优先；\n3.熟练掌握HTTP协议及网络通信原理，熟悉Retrofit、OkHttp、Ktor等网络框架的使用与封装，有弱网优化经验者优先；\n4.熟悉Jetpack组件（Compose、ViewModel、Room、Hilt等）及主流开发框架，具备良好的架构设计能力（MVVM/MVI等）；\n5.了解HarmonyOS开发（ArkTS、ArkUI、Stage模型），有鸿蒙实际项目经验者优先；\n6.具备良好的问题定位能力，熟练使用性能分析工具（Profiler、LeakCanary等），能独立完成从需求到上线的完整闭环；\n7.有良好的沟通能力和团队协作精神，学习能力强，对新技术保持热情。\n加分项\n有视频/直播类App开发经验，熟悉播放器（ExoPlayer/IjkPlayer等）集成与封装；\n有KMP跨端项目落地经验，或参与过Android/iOS/HarmonyOS多端方案设计；\n有HarmonyOS应用上架及适配经验，熟悉一次开发多端部署；\n有启动优化、内存优化、播放卡顿治理等专项经验。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "6286eaea8ef7",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/6147c7041d31a55f0nB53Nu1F1RR.html",
+      "title": "中级android开发工程师（AI方向）",
+      "company": "北京谦放科技有限公司",
+      "salary": "15-25K·14薪",
+      "location": "北京·朝阳区·柳芳",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责\n1. **产品功能落地**：负责公司 **To C 移动端产品**的 Android 客户端核心功能开发。\n2. **敏捷迭代复盘**：负责项目的模块化开发与日常维护，代码结构清晰，能适应 C 端产品**快速改版、高频测试**的⼩步快跑节奏。\n3. **基础体验优化**：负责 App 的⽇常性能调优（减少卡顿、优化内存、包体积瘦⾝），及时解决线上用户反馈的 Bug 和闪退问题，保障用户体验。\n4. **AI 提效探索**：在⽇常工作中高频使用 AI 辅助编程工具，用新技术主动重构自己的日常工作流。\n任职要求\n1. **经验资历**：2 - 3 年左右 Android 开发经验即可\n2. **AI 编程通感**：**日常是 Cursor、Claude、GitHub Copilot 等 AI 工具的高强度使用者**。\n3. **技术基本功**：熟练掌握 **Kotlin** 或 Java，熟悉 Android SDK 以及常用的 **Jetpack 组件**，懂得基本的网络和多线程开发，代码习惯良好。\n4. **C 端产品感觉**：做过 **To C 互联网产品（如工具、游戏、出海应用等）** 优先。\n5. **团队契合度**：小团队沟通扁平，希望你**务实、好沟通、责任心强**，遇到技术盲区不畏难，能主动通过 Google 或 AI 寻找最优解法。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "8a39419b5848",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/e9c4d0088d6285ef0nx-3Nm5GFpQ.html",
+      "title": "Android开发（GooglePlay上架）",
+      "company": "乐途原动力",
+      "salary": "20-30K·14薪",
+      "location": "北京·朝阳区·团结湖",
+      "exp": "经验不限",
+      "edu": "学历不限",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n1.负责Google Play应用上架，安卓包制作；\n2.负责安卓开发，接入第三方sdk、api；\n3.制定app上架策略，精通Google Play上架流程；\n4.对Google Play提审结果、过包量以及包体质量负责。\n任职要求：\n1.全日制学历，有1年以上海外APP上架经验优先；\n2.熟悉Google Play开发者协议，指导项⽬避免出现违规⾏为，并制定解决⽅案；\n3.熟悉Google Play审核包的制作和规避检测方法；\n4.熟悉Android打包原理，对源代码混淆和混入垃圾代码有深⼊理解；\n5.熟悉安卓打包原理，熟练掌握IO、多线程、集合等基础类库，熟悉互联网常用技术栈(如服务框架、缓存、消息队列、调度框架等)；\n6.有成熟上架游戏产品实操经验",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "a35bae3aeeb6",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/2258b47b9627f9c90nxz39m7EFVX.html",
+      "title": "大模型人工评测专家（移动端）",
+      "company": "中电金信",
+      "salary": "11-18K",
+      "location": "北京·朝阳区·太阳宫",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "移动端评测工程师画像\n负责移动端 App 的功能测试与版本验收，覆盖 iOS、Android、鸿蒙三端，保障多端行为一致性；\n依据产品规格编写测试用例与验收标准，执⾏回归测试并输出测试报告；\n负责真机与模拟器环境下的问题复现,熟练使⽤各端调试⼯具，Xcode、DevEco Studio等；\n跟踪多端差异（系统版本、机型适配、权限模型），建立并维护端侧差异检查清单；\n工作细致，对视觉还原、交互细节敏感，有验收标准把关经验\n岗位要求:移动端： 3年以上任意iOS、Android、鸿蒙三端中的⼀个开发经验",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "a131457ae947",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/d12d13a5dfe4573a0nBy3NW9FVtY.html",
+      "title": "安卓高级开发工程师",
+      "company": "北京薪之火智能科技",
+      "salary": "20-25K",
+      "location": "北京·海淀区·清河",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责: \n1. 主导Android客户端的架构设计与技术演进，制定中长期技术规划。 \n2. 负责核心功能模块的技术方案设计与代码质量把控，解决复杂技术问题。 \n3. 深入性能优化工作，提升应⽤流畅度、稳定性和系统兼容性。 \n4. 推动研发流程规范化，建⽴代码审查、CI/CD等⼯程实践标准。 \n5. 与产品、设计、后端团队紧密协作，保障高质量交付与业务目标对齐。 \n任职要求： \n1. 具备扎实的Android开发功底，熟练掌握Kotlin及现代Android开发技术栈。 \n2. 熟悉Jetpack组件、Compose等主流框架，能独⽴完成高性能模块开发。 \n3. 对Android系统原理有深入理解，具备疑难问题定位与性能调优能力。 \n4. 有良好的沟通协作能力，能够高效推动跨团队项目落地。 \n5. 具备较强的技术自驱力，持续关注行业新技术并推动实际应用。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "b7a4b29bee7b",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/480322f79f58d2c00nx82N61GFZT.html",
+      "title": "广告SDK Android开发工程师",
+      "company": "广推科技",
+      "salary": "25-50K·15薪",
+      "location": "北京·朝阳区·双井",
+      "exp": "经验不限",
+      "edu": "学历不限",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "【岗位职责】\n1、负责 Android 平台 广告SDK 的架构设计，开发和迭代\n2、深度参与产品需求分析和功能迭代\n3、监控 SDK 的性能，负责 SDK 的性能优化，确保其在各种设备和网络条件下的稳定性和效率\n4、进行高质量的软件开发和持续性能优化，优化SDK的集成流程\n5、通过性能优化和新技术应⽤等⼿段，不断提升产品的⽤户体验\n职位要求\n【任职要求】\n1、熟悉 Java 语言，了解虚拟机运行机制\n2、掌握 Android 开发平台及框架原理，熟悉 Android SDK 和 NDK ，熟悉 Android 平台体系结构，阅读过 Android 系统部分源码\n3、在数据结构、算法、⽹络、设计模式等方面拥有扎实的技术功底\n4、具备良好的分析、解决问题的能力，接受能力强，能很快学习和掌握新技术\n5、有良好的沟通能力，做过 to B 方向 SDK ，有对外沟通经验的优先\n6、有缩包、组件化、插件化等实战经验优先",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "abfcead32beb",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/2708b1b9c106abcc1HJ43tS7FlVU.html",
+      "title": "安卓app工程师（兼职）",
+      "company": "北京安宁公司",
+      "salary": "100-200元/时",
+      "location": "北京·海淀区·公主坟",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "工作周期：6个月\n每周工期：1-2天\n工作时间：不限\n工作时段：周末节假日\n结算方式：周结\n招聘截止时间：2024-08-05\n岗位职责：\n1、移动APP的设计与研发，构建高可靠性、高可扩展性的产品；\n2、技术点、技术难点的识别与攻关；\n3、完成公共组件、核心框架和代码的设计实现，完成相应文档编写；\n4、担当或配合项目经理，完成公司产品的开发；\n任职要求：\n1、5年以上移动研发全栈经验；\n2、能够驾驭安卓os所有开发工作；\n3、精通多语言，精通Linux、网络、数据库、中间件；\n4、有丰富的原生端、混合端开发经验；\n5、有鸿蒙研发经验；",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "b378109413b2",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/7732169db96392ba0nd53Ny1EVNX.html",
+      "title": "安卓开发工程师",
+      "company": "美育招聘",
+      "salary": "20-25K",
+      "location": "北京",
+      "exp": "5-10年",
+      "edu": "大专",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "职责描述：\n1.负责Android客户端的架构设计与开发工作，熟练运用 Kotlin 语言与 Jetpack 组件库，确保应用的⾼质量实现。\n2.基于产品设计和具体需求，独⽴完成基于Jetpack Compose的Android版本应⽤的开发与优化，提升用户体验。\n3.积极参与项目需求分析，与技术团队共同制定技术设计⽅案，利用 Jetpack 架构组件完善客户端功能。\n4.熟悉各类开发资源，能够独立承担并完成相关开发任务，解决 Kotlin 协程、Compose 性能优化等技术难题。\n5.根据项目要求，规范撰写相关技术文档，确保项目知识的有效传承。\n任职要求：\n1. 了解 Compose，有AI开发工具实际使用经验，没有的就不用投递了。\n2. 有独立开发经验，架构搭建经验。\n3.有较强参与初创项目意愿者优先。\n4.精通Android开发技术，熟练掌握 Kotlin 核心语法，UI交互、线程管理、系统调用、网络通信等复杂问题的处理。\n5.熟悉 Jetpack 生态和 Compose，熟悉自定义控件开发、动画效果实现，能够提升应用的交互性和视觉效果。\n6.具备良好的代码编写习惯，遵循技术文档编写规范，确保代码的可读性和可维护性。\n7.具备优秀的分析问题和解决问题的能力，能够在压力下保持高效工作。\n加分项：\n在 GitHub 社区活跃，拥有长期维护的个人作品、开源库或参与过知名开源项目者优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "e1f34a0f0218",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/682ef5da5f80e0100nZy3du0E1ZZ.html",
+      "title": "Android开发工程师（base成都）",
+      "company": "TestBird",
+      "salary": "15-25K·14薪",
+      "location": "北京·朝阳区·西坝河",
+      "exp": "3-5年",
+      "edu": "大专",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "高级Android技术能力要求：\n1.有独立开发Android App的能力\n2.熟练运⽤各类断点调试快速定位和解决问题\n3.熟悉Room, Retrofit，Glide等基础能⼒三⽅库\n4.熟悉kotlin各类特性，熟练使用Coroutine，Flow, Jetpack相关组件\n5.熟悉app混淆相关规则，App国际化\n6.能合理使用jadx等反编译⼯具进行竞品分析相关工作\n加分项： \n1. 视频播放器相关项目经验\n2. 海外Google上架项目开发经验， 多包开发经验\n3. 熟悉移动端广告相关流程概念",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "a2da7327cf89",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/95c4801a259b698b0nJ42d21FldT.html",
+      "title": "android高级工程师",
+      "company": "中信证券",
+      "salary": "15-30K·15薪",
+      "location": "北京·朝阳区·亮马桥",
+      "exp": "3-5年",
+      "edu": "硕士",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "【职位描述】\n1. 根据业务需求和技术演进需求，进行安卓客户端的开发和版本迭代；\n2. 进行关键技术方案选型和App架构设计；\n3. 进行安卓端的性能调优和技术难点攻关\n【⼯作地】\n北京\n【岗位要求】\n1.硕⼠研究⽣及以上学历,有3年以上工作经验\n2.具有扎实的编程功底，良好的设计能力和编程习惯，⾄少成功完成过一个中型及以上的Android应用程序；\n3.熟悉Java语言，深入理解Android系统结构和开发框架；\n4.熟练使用常用组件，并能够实现性能优良、可复用的组件；\n5.能熟练使用调试、性能分析工具来调试和优化代码；\n6.能够熟练运用常用设计模式到实际项目中来解决问题， 对于MVC/MVVM等架构有深刻的理解；\n7.学习能力强，有耐心，踏实肯干，工作积极主动，有较好的合作精神和服务意识，能承受较大的压力；\n8.有百万级日活APP设计、开发经验者优先；\n9.有鸿蒙开发经验者优先；",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "5d011b15e2c8",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/b83722299e7d0e150nx72NS-EVFX.html",
+      "title": "Android高级工程师",
+      "company": "北京博睿宏远",
+      "salary": "20-30K·13薪",
+      "location": "北京·东城区·东四",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责\n1. 负责公司 Android、HarmonyOS 平台及其他相关项目的设计、开发、维护与版本迭代。\n2. 参与移动端技术方案设计及重点问题攻关，持续提升相关产品的性能、稳定性与兼容性。\n3. 根据业务和项目需要承担其他相关研发工作，完成上级交办的任务。\n 任职要求\n1. 本科及以上学历，具备扎实的 Java 开发基础和丰富的 Android 平台开发经验，能够独⽴承担 Android SDK 的开发与维护；熟练掌握 ArkTS/TypeScript，具备 HarmonyOS SDK 实际开发能⼒。\n2. 深⼊理解 Android Framework，熟悉 Binder/AIDL、ServiceManager、ClassLoader、反射、动态代理、线程与消息机制、Window/View 事件分发等原理。\n3. 具备 ASM、AGP 等字节码插桩或编译期插件开发经验，能够设计低侵入的数据采集⽅案 。\n4. 熟悉主流网络库、WebView 或跨端框架中的至少一个方向，能够定位稳定的采集入口并处理多版本兼容问题。\n5. 具备 Xposed/LSPosed实战经验，实现过完整模块构建。\n6. 具备移动端性能和稳定性分析能力，能够定位 Crash、ANR/卡顿、死锁、内存泄漏、线程竞争及高资源占用问题。\n7. 熟悉 C/C++、JNI/NDK 或 HarmonyOS Node-API，能够完成跨语言接口开发和基础 Native 问题排查。\n8. 能够熟练使用 Perfetto、Android Studio Profiler、DevEco Profiler、dumpsys、bugreport 等工具进行问题分析。\n## 加分项\n1. 有 APM、监控、埋点、日志、广告或插件化 SDK 的研发交付经验。\n2. 独立编译过 Xposed/LSPosed 模块，并越过某些安全检测，有分析能力。\n3. 有 HarmonyOS 三方 SDK 从 0 到 1 建设和发布经验。\n4. 熟悉 Native Crash、Signal、ELF/DWARF、堆栈回溯、符号化或 Crashpad/Breakpad 等方案。\n5. 熟悉 ART Runtime、ArkTS Runtime、ArkCompiler、ABC 字节码或编译器相关技术。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "5d73e8b28854",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/465155ed9ca4c24a0nxy3tu-FFVT.html",
+      "title": "安卓应用开发专家（愿意考虑异地的来",
+      "company": "捷盈",
+      "salary": "30-45K·14薪",
+      "location": "北京",
+      "exp": "5-10年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位BASE上海 闵行区 \n岗位职责\n负责 App 产品的开发、维护与版本迭代，对交付质量负责。\n熟悉小程序、H5及PC中后台开发，借助 AI 具备多端适配、原生能力集成和优化的能⼒。\n推动多端能⼒统⼀、公共组件和工程化能力建设，提升代码复⽤率、可维护性与研发效率。\n负责性能与稳定性治理，持续优化启动速度、崩溃率、卡顿率、内存占用、包体积、可访问性及用户体验。\n主动识别业务与技术风险，参与技术方案评审、代码审查和疑难问题攻坚，推动问题闭环。\n持续探索 AI 在研发流程中的应用，沉淀可复用的工具、规范和最佳实践，通过技术分享和内部推广推动团队规模化应用。\n职位要求\n本科及以上学历，计算机、软件工程或相关专业，具备 5 年以上 Android 或移动端开发经验。\n精通 Kotlin，熟悉 Java，具备扎实的语言基础、面向对象设计能力和良好的编码习惯。\n深入理解 Android 应用开发体系，熟练掌握 Jetpack、Jetpack Compose、Android Framework及主流应用架构。\n深入理解协程、多线程、RxJava、View 绘制、事件分发、应用生命周期等 Android 核心机制。\n具备组件化、模块化、工程化建设经验，能够设计和落地公共组件、基础框架及研发效能工具。\n具备较强的性能与稳定性治理能力，能够独立定位并解决崩溃、ANR、卡顿、内存泄漏、启动缓慢、包体积及网络异常等问题。\n熟悉 Android 构建、测试与发布体系，掌握 Gradle、自动化测试、CI/CD、应用签名及版本发布流程。\n具备成熟的 AI 辅助研发能力，能够设计并落地 Agent、Skill、MCP Server、插件或自动化工作流，并对 AI 生成代码的质量和安全性负责。\n加分项\n有千万级用户 App、大型多端产品或复杂业务系统研发经验。\n熟悉 iOS、HarmonyOS 中任意一个平台。\n有可验证的 AI 工程产出者优先；能够清晰说明应用场景、个人贡献和实际效果。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "2bc332b88d55",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "harmonyos"
+      ],
+      "url": "/job_detail/b22a68d78cd10ef403Z-3921EldT.html",
+      "title": "安卓软件开发工程师",
+      "company": "中测新图",
+      "salary": "8-12K",
+      "location": "北京·海淀区·五棵松",
+      "exp": "1-3年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责：\n（1）负责android端相关的程序设计、开发、维护工作，主要负责基于GIS基础平台研发的应用软件。\n（2）进行项目重点、难点的技术攻坚，定制或扩展产品功能模块。\n（3）持续对已有产品进行代码的维护、优化，业务迭代等，提高产品质量和用户体验。\n（4）参与项目的需求分析，系统设计，编码实现以及测试和数据维护全过程，必要时除了应用研发外，需要进行需求分析、原型设计、技术选型等。\n（5）参与前沿技术的预研和应用，负责编写相关技术文档和用户手册。\n任职要求：\n（1） 计算机或地理信息相关专业本科以上学历，1年以上软件开发经验；\n（2）具有扎实的计算机基础，熟悉Android应用开发，包括Android框架、开发环境、生命周期、UI布局、核心组件、开发模式等。熟悉android应用程序的性能优化和调试技巧，具有良好的变成习惯，能够设计良好的代码结构，有鸿蒙应用开发工作经验者优先。\n（3） 具有扎实的Java基础，优秀的软件开发能力，熟悉网络通讯、数据库、多线程等。\n（4）有移动GIS相关的开发经验者优先，如Arcgis runtime SDK for Android 或 SuperMap iMobile for Android等的二次开发。\n（5）具有良好的沟通能力，团队合作能力。\n（6）有良好的问题分析和解决能力，逻辑清晰，遇到问题能快速定位并高效解决，能独立进行工作。\n（7）善于思考和钻研，能及时关注和学习业内最新的移动开发技术，对新技术有持续学习的意愿和能力。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "1759c2cf63aa",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/468d88e5f3b83a9403x73t6_EVNX.html",
+      "title": "Android高级开发工程师-北京",
+      "company": "阿里巴巴千问事业部",
+      "salary": "25-50K·16薪",
+      "location": "北京·朝阳区·来广营",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "1. 负责UC浏览器APP产品研发，保障产品稳定性与用户体验；\n2. 负责承担业务架构设计并能主导项目，确定关键技术解决方案；\n3. 独立解决业务中的疑难杂症，提⾼客户端的性能和稳定性；\n4. 对安卓应⽤开发新技术进⾏跟踪调研，并负责新技术产品化落地；\n5. 与产品、设计、服务端等团队紧密协作，推动需求高质量交付；\n职位要求\n1. 统招本科及以上学历，3年以上安卓应用开发经验，软件⼯程、计算机、通信相关专业，基础知识扎实，熟练掌握数据结构，网络等基础知识；良好的编码风格；\n2. 精通Kotlin、Java，熟悉常用设计模式，深入理解面向对象的设计思想；\n3. 精通UI开发，动画开发，熟练各种UI组件并了解其原理；\n4. 精通多线程、网络异步交互等功能的开发技术；\n5. 熟练使用常用图片、网络等框架，并能够进行问题排查和解决；\n6. 熟练Android性能分析工具，有UI卡顿、APP启动、内存、WebView等性能优化经验优先；\n7. 有良好的沟通表达能力，积极乐观；\n8. 有超级APP开发经验者优先；\n9. 有跨端技术经验（Flutter/React Native/KMP等）者优先；",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "b4680aab0a4f",
+      "primary_tab": "android",
+      "tabs": [
+        "android"
+      ],
+      "url": "/job_detail/ce5e543f37c8c3290nxz3Ni8ElVU.html",
+      "title": "android",
+      "company": "微创软件",
+      "salary": "12-18K",
+      "location": "北京·大兴区·亦庄",
+      "exp": "1-3年",
+      "edu": "本科",
+      "tags": [
+        "-K"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "客户端开发工程师（Android）\n职位描述：\n1. 负责车载端的Android 应用开发，解决客户项目交付中遇到的各种难点、痛点问题；\n2. 负责与各方沟通合作，参与车载端产品需求讨论，功能定义，产品体验优化等。\n职位要求：\n1. 本科及以上学历，计算机及其相关专业，Android三年以上⼯作经验，有车载端相关经验者优先；\n2. 熟练掌握 Java 和 Kotlin 语⾔，⾄少一年以上使用经验；\n3. 熟悉 Android Jetpack组件，MVVM架构，⼀年以上 Android UI 开发经验；\n4. 良好的设计和编码风格，热爱写代码能产出高质量的设计和代码；\n有良好的产品意识，积极乐观，认真负责，思路清晰，具备独立解决技术问题的能力；\n5. 有车载端Linux、QNX应用开发经验者优先。",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    },
+    {
+      "job_key": "46885d371e8e",
+      "primary_tab": "android",
+      "tabs": [
+        "android",
+        "recommend"
+      ],
+      "url": "/job_detail/7c785a377e5767ef0nZ82NW0F1ZV.html",
+      "title": "android开发",
+      "company": "音娱时光",
+      "salary": "25-35K·15薪",
+      "location": "北京·海淀区·学院路",
+      "exp": "3-5年",
+      "edu": "本科",
+      "tags": [
+        "-K·薪"
+      ],
+      "company_stage": null,
+      "company_size": null,
+      "company_industry": null,
+      "desc": "岗位职责:\n1. 负责Android平台应用的设计、开发与维护，确保代码质量与性能优化；\n2. 参与需求分析、系统架构设计及功能实现，保障项目按时高质量交付；\n3. 解决开发过程中的关键技术问题，持续优化应用稳定性与⽤户体验；\n4. 编写相关技术⽂档，规范开发流程与接口设计；\n5. 参与团队技术交流，推动团队技术⽔平提升；\n任职要求：\n1. 善于沟通协作，高效完成分配的开发任务；\n2. 具备良好的编程习惯和代码规范意识， 熟练掌握常见的数据结构基本算法；\n3. 熟悉Android开发技术体系，掌握主流开发框架和调试工具；\n4. 具备较强的问题分析与解决能⼒，深入理解移动端性能优化等核心技术；\n5. 拥有良好的学习能力，持续关注前沿技术及AI动态，熟悉AI Coding工具；",
+      "dup_of": null,
+      "group_role": null,
+      "dropped": false,
+      "period_status": null
+    }
+  ]
+}

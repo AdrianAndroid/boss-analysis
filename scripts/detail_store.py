@@ -9,11 +9,12 @@
 import hashlib
 import json
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATE = "2026-11-15"
-RAW = ROOT / "data" / "raw" / DATE
+sys.path.append(str(ROOT / "scripts"))
+from snapshot import DATE, RAW  # noqa: E402
 
 LIST_PATH = RAW / "list_merged.json"
 DETAIL_PATH = RAW / "jobs_detail.json"

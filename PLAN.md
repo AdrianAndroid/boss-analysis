@@ -77,6 +77,7 @@ boss-analysis/
 | 7 | Git 归档：init、首次提交、核对无敏感文件、关联私有仓库并推送 | 私有仓库远端 | pending | 提交记录、入库文件清单核对 |
 | 8 | AI/FDE 检索组调研：实测站内关键词检索 URL、关键词召回与噪声；固化配置与口径 | `config/search_groups.json`、`docs/ai_fde_research.md` | done | URL 规则已验证；FDE/Agent 岗位可见 |
 | 9 | AI/FDE 检索组全量采集与去噪：列表+详情采集，按 drop_rules 剔噪，FDE 分核心/相邻两层 | `data/raw/2026-11-15/lists/{ai_agent,fde}.json`、`data/processed/` | done | ai_agent 110、fde 148（核心 15 + 相邻 132）；空 JD/标题 0 |
+| 10 | 2026-11-18 复采快照：日期参数化（`snapshot.py` + `BOSS_DATE`），五组列表预筛后串行采详情，刷新全链路 | `data/raw/2026-11-18/`、`data/processed/2026-11-18/`、`reports/2026-11-18/` | done | 有效 454（ai_agent 242、fde 171、android 72、recommend 31、harmonyos 28）；空 JD/标题 0；跨期全量保留 |
 
 ## 六、进度记录机制（断点续作）
 

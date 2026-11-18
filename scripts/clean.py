@@ -14,11 +14,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.append(str(ROOT / "scripts"))
 from detail_store import make_job_key  # noqa: E402
-
-DATE = "2026-11-15"
-RAW = ROOT / "data" / "raw" / DATE
-PROC = ROOT / "data" / "processed" / DATE
-BY_SOURCE = PROC / "by_source"
+from snapshot import DATE, RAW, PROC, BY_SOURCE  # noqa: E402
 
 # 已知来源（tab / 检索组）；AI/FDE 目录待首次采集时由数据自动补入
 KNOWN_SOURCES = ["recommend", "harmonyos", "android", "ai_agent", "fde"]

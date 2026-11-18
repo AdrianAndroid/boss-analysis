@@ -9,13 +9,14 @@
 """
 import json
 import re
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATE = "2026-11-15"
-PROC = ROOT / "data" / "processed" / DATE
-REP = ROOT / "reports" / DATE
+sys.path.append(str(ROOT / "scripts"))
+from snapshot import DATE, PROC, REPORT  # noqa: E402
+REP = REPORT
 
 # 纯 ASCII 短词需词边界匹配，避免子串误命中（go/c/ai 等）
 BOUNDARY_WORDS = {"go", "c", "ai", "r", "sdk", "ndk", "rtc", "hal", "mcu", "qnx"}
@@ -124,10 +125,10 @@ def render_markdown(jobs, dictionary, result, growth):
     n = len(jobs)
     tab_n = {t: v["n"] for t, v in result["per_tab"].items()}
     lines = []
-    lines.append("# 岗位技能与需求分析报告（基线期）\n")
+    lines.append("# 岗位技能与需求分析报告\n")
     lines.append(f"- 采集日期：{DATE}　|　城市口径：北京　|　样本：去重后 **{n}** 个岗位")
     lines.append(f"- tab 命中（多对多）：" + "，".join(f"{k} {v}" for k, v in tab_n.items()))
-    lines.append("- 说明：本期为第一期基线，尚无历史期可比，环比/上升衰退列保留待第二期回填；薪资受字体反爬影响未纳入统计。")
+    lines.append("- 说明：本期为单期快照；与历史快照的环比需跨期汇总，本地链路单期不计算环比。薪资受字体反爬影响未纳入统计。")
     lines.append(f"- 采集状态：三 tab（recommend/harmonyos/android）与两个检索组（ai_agent/fde）合并采集，清洗去噪后 **{n}** 个唯一岗位。")
     lines.append("- 检索组口径：ai_agent 为 AI/大模型/Agent 研发岗；fde 分「核心 FDE」（标题含 FDE/前沿·前线部署）与「相邻交付/解决方案/部署岗」两层，纯销售、投资出版、芯片/FPGA 原型验证、纯客户成功商务岗已剔除。")
     lines.append("- 口径：关键词区分「岗位覆盖数」（命中岗位数）与「词频」（出现次数）；纯英文短词按词边界匹配。\n")
@@ -173,12 +174,12 @@ def render_markdown(jobs, dictionary, result, growth):
         lines.append("")
 
     # 需求趋势观察（基于本期样本，结论可回溯 desc）
-    lines.append("## 四、本期需求观察（基线）\n")
+    lines.append("## 四、本期需求观察\n")
     top = result["overall_top"][:10]
     lines.append("本期样本中覆盖度靠前的方向：" + "、".join(f"{k['keyword']}" for k in top) + "。")
     lines.append("- Android/鸿蒙客户端主线扎实：Java、Kotlin、ArkTS、Jetpack、Framework、性能与稳定性仍是硬门槛；跨端（Flutter、React Native、跨平台）与 AI/大模型（Agent、大模型、LLM、Prompt）渗透明显。")
     lines.append("- 推荐页偏综合与协作：团队协作、解决方案、团队管理、成本与跨部门沟通出现频次高，反映该 tab 混入资深/管理与复合岗。")
-    lines.append("\n> 注：趋势判断需结合第二期数据做环比；本期为首期全量基线。\n")
+    lines.append("\n> 注：趋势方向基于本期样本；跨期环比需结合历史快照汇总。\n")
     return "\n".join(lines)
 
 

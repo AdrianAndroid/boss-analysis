@@ -7,12 +7,13 @@ curriculum/skill_map.json。Schema 见 curriculum/skill_map.schema.json。
 """
 import json
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATE = "2026-11-15"
-REP = ROOT / "reports" / DATE
-PROC = ROOT / "data" / "processed" / DATE
+sys.path.append(str(ROOT / "scripts"))
+from snapshot import DATE, PROC, REPORT  # noqa: E402
+REP = REPORT
 CUR = ROOT / "curriculum"
 
 # 软技能/业务分组不进入硬技能教程主线，单独低优先级保留
