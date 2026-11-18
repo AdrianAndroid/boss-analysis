@@ -1,0 +1,295 @@
+# 移动端开发 → AI Agent / 大模型应用开发 转型路线
+
+> 口径：需求数据来自本仓库 `reports/2026-11-18/` 北京 242 个 AI/Agent 岗位 JD 的实测抽取（覆盖率 = 命中该技能的岗位数）。
+> 现状判定基于移动端开发背景（C++ / Rust / Kotlin / Flutter / Swift / 鸿蒙）。
+> 本文档目标：明确缺口、给出分阶段可实操路径与两个可落地项目，作为求职技能补齐的执行清单。
+
+## 一、目标岗位定位
+
+- **目标方向**：AI Agent / 大模型应用开发工程师（偏应用工程落地，不是算法模型训练岗）。
+- **典型工作内容**：接 LLM API、搭建 RAG 知识库、实现工具调用与多步 Agent、把智能体封装成可部署的后端服务。
+- **不要求**：从零训练/预训练大模型、推导 Transformer 数学、发论文；但需要懂模型能力边界、上下文窗口、Token 成本、延迟与稳定性。
+
+## 二、本期 JD 需求证据（AI/Agent 组，n=242）
+
+### 2.1 核心大模型 / Agent 栈
+
+| 技能项 | 覆盖岗位 | 占比 | 说明 |
+|---|---|---|---|
+| AI / 大模型 | 190 / 179 | 78% / 74% | 模型调用、上下文、Token、流式输出、模型选型 |
+| Agent / 智能体 | 173 / 72 | 71% / 30% | 多步规划、工具调用、记忆、工作流编排 |
+| LLM | 93 | 38% | 大语言模型接口与应用模式 |
+| Prompt 工程 | 78 | 32% | 结构化提示、约束、Few-shot、输出解析 |
+| RAG 检索增强 | 120 | 50% | 文档切分 → Embedding → 向量库 → 检索 → 重排 → 生成 |
+| 向量 / Embedding / 向量库 | 50 / 15 / 33 | 21% / 6% / 14% | 相似度召回；Milvus、Chroma、Pinecone 等 |
+| Function Calling / 工具调用 | 37 / 66 | 15% / 27% | 让模型接外部 API、数据库、脚本与业务工具 |
+| LangChain / LlamaIndex | 51 / 22 | 21% / 9% | 编排框架；也可用厂商原生 SDK 替代 |
+| MCP 协议 | 44 | 18% | 模型与外部工具/数据源的标准协议，新兴高频项 |
+| 多模态 | 65 | 27% | 图文、语音输入输出；应用岗以认知与接入为主 |
+
+### 2.2 工程与后端通用要求
+
+| 技能项 | 覆盖岗位 | 说明 |
+|---|---|---|
+| Python | 142 | 该方向第一语言；你的 C++/Rust/Kotlin 底子可平移，但需补 Python 工程化 |
+| 架构 / 性能 / 稳定性 | 119 / 109 / 82 | 方案设计、延迟与资源、线上稳定性，可迁移移动端经验 |
+| 分布式 / 数据库 | 68 / 58 | 服务拆分、缓存、上下文与会话存储 |
+| Go | 48 | 部分岗位使用，按目标 JD 选择性补，非首要 |
+| Docker / Redis | 27 / 22 | 容器化交付、缓存与会话 |
+| 全栈 | 30 | 前端轻交互 + 后端 + 模型链路贯通 |
+| C++ | 40 | 你的存量优势，在边缘端/高性能推理对接场景仍是加分项 |
+
+### 2.3 算法训练类（应用岗非必须）
+
+微调 53 岗、深度学习 32、机器学习 27、Transformer 20——出现在部分岗位描述里，但应用开发岗以「会用、懂边界」为主，不要求自己训练模型。优先级排在工程栈之后。
+
+## 三、现状盘点
+
+### 3.1 已有可直接迁移的底子
+
+| 现有能力 | 在 AI Agent 岗的复用点 |
+|---|---|
+| C++ / Kotlin / Swift 工程能力 | 代码质量、类型安全、错误处理、接口封装思维直接复用 |
+| 性能优化 / 稳定性 / Crash 卡顿定位 | 对应 Agent 服务的延迟、超时、降级、线上问题排查 |
+| SDK / Framework 封装经验 | 把模型链路、工具集封装成稳定 SDK 的思路一致 |
+| 跨端工程经验 | 理解端云协作、接口契约、异步回调 |
+| 跨部门协作与沟通 | 面向业务方把需求转成技术方案的软技能 |
+
+### 3.2 部分具备、需补到岗位水平
+
+- **数据库**：客户端 SQLite / 本地存储基础，需补服务端关系库、索引、缓存（Redis）、会话存储。
+- **后端服务**：客户端调用接口经验，需补 HTTP 服务端开发（FastAPI）、请求/响应模型、流式返回。
+- **Go**：有静态语言基础可快速转，但非首要，按目标 JD 再定。
+
+### 3.3 主要缺口（按优先级）
+
+1. **Python 工程化**：从语言级到写脚本、数据处理、API 调用链。
+2. **LLM 应用栈**：Prompt → RAG 全链路 → Function Calling/工具调用 → Agent 编排 → MCP。
+3. **后端与部署**：API 服务、缓存、异步流式、Docker 容器化。
+4. **大模型基础概念**：Token、上下文窗口、Embedding、Rerank、多模态能力边界。
+
+## 四、差距矩阵
+
+> 现状：已有 / 部分 / 待补；差距：低 / 中 / 高；阶段对应下文路线。
+
+| 技能项 | JD 覆盖 | 现状 | 差距 | 阶段 | 补齐动作 |
+|---|---|---|---|---|---|
+| Python 工程化 | 142 | 部分 | 中 | 1 | 掌握虚拟环境、包管理、异步、类型注解、常用数据处理；能独立写脚本与服务 |
+| 大模型 / LLM 基础概念 | 179 | 待补 | 高 | 1 | 搞清 Token、上下文窗口、温度、最大输出、流式、模型选型与成本 |
+| Prompt 工程 | 78 | 待补 | 高 | 1 | 结构化模板、角色/约束/示例、输出格式解析、错误重试 |
+| Agent / 智能体编排 | 173 | 待补 | 高 | 2 | 规划 → 工具 → 记忆 → 多步流转；区分单轮问答与多步任务 |
+| RAG 检索增强 | 120 | 待补 | 高 | 2 | 跑通切分→Embedding→入库→检索→重排→生成全链路 |
+| 向量检索 / Embedding | 50 | 待补 | 高 | 2 | 理解相似度召回、Top-K、阈值过滤；上手 Milvus 或 Chroma |
+| Function Calling / 工具调用 | 66 | 待补 | 高 | 2 | 定义工具 schema，模型决策调用，回填结果再生成 |
+| LangChain / LlamaIndex | 51 | 待补 | 中 | 2 | 用一个框架串起链路；知道何时用原生 SDK 更轻 |
+| MCP 协议 | 44 | 待补 | 中 | 2 | 接入一个 MCP 工具/数据源，理解标准工具接口形态 |
+| 多模态 | 65 | 部分 | 中 | 2 | 图文/语音输入输出的接入方式与适用场景 |
+| 后端 API 服务（FastAPI） | 30 | 部分 | 中 | 3 | 把 Agent 包成 HTTP 接口，含请求模型、流式响应、错误处理 |
+| 数据库 / Redis 缓存 | 58 / 22 | 部分 | 中 | 3 | 会话历史、上下文缓存、检索结果缓存的落地 |
+| 分布式 / 稳定性 | 68 | 部分 | 中 | 3 | 异步任务、限流、降级、超时、日志与监控意识 |
+| Docker 部署 | 27 | 待补 | 中 | 3 | 写 Dockerfile，本地容器化跑通服务 |
+| Go 语言 | 48 | 部分 | 低 | 3 | 按目标 JD 再补，不作为主线 |
+
+## 五、分阶段实操路线
+
+### 阶段 1：Python + LLM 调用 + Prompt（约 2–3 周）
+
+**目标**：能用 Python 调通大模型接口，写出可控、可解析的提示词。
+
+**学习项**
+- Python：虚拟环境（venv / uv）、依赖管理、类型注解、`asyncio` 基础、`requests`/`httpx`、JSON 处理、错误与重试。
+- LLM 接口范式：`messages` 结构（system / user / assistant）、参数（temperature、max_tokens、top_p）、流式 `stream`、Token 与上下文窗口、模型档位与成本。
+- Prompt 工程：角色与目标、约束与边界、输出格式（JSON / Markdown）、Few-shot 示例、让模型自我校验、解析失败兜底。
+
+**动手实验**
+1. 写一个命令行脚本，接入一家厂商的 OpenAI 兼容接口，完成多轮对话。
+2. 做一个「结构化抽取」小工具：输入一段 JD，按固定 JSON schema 抽出岗位名、要求技能、年限。
+3. 对比不同 temperature / 提示写法在同一问题上的输出稳定性，记录差异。
+
+**验收标准**
+- 能独立跑通多轮对话与流式输出；
+- 输出能稳定解析为结构化数据，异常时有兜底；
+- 能解释上下文窗口、Token、温度分别影响什么。
+
+### 阶段 2：RAG + 工具调用 + Agent 编排 + MCP（约 3–4 周）
+
+**目标**：搭出一个带检索和工具调用的多步 Agent。
+
+**学习项**
+- RAG 全链路：文档解析 → 文本切分（按语义/长度/重叠）→ Embedding → 向量库写入 → 相似度检索 → Top-K 与阈值 → （可选）Rerank → 拼上下文 → 生成答案。
+- Embedding 与向量：向量含义、余弦相似度、向量库选型（轻量 Chroma / 生产 Milvus）、召回质量评估。
+- Function Calling：工具名/参数 schema 定义、模型决策是否调用、入参填充、执行结果回填、继续生成。
+- Agent 编排：规划（任务拆解）→ 工具选择 → 观察结果 → 下一步；记忆（短期会话 / 长期检索）；循环终止条件。
+- 框架与协议：LangChain 或 LlamaIndex 的链路组装；MCP 标准工具接口形态。
+- 多模态：图片/语音接入方式与适用边界（了解即可）。
+
+**动手实验**
+1. 把一批 Markdown / PDF 文档入库，做语义检索问答，回答必须引用检索片段。
+2. 给 Agent 接 2–3 个工具（如检索内部资料、查天气/时间、做计算），让模型自主选择调用。
+3. 接一个 MCP 数据源或工具，跑通标准协议调用。
+
+**验收标准**
+- 能讲清 RAG 每一步为什么这么做、常见失效点（切分不当、召回不准、上下文污染）；
+- Agent 能根据问题自主选工具、回填结果并给出答案，有终止条件；
+- 知道框架与原生 SDK 各自适用场景。
+
+### 阶段 3：服务化 + 部署 + 工程稳定性（约 2–3 周）
+
+**目标**：把本地 Agent 变成可部署的后端服务。
+
+**学习项**
+- FastAPI：路由、请求/响应模型（Pydantic）、流式响应（SSE / streaming）、依赖注入、接口文档。
+- 缓存与会话：Redis 存会话历史与检索缓存；数据库存长期记忆与反馈。
+- 稳定性：超时、重试、限流、降级、日志、错误隔离；异步任务与阻塞调用分离。
+- Docker：Dockerfile 编写、本地构建运行、环境变量与配置分离。
+
+**动手实验**
+1. 把阶段 2 的 Agent 包成 FastAPI 服务，提供对话接口与流式返回。
+2. 接入 Redis 缓存会话与热点检索结果。
+3. 写 Dockerfile，容器内跑通服务。
+
+**验收标准**
+- 服务能被其他端/脚本调用，流式输出正常；
+- 有基本的错误处理、超时与日志；
+- 镜像可本地构建启动。
+
+### 阶段 4：项目沉淀与面试准备（持续）
+
+- 整理 1–2 个可演示项目（见第六节），写清架构图、数据流、技术选型理由、遇到的问题与取舍。
+- 简历措辞：从「移动端功能开发」转向「基于大模型的智能体应用落地」，突出 RAG、工具调用、服务化经验。
+- 面试准备：能白板讲清 RAG 链路、一次工具调用的完整时序、上下文/Token 成本控制、常见线上问题排查。
+
+## 六、两个可落地项目（实操骨架）
+
+### 项目 A：企业知识库 RAG 问答
+
+**定位**：面向一批内部文档的语义问答，答案需可追溯到原文片段。
+
+**建议目录结构**
+
+```
+rag-kb/
+├── app/
+│   ├── ingest.py        # 解析、切分、Embedding、入库
+│   ├── retrieve.py       # 向量检索 + 可选 Rerank
+│   ├── answer.py         # 拼上下文 + 调 LLM 生成
+│   └── main.py           # FastAPI 入口
+├── data/docs/            # 原始文档（Markdown/PDF）
+├── .env.example          # 接口地址与模型名（不提交真实密钥）
+└── requirements.txt
+```
+
+**关键链路骨架（伪代码，可按所选厂商 SDK 替换）**
+
+```python
+# ingest.py：文档切分 -> Embedding -> 入库
+def split(text, chunk_size=500, overlap=80):
+    chunks = []
+    for i in range(0, len(text), chunk_size - overlap):
+        chunks.append(text[i:i + chunk_size])
+    return chunks
+
+def ingest(docs):
+    for doc in docs:
+        for chunk in split(doc.text):
+            vec = embed(chunk)              # 调 Embedding 接口
+            vector_store.add(doc_id=doc.id, text=chunk, vector=vec)
+
+# retrieve.py：相似度检索 + Top-K 过滤
+def retrieve(query, top_k=5):
+    qvec = embed(query)
+    hits = vector_store.search(qvec, top_k=top_k)
+    return [h for h in hits if h.score > 0.75]
+
+# answer.py：拼上下文 -> 生成，要求引用片段
+def answer(question):
+    ctx = retrieve(question)
+    prompt = f"""
+    仅依据下面的资料回答问题；资料不足就说明无法回答。
+    资料：{ctx}
+    问题：{question}
+    """
+    return llm.chat(prompt, stream=True)
+```
+
+**自检点**
+- 召回不到相关片段时，模型不能编造；
+- 切分大小、重叠、Top-K、阈值可调，记录对效果的影响；
+- 答案标注引用来源文档与片段。
+
+### 项目 B：工具调用 Agent
+
+**定位**：模型自主判断是否调用工具、填充参数、回填结果继续回答。
+
+**工具 schema 示例**
+
+```python
+TOOLS = [
+    {
+        "name": "search_kb",
+        "description": "检索企业内部知识库",
+        "parameters": {
+            "type": "object",
+            "properties": {"query": {"type": "string", "description": "检索关键词"}},
+            "required": ["query"],
+        },
+    },
+    {
+        "name": "get_time",
+        "description": "获取当前时间",
+        "parameters": {"type": "object", "properties": {}},
+    },
+]
+
+def call_tool(name, args):
+    if name == "search_kb":
+        return retrieve(args["query"])
+    if name == "get_time":
+        return now().isoformat()
+    raise ValueError(name)
+```
+
+**多步循环骨架**
+
+```python
+def run_agent(question, max_steps=5):
+    messages = [{"role": "user", "content": question}]
+    for _ in range(max_steps):
+        resp = llm.chat(messages, tools=TOOLS)
+        if not resp.tool_calls:
+            return resp.content
+        for call in resp.tool_calls:
+            result = call_tool(call.name, call.args)
+            messages.append({"role": "tool", "content": str(result)})
+    return "达到最大步数，任务未完成。"
+```
+
+**自检点**
+- 工具参数解析失败时有重试或回退；
+- 有明确的最大步数与终止条件，避免死循环；
+- 工具执行异常不直接崩掉服务，转为可读错误返回。
+
+## 七、学习资源选型原则
+
+- **优先官方文档与开源示例**：所选 LLM 厂商的 API 文档、Embedding/向量库官方教程、框架官方 Quickstart；先跑通最小示例再扩功能。
+- **不绑定付费课程**：路线以可执行项目为驱动，遇到概念缺口再定点查资料。
+- **代码可复现**：每个实验都留在自己仓库，形成可展示的提交历史。
+
+## 八、验收 Checklist
+
+- [ ] 能用 Python 独立调通 LLM 多轮对话与流式输出
+- [ ] 能写出可稳定解析的结构化 Prompt
+- [ ] 跑通 RAG 全链路（切分→Embedding→入库→检索→生成）
+- [ ] 实现 Function Calling 工具调用与多步 Agent 循环
+- [ ] 接通过一个 MCP 工具/数据源
+- [ ] Agent 封装为 FastAPI 服务，支持流式返回
+- [ ] 接入 Redis 缓存会话/检索结果
+- [ ] 写出 Dockerfile 并本地容器化跑通
+- [ ] 沉淀 1–2 个带架构说明的可演示项目
+- [ ] 能白板讲清 RAG 链路、工具调用时序、成本与稳定性取舍
+
+## 九、风险与边界
+
+- **样本局限**：本期 AI/Agent 组 242 岗，三 tab 对照样本偏少；具体岗位硬门槛以目标 JD 原文为准。
+- **术语差异**：不同公司对「Agent / FDE / 解决方案工程师」职责划分不同，投递前逐条核对 JD。
+- **不越界承诺**：应用开发岗不需要模型训练能力；若目标是算法岗，需另补深度学习与论文实践路线。

@@ -78,6 +78,27 @@ def main():
         })
     high.sort(key=lambda x: x["demand_count"], reverse=True)
 
+    # 移动端 -> AI Agent 差距对照（现状判定基于移动端背景；覆盖数取自本期 AI/Agent 组 JD 实测）
+    gap = [
+        {"skill": "C++ / Kotlin / Swift 工程", "cover": 40, "status": "已有", "gap": "低", "phase": "可迁移", "action": "类型安全、错误处理、接口封装思维直接复用"},
+        {"skill": "性能优化 / 稳定性", "cover": 109, "status": "已有", "gap": "低", "phase": "可迁移", "action": "对应服务延迟、超时、降级与线上排障"},
+        {"skill": "Python 工程化", "cover": 142, "status": "部分", "gap": "中", "phase": "阶段1", "action": "虚拟环境、包管理、异步、类型注解、脚本与服务"},
+        {"skill": "大模型 / LLM 基础概念", "cover": 179, "status": "待补", "gap": "高", "phase": "阶段1", "action": "Token、上下文窗口、温度、流式、模型选型与成本"},
+        {"skill": "Prompt 工程", "cover": 78, "status": "待补", "gap": "高", "phase": "阶段1", "action": "结构化模板、约束、Few-shot、输出解析与兜底"},
+        {"skill": "Agent / 智能体编排", "cover": 173, "status": "待补", "gap": "高", "phase": "阶段2", "action": "规划→工具→记忆→多步流转与终止条件"},
+        {"skill": "RAG 检索增强", "cover": 120, "status": "待补", "gap": "高", "phase": "阶段2", "action": "切分→Embedding→入库→检索→重排→生成全链路"},
+        {"skill": "向量检索 / Embedding", "cover": 50, "status": "待补", "gap": "高", "phase": "阶段2", "action": "相似度召回、Top-K、阈值；上手 Chroma / Milvus"},
+        {"skill": "Function Calling / 工具调用", "cover": 66, "status": "待补", "gap": "高", "phase": "阶段2", "action": "工具 schema、模型决策调用、结果回填再生成"},
+        {"skill": "LangChain / LlamaIndex", "cover": 51, "status": "待补", "gap": "中", "phase": "阶段2", "action": "用框架串链路；知道何时用原生 SDK 更轻"},
+        {"skill": "MCP 协议", "cover": 44, "status": "待补", "gap": "中", "phase": "阶段2", "action": "接入标准工具/数据源，理解标准工具接口形态"},
+        {"skill": "多模态", "cover": 65, "status": "部分", "gap": "中", "phase": "阶段2", "action": "图文/语音接入方式与适用边界"},
+        {"skill": "后端 API 服务（FastAPI）", "cover": 30, "status": "部分", "gap": "中", "phase": "阶段3", "action": "把 Agent 包成 HTTP 接口，含模型校验与流式返回"},
+        {"skill": "数据库 / Redis 缓存", "cover": 58, "status": "部分", "gap": "中", "phase": "阶段3", "action": "会话历史、上下文与检索结果缓存落地"},
+        {"skill": "分布式 / 稳定性", "cover": 68, "status": "部分", "gap": "中", "phase": "阶段3", "action": "异步、限流、降级、超时、日志与监控"},
+        {"skill": "Docker 部署", "cover": 27, "status": "待补", "gap": "中", "phase": "阶段3", "action": "写 Dockerfile，本地容器化跑通服务"},
+        {"skill": "Go 语言", "cover": 48, "status": "部分", "gap": "低", "phase": "阶段3", "action": "按目标 JD 选择性补，非首要主线"},
+    ]
+
     # 岗位明细（仅去重后，剔除薪资噪音标签）
     jobs = []
     for r in clean.get("records", []):
@@ -109,6 +130,7 @@ def main():
         "categories": categories,
         "top_skills": top_skills,
         "high": high,
+        "gap": gap,
         "jobs": jobs,
         "growth": {"items": growth.get("items", []), "extra": growth.get("extra", "")},
     }
@@ -192,6 +214,18 @@ a.job-link:hover .job-title{color:var(--accent)}
 .high-card .stats{margin-top:8px;display:flex;gap:16px;font-size:13px;color:var(--ink-2)}
 .high-card .stats b{color:var(--ink);font-variant-numeric:tabular-nums}
 .high-card .pre{margin-top:8px;font-size:12.5px;color:var(--ink-3)}
+/* 差距对照 */
+.badge{display:inline-block;border-radius:6px;padding:2px 9px;font-size:12px;white-space:nowrap}
+.badge.have{background:#E7F2EC;color:var(--green)}
+.badge.part{background:var(--amber-soft);color:var(--amber)}
+.badge.miss{background:#FBECEC;color:#B23A3A}
+.badge.gap-high{background:#FBECEC;color:#B23A3A}
+.badge.gap-mid{background:var(--amber-soft);color:var(--amber)}
+.badge.gap-low{background:#E7F2EC;color:var(--green)}
+.gap-phase{font-size:12px;color:var(--ink-3);white-space:nowrap}
+.gap-action{color:var(--ink-2);font-size:13px}
+.gap-summary{display:flex;flex-wrap:wrap;gap:16px;margin-bottom:14px;font-size:13px;color:var(--ink-2)}
+.gap-summary b{color:var(--ink);font-variant-numeric:tabular-nums}
 /* 增速 */
 .growth-row{display:grid;grid-template-columns:170px 1fr 110px;gap:12px;align-items:center;padding:9px 0;border-top:1px solid var(--line-soft)}
 .growth-row:first-of-type{border-top:none}
@@ -256,6 +290,17 @@ footer{margin-top:30px;color:var(--ink-3);font-size:12.5px;line-height:1.7}
     <h2>高优待学清单</h2>
     <div class="hint">需求度最高的优先技能，可作为学习路线起点；前置技能用于安排先后顺序。</div>
     <div class="high-grid" id="high-grid"></div>
+  </section>
+
+  <section>
+    <h2>移动端 → AI Agent 差距对照</h2>
+    <div class="hint">现状基于移动端开发背景判定；覆盖数为本期 AI/Agent 组 JD 实测命中岗位数；阶段对应路线文档 curriculum/ai_agent_transition_roadmap.md。</div>
+    <div class="gap-summary" id="gap-summary"></div>
+    <table>
+      <colgroup><col><col style="width:90px" class="num"><col style="width:80px"><col style="width:70px"><col style="width:90px"><col></colgroup>
+      <thead><tr><th>技能项</th><th class="num">覆盖岗位</th><th>现状</th><th>差距</th><th>阶段</th><th>补齐动作</th></tr></thead>
+      <tbody id="gap-rows"></tbody>
+    </table>
   </section>
 
   <section>
@@ -362,6 +407,26 @@ window.renderSkills=renderSkills;
       <div class="stats"><span>覆盖 <b>${fmt(h.demand_count)}</b> 岗</span><span>词频 <b>${fmt(h.freq)}</b></span></div>
       ${h.prerequisites&&h.prerequisites.length?`<div class="pre">前置：${h.prerequisites.join("、")}</div>`:""}
     </div>`).join("");
+})();
+
+/* 差距对照 */
+(function(){
+  const rows=DATA.gap||[];
+  const stCls={"已有":"have","部分":"part","待补":"miss"};
+  const gpCls={"高":"gap-high","中":"gap-mid","低":"gap-low"};
+  const cnt=s=>rows.filter(r=>r.status===s).length;
+  const high=rows.filter(r=>r.gap==="高").length;
+  document.getElementById("gap-summary").innerHTML=
+    `<span>已有可迁移 <b>${cnt("已有")}</b></span><span>部分具备 <b>${cnt("部分")}</b></span><span>待补 <b>${cnt("待补")}</b></span><span>高差距项 <b>${high}</b></span>`;
+  document.getElementById("gap-rows").innerHTML=rows.map(r=>`
+    <tr>
+      <td class="job-title">${r.skill}</td>
+      <td class="num">${fmt(r.cover)}</td>
+      <td><span class="badge ${stCls[r.status]||"part"}">${r.status}</span></td>
+      <td><span class="badge ${gpCls[r.gap]||"gap-mid"}">${r.gap}</span></td>
+      <td class="gap-phase">${r.phase}</td>
+      <td class="gap-action">${r.action}</td>
+    </tr>`).join("");
 })();
 
 /* 岗位明细 */
