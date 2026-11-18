@@ -16,6 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.append(str(ROOT / "scripts"))
 from snapshot import DATE, PROC, REPORT  # noqa: E402
+from build_md_html import render as render_md_html  # noqa: E402
 REP = REPORT
 
 # 纯 ASCII 短词需词边界匹配，避免子串误命中（go/c/ai 等）
@@ -193,8 +194,9 @@ def main():
     json.dump({"date": DATE, "sample": len(jobs), "result": result},
               open(REP / "analysis.json", "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
-    md = render_markdown(jobs, dictionary, result, growth)
-    open(REP / "岗位技能分析报告.md", "w", encoding="utf-8").write(md)
+    md_path = REP / "岗位技能分析报告.md"
+    md_path.write_text(md, encoding="utf-8")
+    render_md_html(md_path)
 
     print(f"分析完成: {len(jobs)} 岗位")
     print("总体 TOP10:", [(k["keyword"], k["cover"]) for k in result["overall_top"][:10]])

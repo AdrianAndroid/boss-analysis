@@ -294,7 +294,7 @@ footer{margin-top:30px;color:var(--ink-3);font-size:12.5px;line-height:1.7}
 
   <section>
     <h2>移动端 → AI Agent 差距对照</h2>
-    <div class="hint">现状基于移动端开发背景判定；覆盖数为本期 AI/Agent 组 JD 实测命中岗位数；阶段对应路线文档 curriculum/ai_agent_transition_roadmap.md。</div>
+    <div class="hint">现状基于移动端开发背景判定；覆盖数为本期 AI/Agent 组 JD 实测命中岗位数；阶段对应<a href="../../curriculum/ai_agent_transition_roadmap.html">转型路线文档</a>。</div>
     <div class="gap-summary" id="gap-summary"></div>
     <table>
       <colgroup><col><col style="width:90px" class="num"><col style="width:80px"><col style="width:70px"><col style="width:90px"><col></colgroup>
