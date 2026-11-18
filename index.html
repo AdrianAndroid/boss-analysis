@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BOSS 岗位技能需求快照</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%232563A8'/%3E%3Cpath d='M7 15l3.5-4 3 3L17 9' stroke='white' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+  :root{
+    --accent:#2563A8; --accent-soft:#E8F0F9;
+    --bg:#F5F6F8; --card:#FFFFFF; --ink:#1A1D23; --muted:#5B616B; --faint:#8A9099;
+    --line:#E6E8EC; --line-soft:#EEF0F3; --radius:12px;
+    --shadow:0 1px 2px rgba(20,24,32,.06),0 4px 14px rgba(20,24,32,.05);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;line-height:1.6;padding:32px 20px 56px}
+  .wrap{max-width:920px;margin:0 auto}
+  header h1{font-size:26px;font-weight:700;letter-spacing:.01em}
+  header p{margin-top:8px;color:var(--muted);font-size:15px}
+  .meta-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+  .pill{background:var(--card);border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:13px;color:var(--muted)}
+  .overview{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:28px 0}
+  .stat{background:var(--card);border:1px solid var(--line-soft);border-radius:var(--radius);padding:18px 16px;box-shadow:var(--shadow)}
+  .stat .num{font-size:28px;font-weight:700;font-variant-numeric:tabular-nums}
+  .stat .lbl{margin-top:4px;font-size:13px;color:var(--faint)}
+  .cards{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+  .card{background:var(--card);border:1px solid var(--line-soft);border-radius:var(--radius);padding:22px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:14px}
+  .card.latest{border-color:var(--accent);border-width:1px}
+  .card-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
+  .card-head .date{font-size:18px;font-weight:700}
+  .tag{font-size:12px;color:var(--accent);background:var(--accent-soft);border-radius:6px;padding:3px 9px}
+  .card .sample{font-size:14px;color:var(--muted)}
+  .card .sample b{color:var(--ink);font-variant-numeric:tabular-nums}
+  .links{display:flex;flex-direction:column;gap:10px;margin-top:auto}
+  .links a{display:inline-flex;align-items:center;justify-content:space-between;gap:10px;text-decoration:none;color:var(--ink);border:1px solid var(--line);border-radius:10px;padding:12px 14px;font-size:14px;transition:border-color .15s,background .15s}
+  .links a:hover{border-color:var(--accent);background:var(--accent-soft)}
+  .links a .arrow{color:var(--faint)}
+  footer{margin-top:32px;padding-top:20px;border-top:1px solid var(--line);color:var(--faint);font-size:13px;display:flex;flex-direction:column;gap:6px}
+  @media (max-width:680px){
+    .overview{grid-template-columns:repeat(2,1fr)}
+    .cards{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>BOSS 岗位技能需求快照</h1>
+    <p>北京 · 公开岗位 JD 采集与技能分析；每期独立快照，跨期不物理合并，单期不计算环比。</p>
+    <div class="meta-row">
+      <span class="pill">城市口径：北京</span>
+      <span class="pill">分组：AI / Agent · FDE · Android · 鸿蒙 · 推荐</span>
+      <span class="pill">数据来源：BOSS 直聘公开岗位页</span>
+    </div>
+  </header>
+
+  <section class="overview" aria-label="本期概览">
+    <div class="stat"><div class="num">454</div><div class="lbl">有效岗位（去重后）</div></div>
+    <div class="stat"><div class="num">123</div><div class="lbl">识别技能词</div></div>
+    <div class="stat"><div class="num">26</div><div class="lbl">高优待学技能</div></div>
+    <div class="stat"><div class="num">9</div><div class="lbl">技能大类</div></div>
+  </section>
+
+  <section class="cards">
+    <article class="card latest">
+      <div class="card-head">
+        <span class="date">2026-11-18</span>
+        <span class="tag">最新快照</span>
+      </div>
+      <div class="sample">有效岗位 <b>454</b> 个：AI/Agent 242 · FDE 171 · Android 72 · 推荐 31 · 鸿蒙 28</div>
+      <div class="links">
+        <a href="reports/2026-11-18/岗位技能看板.html">岗位技能看板<span class="arrow">→</span></a>
+        <a href="reports/2026-11-18/岗位技能分析报告.md">技能分析报告（Markdown）<span class="arrow">→</span></a>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head">
+        <span class="date">2026-11-15</span>
+      </div>
+      <div class="sample">有效岗位 <b>1308</b> 个：首期全量基线快照</div>
+      <div class="links">
+        <a href="reports/2026-11-15/岗位技能看板.html">岗位技能看板<span class="arrow">→</span></a>
+        <a href="reports/2026-11-15/岗位技能分析报告.md">技能分析报告（Markdown）<span class="arrow">→</span></a>
+      </div>
+    </article>
+  </section>
+
+  <footer>
+    <span>说明：报告为大类覆盖与高频词结论；具体岗位硬门槛以看板内原始 JD 为准。薪资受平台字体反爬影响未纳入统计。</span>
+    <span>本仓库仅归档公开岗位信息用于个人求职技能分析，不投递、不触达招聘方。</span>
+  </footer>
+</div>
+</body>
+</html>
